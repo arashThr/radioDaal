@@ -1,8 +1,14 @@
 .intro {
-    background: rgba(0,0,0,0.05);
+    background: rgba(106,158,180,0.2);
     padding: 40px 24px 48px;
 }
 
 .center {
     text-align: center;
+}
+
+.image-line {
+    display: flex;
+    justify-content:
+    space-around; flex-wrap: wrap;
 }
