@@ -1,5 +1,7 @@
 .intro {
-    background: rgba(106,158,180,0.2);
+    /*background: rgba(0,0,0,0.05);*/
+    /*background: rgba(106,158,180,0.2);*/
+    background: rgba(170,117,159,0.3);
     padding: 40px 24px 48px;
 }
 
