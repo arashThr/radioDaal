@@ -1,6 +1,10 @@
 ![RadioDaal](https://raw.githubusercontent.com/behnum/radioDaal/master/public/img/radiodaal-logo-en.png)
 
-# رادیو دال
+You can find the source of these files in [RadioDaal-Jekyll](https://github.com/arashThr/radioDaal-jekyll) repo.
+
+<div dir="rtl">
+
+# [رادیو دال](https://arashthr.github.io/radioDaal/)
 وب سایت رادیو دال، پادکست فارسی درباره مهاجرت، کار و زندگی.
 
 # درباره رادیو دال
@@ -17,4 +21,6 @@
 ممنون میشم اگر بین دوستان کسی هست که در زمینه طراحی مهارتی داره با من تماس بگیره تا بتونیم یه کم رنگ و لعاب بیشتری به پادکست اضافه کنیم.
 
 # تماس
-پیشنهادات، نظرات و سوالات خودتون رو می‌تونید از طریق [تلگرام](https://t.me/radioDaalBot) و یا ایمیل برای من بفرستید.
+پیشنهادات، نظرات و سوالات خودتون رو می‌تونید از طریق [تلگرام](https://t.me/radioDaalBot) و یا [ایمیل](radioDaal@outlook.com) برای من بفرستید.
+
+</div>
