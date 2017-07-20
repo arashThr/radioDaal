@@ -1,0 +1,28 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           :slug
+
+# Setup
+title:               'رادیو دال'
+tagline:             'گپ و گفتمانی خودمانی از تجربه‌ها'
+description:         'گپ و گفتمانی خودمانی با موضوع مهاجرت، تحصیل و کار<br>
+به چالش کشیدن فکرکردنی‌های فکرنشده'
+url:                 https://arashthr.github.io
+baseurl:             '/radioDaal'
+paginate: 5
+
+# About/contact
+author:
+  name:              Arash
+  url:               https://t.me/radioDaalBot
+  email:             radioDaal@outlook.com
+
+# Custom vars
+version:             1.0.0
+
+gems:
+    - jekyll-paginate
+    - jalalidate
+
+destination: doc
