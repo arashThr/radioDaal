@@ -25,4 +25,4 @@ gems:
     - jekyll-paginate
     - jalalidate
 
-destination: doc
+destination: docs
