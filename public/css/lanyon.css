@@ -146,7 +146,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48rem) {
   .masthead-title {
-    text-align: center;
+     text-align: center; 
+  }
+  .masthead-title img {
+    margin-left: auto;
+    margin-right: auto;
   }
   .masthead-title small {
     display: none;
