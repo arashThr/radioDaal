@@ -15,7 +15,7 @@
 .gi { background-color: #CCFFCC; border: 1px solid #00CC00 } /* Generic.Inserted */
 .go { color: #AAAAAA } /* Generic.Output */
 .gp { color: #000099; } /* Generic.Prompt */
-.gs { } /* Generic.Strong */
+/* .gs { } /* Generic.Strong */
 .gu { color: #003300; } /* Generic.Subheading */
 .gt { color: #99CC66 } /* Generic.Traceback */
 .kc { color: #006699; } /* Keyword.Constant */
