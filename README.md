@@ -1,4 +1,4 @@
-![RadioDaal](https://raw.githubusercontent.com/behnum/radioDaal/master/public/img/radiodaal-logo-en.png)
+![RadioDaal](https://raw.githubusercontent.com/behnum/radioDaal/master/public/img/radiodaal-en-logo.png)
 
 You can find the source of these files in [RadioDaal-Jekyll](https://github.com/arashThr/radioDaal-jekyll) repo.
 
