@@ -148,6 +148,10 @@ h1, h2, h3, h4, h5, h6 {
   .masthead-title {
     text-align: center;
   }
+  .masthead-title img {
+    margin-left: auto;
+    margin-right: auto;
+  }
   .masthead-title small {
     display: none;
   }
