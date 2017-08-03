@@ -6,13 +6,13 @@ title: 'مسیح و میلان'
 و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.  
 توی این قسمت به پیتزاهای ایتالیایی و زیر آب زنی وطنی پرداختیم و نیم نگاهی به این موضوع داشتیم که شرایط دانشگاه و چارچوب درسی‌اش چقدر می‌تونه مهم باشه.
 
-برای گوش دادن به این قسمت می‌تونید دو نسخه با کیفیت بالا و حجم کم رو مستقیما از [اینجا](http://bit.ly/daal-06) دانلود کنید یا اینکه توی کانال [رادیو دال](https://telegram.me/radioDaal) در تلگرام عضو شد.
+برای گوش دادن به این قسمت می‌تونید دو نسخه با کیفیت بالا و حجم کم رو مستقیما از [اینجا](http://bit.ly/daal-06) دانلود کنید یا اینکه توی کانال [رادیو دال](https://telegram.me/radioDaal) در تلگرام عضو شید.
 
-<!--![img](/radioDaal/public/img/MySelf.jpg width="200" height="200")-->
+
 <div class="image-line">
-<img src="/radioDaal/public/img/masih/1.jpg" width="200" height="200">
-<img src="/radioDaal/public/img/masih/2.jpg" width="200" height="200">
-<img src="/radioDaal/public/img/masih/3.jpg" width="200" height="200">
+<img src="{{ site.baseurl }}/public/img/masih/1.jpg" width="200" height="200">
+<img src="{{ site.baseurl }}/public/img/masih/2.jpg" width="200" height="200">
+<img src="{{ site.baseurl }}/public/img/masih/3.jpg" width="200" height="200">
 </div>
 
 **بخش اول**
