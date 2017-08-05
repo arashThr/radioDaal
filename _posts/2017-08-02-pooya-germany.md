@@ -6,6 +6,7 @@ length: "23299459" #filesize in byte
 summary: 'قسمت نه از رادیو دال: صحبت با پویا از آلمان'
 excerpt: 'در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.'
 explicit: "no"
+file: 'https://archive.org/download/daal-09/Ep09-Pooya_Germany_low.mp3'
 keywords:
     مهاجرت
     آلمان
@@ -71,6 +72,8 @@ keywords:
 - آیا در مسیر درست حرکت می‌کنیم ؟
 
 <hr>
+
+<iframe src="https://archive.org/embed/daal-09" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <small>
 کلیپی که در ابتدای قسمت قرار داره از سریال [Rick and Morty](https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%DA%A9_%D9%88_%D9%85%D9%88%D8%B1%D8%AA%DB%8C) است.  
