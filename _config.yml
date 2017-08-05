@@ -6,15 +6,17 @@ permalink:           :slug
 # Setup
 title:               'رادیو دال'
 tagline:             'گپ و گفتمانی خودمانی از تجربه‌ها'
-description:         'گپ و گفتمانی خودمانی با موضوع مهاجرت، تحصیل و کار<br>
-به چالش کشیدن فکرکردنی‌های فکرنشده'
+description:         'گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده'
+subtitle:            'مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟'
 url:                 https://arashthr.github.io
 baseurl:             '/radioDaal'
 paginate: 5
+lang:                'IR-fa'
+copyright:           "&#x2117; &amp; &#xA9; 2017"
 
 # About/contact
 author:
-  name:              Arash
+  name:              Arash Thr
   url:               https://t.me/radioDaalBot
   email:             radioDaal@outlook.com
 
