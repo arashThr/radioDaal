@@ -7,7 +7,7 @@ layout: null
 	<channel>
 		<atom:link href="{{ site.url }}{{ site.baseurl }}/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
-		<description>{{ site.description | xml_escape }}</description>
+		<description>{{ site.podcastdescription | xml_escape }}</description>
 		<link>{{ site.url }}{{ site.baseurl }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
@@ -20,7 +20,7 @@ layout: null
 			<url>{{ site.url }}{{ site.baseurl }}/public/img/itunes.png</url>
 			<title>{{ site.title }}</title>
 		</image>
-		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+		<itunes:subtitle>{{ site.podcastsubtitle | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.author }}</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>

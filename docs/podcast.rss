@@ -3,20 +3,20 @@
 	<channel>
 		<atom:link href="https://arashthr.github.io/radioDaal/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال</title>
-		<description>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</description>
+		<description>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به مهاجرت و کار و زندگی سوال بپرسم، خب چرا حرفها و تجربیاتشون رو با بقیه به اشتراک نذارم؟</description>
 		<link>https://arashthr.github.io/radioDaal</link>
 		<language>fa</language>
 		<managingEditor> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</managingEditor>
 		<webMaster> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Sat, 05 Aug 2017 22:45:28 +0430</pubDate>
-		<lastBuildDate>Sat, 05 Aug 2017 22:45:28 +0430</lastBuildDate>
+		<pubDate>Sat, 05 Aug 2017 23:27:42 +0430</pubDate>
+		<lastBuildDate>Sat, 05 Aug 2017 23:27:42 +0430</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.png</url>
 			<title>رادیو دال</title>
 		</image>
-		<itunes:subtitle>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:subtitle>
+		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
 		<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
 		<itunes:summary>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:summary>
 		<itunes:keywords></itunes:keywords>
