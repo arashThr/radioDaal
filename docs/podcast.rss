@@ -9,8 +9,8 @@
 		<managingEditor> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</managingEditor>
 		<webMaster> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Sat, 05 Aug 2017 22:21:00 +0430</pubDate>
-		<lastBuildDate>Sat, 05 Aug 2017 22:21:00 +0430</lastBuildDate>
+		<pubDate>Sat, 05 Aug 2017 22:26:25 +0430</pubDate>
+		<lastBuildDate>Sat, 05 Aug 2017 22:26:25 +0430</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.png</url>
@@ -42,7 +42,7 @@
 				<pubDate>Wed, 02 Aug 2017 00:00:00 +0430</pubDate>
 				<description>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/pooya-germany</guid>
-				<enclosure url="http:https://ia801501.us.archive.org/0/items/daal-09/Ep09-Pooya,%20Germany_low.mp3" length="23299459" type="audio/mp3"/>
+				<enclosure url="http:https%3A//ia801501.us.archive.org/0/items/daal-09/Ep09-Pooya%2C%2520Germany_low.mp3" length="23299459" type="audio/mp3"/>
 				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
 				<itunes:subtitle>رادیو دال: پویا و آلمان</itunes:subtitle>
 				<itunes:summary>قسمت نه از رادیو دال: صحبت با پویا از آلمان</itunes:summary>
