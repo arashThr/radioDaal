@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fa">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="IR-fa">
 	<channel>
 		<atom:link href="https://arashthr.github.io/radioDaal/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال</title>
-		<description>گپ و گفتمانی خودمانی با موضوع مهاجرت، تحصیل و کار&lt;br&gt; به چالش کشیدن فکرکردنی‌های فکرنشده</description>
+		<description>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</description>
 		<link>https://arashthr.github.io/radioDaal</link>
-		<language>fa</language>
+		<language>IR-fa</language>
 		<managingEditor> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</managingEditor>
 		<webMaster> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Sat, 05 Aug 2017 22:28:27 +0430</pubDate>
-		<lastBuildDate>Sat, 05 Aug 2017 22:28:27 +0430</lastBuildDate>
+		<pubDate>Sat, 05 Aug 2017 22:34:12 +0430</pubDate>
+		<lastBuildDate>Sat, 05 Aug 2017 22:34:12 +0430</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.png</url>
 			<title>رادیو دال</title>
 		</image>
-		<itunes:subtitle>گپ و گفتمانی خودمانی با موضوع مهاجرت، تحصیل و کار&lt;br&gt; به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:subtitle>
+		<itunes:subtitle>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:subtitle>
 		<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
-		<itunes:summary>گپ و گفتمانی خودمانی با موضوع مهاجرت، تحصیل و کار&lt;br&gt; به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:summary>
+		<itunes:summary>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:summary>
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
 			<itunes:name>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:name>
