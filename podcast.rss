@@ -7,11 +7,11 @@ layout: null
 	<channel>
 		<atom:link href="{{ site.url }}{{ site.baseurl }}/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
-		<description>{{ site.podcastdescription | xml_escape }}</description>
+		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}{{ site.baseurl }}</link>
 		<language>{{ site.lang }}</language>
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>
+		<webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
 		<copyright>۲۰۱۷ {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -21,12 +21,12 @@ layout: null
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.podcastsubtitle | xml_escape }}</itunes:subtitle>
-		<itunes:author>{{ site.author }}</itunes:author>
-		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+		<itunes:author>{{ site.author.name }}</itunes:author>
+		<itunes:summary>{{ site.podcastdescription | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
-			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:name>{{ site.author.name }}</itunes:name>
+			<itunes:email>{{ site.author.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.png" />
 		<itunes:category text="Business">
@@ -47,7 +47,7 @@ layout: null
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-				<itunes:author>{{ site.author }}</itunes:author>
+				<itunes:author>{{ site.author.name }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>

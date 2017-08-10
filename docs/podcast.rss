@@ -3,26 +3,26 @@
 	<channel>
 		<atom:link href="https://arashthr.github.io/radioDaal/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال</title>
-		<description>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به مهاجرت و کار و زندگی سوال بپرسم، خب چرا حرفها و تجربیاتشون رو با بقیه به اشتراک نذارم؟</description>
+		<description>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</description>
 		<link>https://arashthr.github.io/radioDaal</link>
 		<language>fa</language>
-		<managingEditor> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</managingEditor>
-		<webMaster> ({"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"})</webMaster>
+		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
+		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Sat, 05 Aug 2017 23:27:42 +0430</pubDate>
-		<lastBuildDate>Sat, 05 Aug 2017 23:27:42 +0430</lastBuildDate>
+		<pubDate>Thu, 10 Aug 2017 13:23:08 +0430</pubDate>
+		<lastBuildDate>Thu, 10 Aug 2017 13:23:08 +0430</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.png</url>
 			<title>رادیو دال</title>
 		</image>
 		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
-		<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
-		<itunes:summary>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</itunes:summary>
+		<itunes:author>Arash Thr</itunes:author>
+		<itunes:summary>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به مهاجرت و کار و زندگی سوال بپرسم، خب چرا حرفها و تجربیاتشون رو با بقیه به اشتراک نذارم؟</itunes:summary>
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
-			<itunes:name>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:name>
-			<itunes:email></itunes:email>
+			<itunes:name>Arash Thr</itunes:name>
+			<itunes:email>radioDaal@outlook.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
 		<itunes:category text="Business">
@@ -43,7 +43,7 @@
 				<description>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/pooya-germany</guid>
 				<enclosure url="https://ia801501.us.archive.org/0/items/daal-09/Ep09-Pooya,%20Germany_low.mp3" length="23299459" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پویا و آلمان</itunes:subtitle>
 				<itunes:summary>قسمت نه از رادیو دال: صحبت با پویا از آلمان</itunes:summary>
 				<itunes:duration>55:28</itunes:duration>
@@ -109,7 +109,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/masih-italy</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسیح و میلان</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
@@ -176,7 +176,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/arash-epfl</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: آرش و epfl</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
@@ -232,7 +232,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/erfan-england</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عرفان: از منچستر تا تهران</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
@@ -314,7 +314,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/farnaz-mehrdad-canada</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرناز، مهرداد و کانادا </itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
@@ -395,7 +395,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/rojin-saba-us</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: صبا، روژین و آمریکا</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
@@ -415,7 +415,7 @@
 </description>
 				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/ali-germany</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>{"name"=>"Arash Thr", "url"=>"https://t.me/radioDaalBot", "email"=>"radioDaal@outlook.com"}</itunes:author>
+				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: علی و آلمان</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
