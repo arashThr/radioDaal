@@ -9,11 +9,11 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Thu, 10 Aug 2017 13:23:08 +0430</pubDate>
-		<lastBuildDate>Thu, 10 Aug 2017 13:23:08 +0430</lastBuildDate>
+		<pubDate>Sun, 13 Aug 2017 12:21:31 +0430</pubDate>
+		<lastBuildDate>Sun, 13 Aug 2017 12:21:31 +0430</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
-			<url>https://arashthr.github.io/radioDaal/public/img/itunes.png</url>
+			<url>https://arashthr.github.io/radioDaal/public/img/itunes.jpg</url>
 			<title>رادیو دال</title>
 		</image>
 		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
@@ -24,7 +24,7 @@
 			<itunes:name>Arash Thr</itunes:name>
 			<itunes:email>radioDaal@outlook.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+		<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 		<itunes:category text="Business">
 			<itunes:category text="Careers" />
 		</itunes:category>
@@ -48,7 +48,7 @@
 				<itunes:summary>قسمت نه از رادیو دال: صحبت با پویا از آلمان</itunes:summary>
 				<itunes:duration>55:28</itunes:duration>
 				<itunes:keywords>مهاجرت آلمان تحصیل گفتگو</itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -114,7 +114,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -181,7 +181,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -237,7 +237,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -319,7 +319,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -400,7 +400,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
@@ -420,7 +420,7 @@
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.png" />
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>

@@ -17,7 +17,7 @@ layout: null
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}{{ site.baseurl }}</link>
-			<url>{{ site.url }}{{ site.baseurl }}/public/img/itunes.png</url>
+			<url>{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.podcastsubtitle | xml_escape }}</itunes:subtitle>
@@ -28,7 +28,7 @@ layout: null
 			<itunes:name>{{ site.author.name }}</itunes:name>
 			<itunes:email>{{ site.author.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.png" />
+		<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg" />
 		<itunes:category text="Business">
 			<itunes:category text="Careers" />
 		</itunes:category>
@@ -52,7 +52,7 @@ layout: null
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.png" />
+				<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
