@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Fri, 01 Sep 2017 11:50:22 +0430</pubDate>
-		<lastBuildDate>Fri, 01 Sep 2017 11:50:22 +0430</lastBuildDate>
+		<pubDate>Sat, 07 Oct 2017 20:33:50 +0330</pubDate>
+		<lastBuildDate>Sat, 07 Oct 2017 20:33:50 +0330</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>امین، اعظم و مالزی</title>
+				<link>https://arashthr.github.io/radioDaal/amin-azam-malaysia</link>
+				<pubDate>Fri, 06 Oct 2017 00:00:00 +0330</pubDate>
+				<description>در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.</description>
+				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/amin-azam-malaysia</guid>
+				<enclosure url="https://archive.org/download/radioDaal/Abbas-US.mp3" length="23983555" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: امین، اعظم و مالزی</itunes:subtitle>
+				<itunes:summary>قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی</itunes:summary>
+				<itunes:duration>56:48</itunes:duration>
+				<itunes:keywords>مهاجرت مالزی کار تحصیل پادکست</itunes:keywords>
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block></itunes:block>
+			</item>
 		
 			<item>
 				<title>عباس و آمریکا</title>
