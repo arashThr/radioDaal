@@ -17,3 +17,111 @@
     height: 50px;
     width: auto;
 }
+/* Mohamadreza :) */
+.intro {
+    box-shadow: 0 0 10px #0003;
+    border-radius: 3px
+}
+
+.post-title {
+    text-align:center;
+    padding:4px;
+    border-bottom:1px solid rgb(170, 117, 159);
+    transition:.3s all;
+}
+
+
+@-webkit-keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+       transform: translateX(-5px);
+    } 
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+@keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+        transform: translateX(-5px);
+    }
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+
+.post-title:hover {
+     -webkit-animation: swing 1s ease;
+    animation: swing 1s ease;
+     -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    border-bottom:1px solid rgba(170, 117, 159, 0.26)
+}
+
+.post-title a:hover, .post-title a:active {
+    text-decoration: none !important
+}
+.post {
+    margin: 10px 0;
+    box-shadow: 0 0 10px #0003;
+    border:1px solid #e5d5e2;
+    border-radius: 4px;
+    transition:.3s ease-in;
+
+}
+
+.post:hover {
+    box-shadow: 0 0 10px #0007;
+}
+.post p {
+    padding: 0 10px
+}
