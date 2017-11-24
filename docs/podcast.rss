@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Mon, 09 Oct 2017 21:30:02 +0330</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2017 21:30:02 +0330</lastBuildDate>
+		<pubDate>Fri, 24 Nov 2017 19:26:44 +0330</pubDate>
+		<lastBuildDate>Fri, 24 Nov 2017 19:26:44 +0330</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>شهرزاد و دبی</title>
+				<link>https://arashthr.github.io/radioDaal/shahrzad-dubai</link>
+				<pubDate>Fri, 24 Nov 2017 00:00:00 +0330</pubDate>
+				<description>این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.</description>
+				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/shahrzad-dubai</guid>
+				<enclosure url="https://archive.org/download/radioDaal/Shahrzad-Dubai.mp3" length="24442826" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: شهرزاد و دبی</itunes:subtitle>
+				<itunes:summary>قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی</itunes:summary>
+				<itunes:duration>58:00</itunes:duration>
+				<itunes:keywords>مهاجرت دبی کار پادکست</itunes:keywords>
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block></itunes:block>
+			</item>
 		
 			<item>
 				<title>امین، اعظم و مالزی</title>
