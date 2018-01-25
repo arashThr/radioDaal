@@ -9,8 +9,11 @@ explicit: "no"
 file: 'https://archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3'
 keywords:
     مهاجرت
-    استرالیا
-    کار
+    انگلیس
+    منچستر
+    ایرلند
+    تحصیل
+    دکترا
     پادکست
 ---
 
