@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Thu, 25 Jan 2018 23:16:40 +0330</pubDate>
-		<lastBuildDate>Thu, 25 Jan 2018 23:16:40 +0330</lastBuildDate>
+		<pubDate>Mon, 26 Feb 2018 22:46:19 +0330</pubDate>
+		<lastBuildDate>Mon, 26 Feb 2018 22:46:19 +0330</lastBuildDate>
 		<image>
 			<link>https://arashthr.github.io/radioDaal</link>
 			<url>https://arashthr.github.io/radioDaal/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>به مقصد توکیو</title>
+				<link>https://arashthr.github.io/radioDaal/ali-japan</link>
+				<pubDate>Sun, 25 Feb 2018 00:00:00 +0330</pubDate>
+				<description>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</description>
+				<guid isPermaLink="true">https://arashthr.github.io/radioDaal/ali-japan</guid>
+				<enclosure url="https://archive.org/download/radioDaal/Ali-Japan.mp3" length="53191791" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: به مقصد توکیو</itunes:subtitle>
+				<itunes:summary>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</itunes:summary>
+				<itunes:duration>57:41</itunes:duration>
+				<itunes:keywords>مهاجرت ژاپن تحصیل دکترا پادکست</itunes:keywords>
+				<itunes:image href="https://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block></itunes:block>
+			</item>
 		
 			<item>
 				<title>فرزانه از ایرلند شمالی</title>
