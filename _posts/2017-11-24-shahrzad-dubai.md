@@ -7,6 +7,8 @@ summary: 'قسمت دوازه از رادیو دال: صحبت با شهرزاد
 excerpt: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
 explicit: "no"
 file: 'https://archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
+categories:
+    podcast
 keywords:
     مهاجرت
     دبی

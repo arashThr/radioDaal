@@ -7,6 +7,8 @@ summary: 'قسمت اول رادیو دال: علی از آلمان'
 excerpt: 'در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.'
 explicit: "no"
 file: 'https://archive.org/download/radioDaal/Ali-Germany.mp3'
+categories:
+    podcast
 keywords:
     مهاجرت
     آلمان
