@@ -17,3 +17,7 @@
     height: 50px;
     width: auto;
 }
+
+audio {
+    width: 100%;
+}
