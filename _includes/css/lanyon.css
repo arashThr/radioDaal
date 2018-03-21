@@ -51,14 +51,14 @@ body {
   font-family: "mitra";
   font-style: normal;
   font-weight: bold;
-  src: url("../fonts/BMitra-Bold.woff") format("woff");
+  src: url("{{ site.baseurl }}/public/fonts/BMitra-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "mitra";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/BMitra-Regular.woff") format("woff");
+  src: url("{{ site.baseurl }}/public/fonts/BMitra-Regular.woff") format("woff");
 }
 
 .fa {
