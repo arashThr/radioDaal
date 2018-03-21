@@ -13,7 +13,7 @@ title: درباره رادیو دال
 
 شما می‌تونید رادیو دال رو در [توئیتر](https://twitter.com/radioDaal){:target="_blank"}، [اینستاگرام](https://instagram.com/radioDaal){:target="_blank"} و [فیسبوک](https://www.facebook.com/radioDaal){:target="_blank"} دنبال کنید و با بقیه دوستانتون به اشتراک بگذارید.  
 همچنین می‌تونید قسمت‌های جدید رو در [سوندکلاود](https://soundcloud.com/arashthr/sets/radio-daal) گوش کنید.  
-آدرس خبرخوان ما هم [اینه](https://arashthr.github.io/radioDaal/podcast.rss) که می‌تونید ازش برای دنبال کردن مطالب جدید توی خبرخوان‌هایی مثل [فیدلی](http://feedly.com) استفاده کنین.
+آدرس خبرخوان ما هم [اینه]({{site.baseurl}}/podcast.rss) که می‌تونید ازش برای دنبال کردن مطالب جدید توی خبرخوان‌هایی مثل [فیدلی](http://feedly.com) استفاده کنین.
 
 <hr>
 
