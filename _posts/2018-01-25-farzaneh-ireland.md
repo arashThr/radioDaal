@@ -6,7 +6,7 @@ length: "57382421" #filesize in byte
 summary: 'قسمت چهارده رادیو دال: فرزانه از ایرلند شمالی'
 excerpt: 'ایرلند شمالی جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در ایرلند شمالی صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور جنگ‌های داخلی به شهر حس و حال داده‌ان.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3'
 categories:
     podcast
 keywords:
@@ -36,7 +36,7 @@ keywords:
 یه راه دیگه برای دسترسی به رادیو دال اشتراک در سایت ناملیک و [دنبال کردن ماست](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
 .  
 
-{%include audio.html url="https://archive.org/download/radioDaal/Farzaneh-NorthIreland.ogg" %}
+{%include audio.html url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.ogg" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت در میون بگذارید.
 
