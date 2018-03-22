@@ -521,14 +521,14 @@ body {
   font-family: "mitra";
   font-style: normal;
   font-weight: bold;
-  src: url("/radioDaal/public/fonts/BMitra-Bold.woff") format("woff");
+  src: url("/public/fonts/BMitra-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "mitra";
   font-style: normal;
   font-weight: normal;
-  src: url("/radioDaal/public/fonts/BMitra-Regular.woff") format("woff");
+  src: url("/public/fonts/BMitra-Regular.woff") format("woff");
 }
 
 .fa {
