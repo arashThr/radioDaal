@@ -23,11 +23,7 @@ keywords:
 راستی اینم بگم که یکی دو نمونه **دعوت‌نامه** آماده کرده‌ام و [اینجا]({{ site.baseurl }}/invite) قرار داده‌ام. اگر کسی رو می‌شناسید که به نظرتون کاندید مناسبی برای حضور در  , پادکسته میتونید  یکی از متن‌های از پیش نوشته شده رو براش بفرستید و ازش برای شرکت به عنوان مهمان در پادکست دعوت کنید.
 
 
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/parnian/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/parnian/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/parnian/3.jpg" width="200" height="200">
-</div>
+{% include guest_imgs.html name="parnian" %}
 
 <hr>
 
@@ -38,10 +34,7 @@ keywords:
 .  
 اینم بگم که این ماه قسمت [دوم پادکست]({{site.baseurl}}/rojin-saba-us) اومده بود بین پادکست‌های برگزیده ناملیک. مرسی از دوستانی که اسباب حضور ما در بین این همه پادکست خوب رو مهیا کردن.
 
-<audio controls="controls">
-  Your browser does not support the <code>audio</code> element.
-  <source src="https://archive.org/download/radioDaal/Parnian-Australia.ogg" type="audio/ogg">
-</audio>
+{%include audio.html url="https://archive.org/download/radioDaal/Parnian-Australia.ogg" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت یعنی پرنیان در میون بگذارید.
 

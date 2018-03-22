@@ -27,11 +27,7 @@ keywords:
 علاوه بر این یه خبر هم دارم و اون اینکه برای پادکست یه **فروم** یا [همون سایت گفتگو](http://forum.radiodaal.ir) راه انداخته‌ام. از این به بعد می‌تونید برای مطرح کردن سوالات خودتون که می‌خوان از مهمان پرسیده بشه و یا در میون گذاشتن پیشنهادات و نظرات خودتون به اونجا مراجعه کنید.  
 در ضمن از این قسمت به بعد به جز در ناملیک در بقیه جاها نسخه با کیفیت بالا رو قرار خواهم داد.
 
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/farzaneh/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/farzaneh/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/farzaneh/3.jpg" width="200" height="200">
-</div>
+{% include guest_imgs.html name="farzaneh" %}
 
 <hr>
 
@@ -40,10 +36,7 @@ keywords:
 یه راه دیگه برای دسترسی به رادیو دال اشتراک در سایت ناملیک و [دنبال کردن ماست](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
 .  
 
-<audio controls="controls">
-  Your browser does not support the <code>audio</code> element.
-  <source src="https://archive.org/download/radioDaal/Farzaneh-NorthIreland.ogg" type="audio/ogg">
-</audio>
+{%include audio.html url="https://archive.org/download/radioDaal/Farzaneh-NorthIreland.ogg" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت در میون بگذارید.
 
