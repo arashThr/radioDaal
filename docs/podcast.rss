@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fa">
 	<channel>
-		<atom:link href="https://radioDaal.ir/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="http://arashthr.github.io/radioDaal/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال</title>
 		<description>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</description>
-		<link>https://radioDaal.ir</link>
+		<link>http://arashthr.github.io/radioDaal</link>
 		<language>fa</language>
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۷ رادیو دال</copyright>
-		<pubDate>Thu, 22 Mar 2018 23:12:09 +0430</pubDate>
-		<lastBuildDate>Thu, 22 Mar 2018 23:12:09 +0430</lastBuildDate>
+		<pubDate>Fri, 23 Mar 2018 16:49:26 +0430</pubDate>
+		<lastBuildDate>Fri, 23 Mar 2018 16:49:26 +0430</lastBuildDate>
 		<image>
-			<link>https://radioDaal.ir</link>
-			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
+			<link>http://arashthr.github.io/radioDaal</link>
+			<url>http://arashthr.github.io/radioDaal/public/img/itunes.jpg</url>
 			<title>رادیو دال</title>
 		</image>
 		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
@@ -24,7 +24,7 @@
 			<itunes:name>Arash Thr</itunes:name>
 			<itunes:email>radioDaal@outlook.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+		<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 		<itunes:category text="Business">
 			<itunes:category text="Careers" />
 		</itunes:category>
@@ -38,221 +38,221 @@
 		
 			<item>
 				<title>به مقصد توکیو</title>
-				<link>https://radioDaal.ir/ali-japan</link>
+				<link>http://arashthr.github.io/radioDaal/ali-japan</link>
 				<pubDate>Sun, 25 Feb 2018 00:00:00 +0330</pubDate>
 				<description>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-japan</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/ali-japan</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Ali-Japan.mp3" length="53191791" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: به مقصد توکیو</itunes:subtitle>
 				<itunes:summary>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</itunes:summary>
 				<itunes:duration>57:41</itunes:duration>
 				<itunes:keywords>مهاجرت ژاپن تحصیل دکترا پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>فرزانه از ایرلند شمالی</title>
-				<link>https://radioDaal.ir/farzaneh-ireland</link>
+				<link>http://arashthr.github.io/radioDaal/farzaneh-ireland</link>
 				<pubDate>Thu, 25 Jan 2018 00:00:00 +0330</pubDate>
 				<description>ایرلند شمالی جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در ایرلند شمالی صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور جنگ‌های داخلی به شهر حس و حال داده‌ان.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/farzaneh-ireland</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/farzaneh-ireland</guid>
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3" length="57382421" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرزانه از ایرلند شمالی</itunes:subtitle>
 				<itunes:summary>قسمت چهارده رادیو دال: فرزانه از ایرلند شمالی</itunes:summary>
 				<itunes:duration>61:43</itunes:duration>
 				<itunes:keywords>مهاجرت انگلیس منچستر ایرلند تحصیل دکترا پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>پرنیان و استرالیا</title>
-				<link>https://radioDaal.ir/parnian-australia</link>
+				<link>http://arashthr.github.io/radioDaal/parnian-australia</link>
 				<pubDate>Mon, 25 Dec 2017 00:00:00 +0330</pubDate>
 				<description>استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/parnian-australia</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/parnian-australia</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Parnian-Australia.mp3" length="27683904" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پرنیان و استرالیا</itunes:subtitle>
 				<itunes:summary>قسمت سیزده از رادیو دال: پرنیان و قاره دور افتاده</itunes:summary>
 				<itunes:duration>64:38</itunes:duration>
 				<itunes:keywords>مهاجرت استرالیا کار پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>شهرزاد و دبی</title>
-				<link>https://radioDaal.ir/shahrzad-dubai</link>
+				<link>http://arashthr.github.io/radioDaal/shahrzad-dubai</link>
 				<pubDate>Fri, 24 Nov 2017 00:00:00 +0330</pubDate>
 				<description>این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/shahrzad-dubai</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/shahrzad-dubai</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Shahrzad-Dubai.mp3" length="24442826" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: شهرزاد و دبی</itunes:subtitle>
 				<itunes:summary>قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی</itunes:summary>
 				<itunes:duration>58:00</itunes:duration>
 				<itunes:keywords>مهاجرت دبی کار پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>امین، اعظم و مالزی</title>
-				<link>https://radioDaal.ir/amin-azam-malaysia</link>
+				<link>http://arashthr.github.io/radioDaal/amin-azam-malaysia</link>
 				<pubDate>Fri, 06 Oct 2017 00:00:00 +0330</pubDate>
 				<description>در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/amin-azam-malaysia</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/amin-azam-malaysia</guid>
 				<enclosure url="https://archive.org/download/radioDaal/AminAzam-malaysia.mp3" length="23983555" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: امین، اعظم و مالزی</itunes:subtitle>
 				<itunes:summary>قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی</itunes:summary>
 				<itunes:duration>56:48</itunes:duration>
 				<itunes:keywords>مهاجرت مالزی کار تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>عباس و آمریکا</title>
-				<link>https://radioDaal.ir/abbas-us</link>
+				<link>http://arashthr.github.io/radioDaal/abbas-us</link>
 				<pubDate>Thu, 31 Aug 2017 00:00:00 +0430</pubDate>
 				<description>این قسمت عباس عزیز لطف کرده و در رادیو دال شرکت کرده. عباس مدرک کارشناسی رو ایران گرفت و برای مقطع ارشد به آمریکا رفت. الان همونجا و در ایالت اوهایو مشغول به کار شده و داره زندگی می‌کنه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/abbas-us</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/abbas-us</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Abbas-US.mp3" length="25612303" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عباس و آمریکا</itunes:subtitle>
 				<itunes:summary>قسمت ده از رادیو دال: صحبت با عباس از آمریکا</itunes:summary>
 				<itunes:duration>60:58</itunes:duration>
 				<itunes:keywords>مهاجرت آمریکا تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>پویا و آلمان</title>
-				<link>https://radioDaal.ir/pooya-germany</link>
+				<link>http://arashthr.github.io/radioDaal/pooya-germany</link>
 				<pubDate>Wed, 02 Aug 2017 00:00:00 +0430</pubDate>
 				<description>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/pooya-germany</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/pooya-germany</guid>
 				<enclosure url="https://ia801501.us.archive.org/0/items/daal-09/Ep09-Pooya,%20Germany_low.mp3" length="23299459" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پویا و آلمان</itunes:subtitle>
 				<itunes:summary>قسمت نه از رادیو دال: صحبت با پویا از آلمان</itunes:summary>
 				<itunes:duration>55:28</itunes:duration>
 				<itunes:keywords>مهاجرت آلمان تحصیل گفتگو</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>مسیح و میلان</title>
-				<link>https://radioDaal.ir/masih-italy</link>
+				<link>http://arashthr.github.io/radioDaal/masih-italy</link>
 				<pubDate>Thu, 06 Jul 2017 00:00:00 +0430</pubDate>
 				<description>و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/masih-italy</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/masih-italy</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Masih-Italy.mp3" length="28116746" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسیح و میلان</itunes:subtitle>
 				<itunes:summary>قسمت شش رادیو دال: مسیح از ایتالیا</itunes:summary>
 				<itunes:duration>66:35</itunes:duration>
 				<itunes:keywords>مهاجرت ایتالیا تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>آرش از سوئیس</title>
-				<link>https://radioDaal.ir/arash-epfl</link>
+				<link>http://arashthr.github.io/radioDaal/arash-epfl</link>
 				<pubDate>Tue, 25 Apr 2017 00:00:00 +0430</pubDate>
 				<description>در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/arash-epfl</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/arash-epfl</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Arash-Switzerland.mp3" length="34114911" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: آرش از سوئیس</itunes:subtitle>
 				<itunes:summary>قسمت پنجم رادیو دال: آرش از سوئیس</itunes:summary>
 				<itunes:duration>81:00</itunes:duration>
 				<itunes:keywords>مهاجرت سوئیس تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>عرفان: از منچستر تا تهران</title>
-				<link>https://radioDaal.ir/erfan-england</link>
+				<link>http://arashthr.github.io/radioDaal/erfan-england</link>
 				<pubDate>Sat, 25 Mar 2017 00:00:00 +0430</pubDate>
 				<description>در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/erfan-england</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/erfan-england</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Erfan-England.mp3" length="21128214" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عرفان: از منچستر تا تهران</itunes:subtitle>
 				<itunes:summary>قسمت چهارم رادیو دال: عرفان و انگلیس</itunes:summary>
 				<itunes:duration>50:07</itunes:duration>
 				<itunes:keywords>مهاجرت انگلیس تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>فرناز، مهرداد و کانادا </title>
-				<link>https://radioDaal.ir/farnaz-mehrdad-canada</link>
+				<link>http://arashthr.github.io/radioDaal/farnaz-mehrdad-canada</link>
 				<pubDate>Mon, 06 Mar 2017 00:00:00 +0330</pubDate>
 				<description>در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/farnaz-mehrdad-canada</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/farnaz-mehrdad-canada</guid>
 				<enclosure url="https://archive.org/download/radioDaal/FarnazMehrdad-Canada.mp3" length="26479224" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرناز، مهرداد و کانادا </itunes:subtitle>
 				<itunes:summary>قسمت سوم رادیو دال: مهرداد و فرناز از کانادا</itunes:summary>
 				<itunes:duration>62:51</itunes:duration>
 				<itunes:keywords>مهاجرت کانادا تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>صبا، روژین و آمریکا</title>
-				<link>https://radioDaal.ir/rojin-saba-us</link>
+				<link>http://arashthr.github.io/radioDaal/rojin-saba-us</link>
 				<pubDate>Fri, 17 Feb 2017 00:00:00 +0330</pubDate>
 				<description>در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/rojin-saba-us</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/rojin-saba-us</guid>
 				<enclosure url="https://archive.org/download/radioDaal/RojinSaba-Us.mp3" length="32589266" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: صبا، روژین و آمریکا</itunes:subtitle>
 				<itunes:summary>قسمت دوم رادیو دال: صبا و روژین از آمریکا</itunes:summary>
 				<itunes:duration>77:23</itunes:duration>
 				<itunes:keywords>مهاجرت آمریکا تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
 		
 			<item>
 				<title>علی و آلمان</title>
-				<link>https://radioDaal.ir/ali-germany</link>
+				<link>http://arashthr.github.io/radioDaal/ali-germany</link>
 				<pubDate>Fri, 03 Feb 2017 00:00:00 +0330</pubDate>
 				<description>در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-germany</guid>
+				<guid isPermaLink="true">http://arashthr.github.io/radioDaal/ali-germany</guid>
 				<enclosure url="https://archive.org/download/radioDaal/Ali-Germany.mp3" length="23906025" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: علی و آلمان</itunes:subtitle>
 				<itunes:summary>قسمت اول رادیو دال: علی از آلمان</itunes:summary>
 				<itunes:duration>56:43</itunes:duration>
 				<itunes:keywords>مهاجرت آلمان تحصیل پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://arashthr.github.io/radioDaal/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block></itunes:block>
 			</item>
