@@ -6,14 +6,14 @@ length: "27683904" #filesize in byte
 summary: 'قسمت سیزده از رادیو دال: پرنیان و قاره دور افتاده'
 excerpt: 'استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/Parnian-Australia.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Parnian-Australia.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    استرالیا
-    کار
-    پادکست
+    - مهاجرت
+    - استرالیا
+    - کار
+    - پادکست
 ---
 
 استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته **معماری** دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.
@@ -27,14 +27,14 @@ keywords:
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-13) و یا مستقیما از [اینجا](https://archive.org/download/radioDaal/Parnian-Australia.mp3) دریافت کنید.  
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-13) و یا مستقیما از [اینجا](http://media.blubrry.com/472117/archive.org/download/radioDaal/Parnian-Australia.mp3) دریافت کنید.  
 نسخه با کیفیت بالا روی گوگل درایو در دسترسه.
 
 یه راه دیگه برای دسترسی به رادیو دال که جدیدا اضافه شده اشتراک در [سایت ناملیک](http://namlik.me/) و [دنبال کردن ماست](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
 .  
 اینم بگم که این ماه قسمت [دوم پادکست]({{site.baseurl}}/rojin-saba-us) اومده بود بین پادکست‌های برگزیده ناملیک. مرسی از دوستانی که اسباب حضور ما در بین این همه پادکست خوب رو مهیا کردن.
 
-{%include audio.html url="https://archive.org/download/radioDaal/Parnian-Australia.ogg" %}
+{%include audio.html url="Parnian-Australia" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت یعنی پرنیان در میون بگذارید.
 

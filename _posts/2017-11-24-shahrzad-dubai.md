@@ -6,14 +6,14 @@ length: "24442826" #filesize in byte
 summary: 'قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی'
 excerpt: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    دبی
-    کار
-    پادکست
+    - مهاجرت
+    - دبی
+    - کار
+    - پادکست
 ---
 
 این بار اومدیم سراغ خاورمیانه خودمون و دبی. در این قسمت شهرزاد مهمون برنامه شده که یکی دو ساله **از طریق کاری** به دبی مهاجرت کرده و الان اونجا مشغول به کار و زندگی است. خاورمیانه جایی است که تا الان در پادکست راجع بهش صحبتی نشده بود و شنیدن از چنین جایی حداقل برای من خیلی جالب بود.
@@ -21,23 +21,14 @@ keywords:
 این قسمت از چندین جنبه قسمتی خاص بود: من برای اولین بار با کسی صحبت کردم که تا قبل از این باهاش آشنا نبودم. همچنین در این قسمت نخستین بار یک خانوم به تنهایی مهمان برنامه بوده. امیدوارم بیشتر شاهد چنین امری باشیم.  
 یه تشکر ویژه هم باید داشته باشم از شهرزاد عزیز، چرا که همه اینها میسر شد به خاطر خود شهرزاد که لطف کرد و داوطلبانه برای حضور در پادکست اعلام آمادگی کرد.
 
-
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/shahrzad/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/shahrzad/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/shahrzad/3.jpg" width="200" height="200">
-</div>
+{% include guest_imgs.html name="shahrzad" %}
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-12) و یا مستقیما از [همین جا](https://archive.org/download/radioDaal/Shahrzad-Dubai.mp3) دریافت کنید.  
-نسخه با کیفیت بالا رو هم از گوگل درایو می‌تونید دریافت کنید.
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-12) و یا مستقیما از [همین جا](http://media.blubrry.com/472117/archive.org/download/radioDaal/Shahrzad-Dubai.mp3) دریافت کنید.  
+نسخه با کیفیت بالا روی گوگل درایو موجود هست.
 
-<audio controls="controls">
-  Your browser does not support the <code>audio</code> element.
-  <source src="https://archive.org/download/radioDaal/Shahrzad-Dubai.ogg" type="audio/ogg">
-</audio>
-
+{%include audio.html url="Shahrzad-Dubai" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با شهرزاد در میون بگذارید.
 

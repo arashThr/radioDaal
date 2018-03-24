@@ -6,14 +6,14 @@ length: "23299459" #filesize in byte
 summary: 'قسمت نه از رادیو دال: صحبت با پویا از آلمان'
 excerpt: 'در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.'
 explicit: "no"
-file: 'https://ia801501.us.archive.org/0/items/daal-09/Ep09-Pooya,%20Germany_low.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Pooya-Germany.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    آلمان
-    تحصیل
-    گفتگو
+    - مهاجرت
+    - آلمان
+    - تحصیل
+    - گفتگو
 ---
 
 در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.  
@@ -23,17 +23,13 @@ keywords:
 برای گوش دادن به این قسمت می‌تونید دو نسخه با کیفیت بالا و حجم کم رو مستقیما از [اینجا](http://bit.ly/daal-09) دانلود کنید یا اینکه توی کانال [رادیو دال](https://telegram.me/radioDaal) در تلگرام عضو شید.
 
 
+{%include audio.html url="Pooya-Germany" %}
+
 همچنین در این قسمت برای اولین بار یک **مسیر ارتباطی بین شما و کسی که باهاش صحبت کرده‌ام، یعنی پویا به وجود آورده‌ام**. تا قسمت بعد می‌تونید از طریق این مسیر سوالات خودتون رو از پویا بپرسید.
 تنها کافیه در تلگرام به [@radioDaalGuestBot](https://t.me/RadioDaalGuestBot) برید و پس از زدن دکمه استارت پیام خودتون رو بفرستید.
 لطفا سوال خودتون رو قالب یک پیام مطرح کنید.
 
-
-
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/pooya/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/pooya/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/pooya/3.jpg" width="200" height="200">
-</div>
+{% include guest_imgs.html name="pooya" %}
 
 <hr>
 
@@ -74,8 +70,6 @@ keywords:
 - آیا در مسیر درست حرکت می‌کنیم ؟
 
 <hr>
-
-<iframe src="https://archive.org/embed/daal-09" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <small>
 کلیپی که در ابتدای قسمت قرار داره از سریال [Rick and Morty](https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%DA%A9_%D9%88_%D9%85%D9%88%D8%B1%D8%AA%DB%8C) است.  

@@ -6,14 +6,14 @@ length: "34114911" #filesize in byte
 summary: 'قسمت پنجم رادیو دال: آرش از سوئیس'
 excerpt: 'در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/Arash-Switzerland.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Arash-Switzerland.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    سوئیس
-    تحصیل
-    پادکست
+    - مهاجرت
+    - سوئیس
+    - تحصیل
+    - پادکست
 ---
 
 در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.
@@ -23,6 +23,8 @@ keywords:
 
 مکالمه رو در دو نسخه باکیفیت و کم حجم می‌تونید از روی [گوگل‌درایو](http://bit.ly/daal-05) دانلود کنید.
 همچنین می‌تونید برای دریافت و دنبال کردن مجموعه به کانال ما در تلگرام به آدرس [رادیو دال](https://telegram.me/radioDaal) بپیوندید.
+
+{%include audio.html url="Arash-Switzerland" %}
 
 **بخش اول**
 

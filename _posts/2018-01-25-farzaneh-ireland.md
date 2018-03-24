@@ -8,15 +8,15 @@ excerpt: 'ایرلند شمالی جایی که من فکر می‌کردم مس
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    انگلیس
-    منچستر
-    ایرلند
-    تحصیل
-    دکترا
-    پادکست
+    - مهاجرت
+    - انگلیس
+    - منچستر
+    - ایرلند
+    - تحصیل
+    - دکترا
+    - پادکست
 ---
 
 ایرلند شمالی، جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در این سرزمین صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور چهره امروز شهر متاثر از جنگ‌های داخلی گذشته است.  
@@ -31,12 +31,12 @@ keywords:
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-14) و یا مستقیما از [اینجا](https://archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3) دریافت کنید.  
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-14) و یا مستقیما از [اینجا](http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3) دریافت کنید.  
 
 یه راه دیگه برای دسترسی به رادیو دال اشتراک در سایت ناملیک و [دنبال کردن ماست](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
 .  
 
-{%include audio.html url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.ogg" %}
+{%include audio.html url="Farzaneh-NorthIreland" %}
 
 مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت در میون بگذارید.
 

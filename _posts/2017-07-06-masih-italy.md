@@ -6,14 +6,14 @@ length: "28116746" #filesize in byte
 summary: 'قسمت شش رادیو دال: مسیح از ایتالیا'
 excerpt: 'و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/Masih-Italy.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Masih-Italy.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    ایتالیا
-    تحصیل
-    پادکست
+    - مهاجرت
+    - ایتالیا
+    - تحصیل
+    - پادکست
 ---
 
 و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.  
@@ -21,12 +21,9 @@ keywords:
 
 برای گوش دادن به این قسمت می‌تونید دو نسخه با کیفیت بالا و حجم کم رو مستقیما از [اینجا](http://bit.ly/daal-06) دانلود کنید یا اینکه توی کانال [رادیو دال](https://telegram.me/radioDaal) در تلگرام عضو شید.
 
+{% include guest_imgs.html name="masih" %}
 
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/masih/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/masih/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/masih/3.jpg" width="200" height="200">
-</div>
+{%include audio.html url="Masih-Italy" %}
 
 **بخش اول**
 

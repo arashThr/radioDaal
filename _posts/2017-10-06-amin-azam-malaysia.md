@@ -6,39 +6,30 @@ length: "23983555" #filesize in byte
 summary: 'قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی'
 excerpt: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
 explicit: "no"
-file: 'https://archive.org/download/radioDaal/AminAzam-malaysia.mp3'
+file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3'
 categories:
-    podcast
+    - podcast
 keywords:
-    مهاجرت
-    مالزی
-    کار
-    تحصیل
-    پادکست
+    - مهاجرت
+    - مالزی
+    - کار
+    - تحصیل
+    - پادکست
 ---
 
 در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در **مالزی زندگی می‌کنن**. این زوج عزیز تونسته‌ان **از طریق کار به این کشور مهاجرت کنن**. شنیدن داستان این دو نفر رو از ایران و دانشگاه و ارشد شروع می‌کنیم و میریم تا برسیم به آب و هوای مالزی و تفریحات و  در نهایت نگاهی که این دو نفر به آینده خودشون دارن.
 
 این بار سومه که یه زوج تو پادکست شرکت کرده‌ان، مسلما جدای از مسائل دیگه کنار هم قرار گرفتن دو نفر در این شرایط و دیدگاهی که الان نسبت به زندگی دارن می‌تونه جذابیتی افزده برای این قسمت محسوب بشه.
 
-
-<div class="image-line">
-<img src="{{ site.baseurl }}/public/img/amin/1.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/amin/2.jpg" width="200" height="200">
-<img src="{{ site.baseurl }}/public/img/amin/3.jpg" width="200" height="200">
-</div>
+{% include guest_imgs.html name="amin" %}
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-11) و یا مستقیما از [همین جا](https://archive.org/download/radioDaal/AminAzam-malaysia.mp3) دریافت کنید.  
-یه نکته که هست اینه که از این به بعد نسخه با کیفیت بالا رو فقط در گوگل درایو قرار می‌دم.
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-11) و یا مستقیما از [همین جا](http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3) دریافت کنید.  
 
 یه راه دیگه هم اینه که همینجا داخل سایت به این قسمت گوش بدید:
-<audio controls="controls">
-  Your browser does not support the <code>audio</code> element.
-  <source src="https://archive.org/download/radioDaal/AminAzam-malaysia.ogg" type="audio/ogg">
-</audio>
 
+{%include audio.html url="AminAzam-malaysia" %}
 
 برای این قسمت راه ارتباطی رو به روز کرده‌ام و از الان به بعد می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی دارید با امین و اعظم در میون بگذارید.
 
