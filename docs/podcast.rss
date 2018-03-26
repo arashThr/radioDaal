@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Sat, 24 Mar 2018 05:34:13 +0430</pubDate>
-		<lastBuildDate>Sat, 24 Mar 2018 05:34:13 +0430</lastBuildDate>
+		<pubDate>Mon, 26 Mar 2018 19:29:23 +0430</pubDate>
+		<lastBuildDate>Mon, 26 Mar 2018 19:29:23 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>قاره دور، با علی از سیدنی</title>
+				<link>https://radioDaal.ir/ali-sydney</link>
+				<pubDate>Mon, 26 Mar 2018 00:00:00 +0430</pubDate>
+				<description>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال ایران کرده. بعد از طریق کاری اقدام کرده و تونسته برای استرالیا پذیرش بگیره. الان چندین ساله که اونجا زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/ali-sydney</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Sydney.mp3" length="63045918" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: قاره دور، با علی از سیدنی</itunes:subtitle>
+				<itunes:summary>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال ایران کرده. بعد از طریق کاری اقدام کرده و تونسته برای استرالیا پذیرش بگیره. الان چندین ساله که اونجا زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</itunes:summary>
+				<itunes:duration>68:26</itunes:duration>
+				<itunes:keywords>مهاجرت, استرالیا, کار, پادکست</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>به مقصد توکیو</title>
