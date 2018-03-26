@@ -23,7 +23,7 @@ keywords:
 
 <hr>
 
-<img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" style="height: 250px;float: left;border-radius: 45px; margin: 0px 20px 10px 0px;"/>
+<img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" class="cover-img"/>
 
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید و یا مستقیما از [اینجا](http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Sydney.mp3) دانلود کنید.  
 رادیو دال رو در ناملیک هم می‌تونید [گوش کنید](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
@@ -32,7 +32,7 @@ keywords:
 
 علاوه بر همه این‌ها مستقیما و در همین جا هم می‌تونید به این قسمت گوش بدید:
 
-{%include audio.html url="Ali-Sydney" %}
+{% include player.html id="32703833" %}
 
 ممنون میشم اگه رادیو دال رو با دوستان و آشنایانتون به اشتراک بگذارید تا به گوش افراد بیشتری برسه.  
 
