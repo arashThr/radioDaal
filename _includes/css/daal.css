@@ -22,6 +22,13 @@ audio {
     width: 50%;
 }
 
+blockquote {
+    padding-left: 5rem;
+    padding-right: 1.25rem;
+    border-right: .25rem solid #e5e5e5;
+    border-left: 0;
+}
+
 .cover-img {
     height: 250px;
     border-radius: 45px;
