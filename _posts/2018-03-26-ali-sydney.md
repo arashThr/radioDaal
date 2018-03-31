@@ -21,21 +21,18 @@ keywords:
 
 از این قسمت **یه [انجمن](http://bit.ly/2G7Irfx) راه انداخته‌ام** که در رابطه با هر قسمت می‌تونید اونجا مراجعه کنید و **نظرات و سوالات خودتون** رو اونجا با بقیه با اشتراک بگذارید. ممکنه خیلی اوقات بعضی‌ها نکاتی تکمیلی داشته باشند که این انجمن می‌تونه جایی مناسب برای مطرح کردنش به بقیه باشه.
 
+{% include guest_imgs.html name="ali-sydney" %}
+
 <hr>
 
-<img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" class="cover-img"/>
+<!-- <img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" class="cover-img"/> -->
 
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید و یا مستقیما از [اینجا](http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Sydney.mp3) دانلود کنید.  
 رادیو دال رو در ناملیک هم می‌تونید [گوش کنید](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)
 .  
-دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-16) هم امکان‌پذیر است (البته با کمی تاخیر).
-
-علاوه بر همه این‌ها مستقیما و در همین جا هم می‌تونید به این قسمت گوش بدید:
-
-{% include player.html id="32703833" %}
+دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-16) هم امکان‌پذیر است.
 
 ممنون میشم اگه رادیو دال رو با دوستان و آشنایانتون به اشتراک بگذارید تا به گوش افراد بیشتری برسه.  
-
 
 <hr>
 
@@ -70,6 +67,8 @@ keywords:
 
 
 <hr>
+
+{% include player.html id="32703833" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 <div dir="ltr" style="font-size: smaller;">
