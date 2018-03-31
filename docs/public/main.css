@@ -1075,8 +1075,8 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 .image-line {
     display: flex;
-    justify-content:
-    space-around; flex-wrap: wrap;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .header-logo {
