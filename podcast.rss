@@ -49,7 +49,7 @@ layout: null
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author.name }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
-				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+				<itunes:summary>{{ post.summary | default: post.excerpt | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords | join: ', ' }}</itunes:keywords>
 				<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg" />

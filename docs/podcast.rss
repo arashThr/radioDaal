@@ -3,14 +3,14 @@
 	<channel>
 		<atom:link href="https://radioDaal.ir/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال</title>
-		<description>گفتن از مسیرها و انتخاب‌ها، به چالش کشیدن فکرکردنی‌های فکرنشده</description>
+		<description>گفتن از مسیرها و انتخاب‌ها؛ این پادکست یک مرجع نیست، یک تجربه است</description>
 		<link>https://radioDaal.ir</link>
 		<language>fa</language>
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Mon, 26 Mar 2018 19:29:23 +0430</pubDate>
-		<lastBuildDate>Mon, 26 Mar 2018 19:29:23 +0430</lastBuildDate>
+		<pubDate>Sat, 07 Apr 2018 23:04:48 +0430</pubDate>
+		<lastBuildDate>Sat, 07 Apr 2018 23:04:48 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -18,7 +18,7 @@
 		</image>
 		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
 		<itunes:author>Arash Thr</itunes:author>
-		<itunes:summary>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به مهاجرت و کار و زندگی سوال بپرسم، خب چرا حرفها و تجربیاتشون رو با بقیه به اشتراک نذارم؟</itunes:summary>
+		<itunes:summary>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به کار، تحصیل و مهاجرت سوال بپرسم، خب چرا حرفها و تجربیات رو با بقیه به اشتراک نذارم؟</itunes:summary>
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
 			<itunes:name>Arash Thr</itunes:name>
@@ -37,15 +37,32 @@
 		<itunes:explicit>no</itunes:explicit>
 		
 			<item>
+				<title>این هم جور دیگر، با حضور جادی</title>
+				<link>https://radioDaal.ir/jadi-iran</link>
+				<pubDate>Sat, 07 Apr 2018 00:00:00 +0430</pubDate>
+				<description>در قسمت جدید رادیو دال با جادی همراه شدیم. آشنایی من و احتما بعضی از شماها با جادی برمیگرده به وبلاگش به اسم کیبورد آزاد. این دوست عزیزمون لیسانس برق داره و فوق لیسانس جامعه شناسی و الان هم در ایران زندگی می‌کنه.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/jadi-iran</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal_Jadi/Jadi.mp3" length="58172474" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: این هم جور دیگر، با حضور جادی</itunes:subtitle>
+				<itunes:summary>در قسمت جدید رادیو دال با جادی همراه شدیم. آشنایی من و احتما بعضی از شماها با جادی برمیگرده به وبلاگش به اسم کیبورد آزاد. این دوست عزیزمون لیسانس برق داره و فوق لیسانس جامعه شناسی و الان هم در ایران زندگی می‌کنه.</itunes:summary>
+				<itunes:duration>80:20</itunes:duration>
+				<itunes:keywords>مهاجرت, ایران, کار, تحصیل, افغانستان, پادکست</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+			<item>
 				<title>قاره دور، با علی از سیدنی</title>
 				<link>https://radioDaal.ir/ali-sydney</link>
 				<pubDate>Mon, 26 Mar 2018 00:00:00 +0430</pubDate>
-				<description>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال ایران کرده. بعد از طریق کاری اقدام کرده و تونسته برای استرالیا پذیرش بگیره. الان چندین ساله که اونجا زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</description>
+				<description>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال در ایران مشغول به کار بوده. بعد تونسته ویزای اقامت استرالیا رو اخذ کنه و به اونجا مهاجرت کرده. الان چندین ساله که در سیدنی زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</description>
 				<guid isPermaLink="true">https://radioDaal.ir/ali-sydney</guid>
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Sydney.mp3" length="63045918" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: قاره دور، با علی از سیدنی</itunes:subtitle>
-				<itunes:summary>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال ایران کرده. بعد از طریق کاری اقدام کرده و تونسته برای استرالیا پذیرش بگیره. الان چندین ساله که اونجا زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</itunes:summary>
+				<itunes:summary>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال در ایران مشغول به کار بوده. بعد تونسته ویزای اقامت استرالیا رو اخذ کنه و به اونجا مهاجرت کرده. الان چندین ساله که در سیدنی زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</itunes:summary>
 				<itunes:duration>68:26</itunes:duration>
 				<itunes:keywords>مهاجرت, استرالیا, کار, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
