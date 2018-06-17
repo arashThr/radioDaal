@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Thu, 24 May 2018 22:31:08 +0430</pubDate>
-		<lastBuildDate>Thu, 24 May 2018 22:31:08 +0430</lastBuildDate>
+		<pubDate>Sun, 17 Jun 2018 22:59:24 +0430</pubDate>
+		<lastBuildDate>Sun, 17 Jun 2018 22:59:24 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</title>
+				<link>https://radioDaal.ir/amir-africa</link>
+				<pubDate>Sun, 17 Jun 2018 00:00:00 +0430</pubDate>
+				<description>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/amir-africa</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Amir-Africa-Japan.mp3" length="40137747" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</itunes:subtitle>
+				<itunes:summary>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</itunes:summary>
+				<itunes:duration>55:44</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, آفریقای جنوبی, ژاپن, تانزانیا, پادکست</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>داستان یک خانواده، با شقایق از آمریکا؛ قسمت دوم</title>
