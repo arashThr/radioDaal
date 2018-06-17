@@ -34,6 +34,10 @@ blockquote {
     border-radius: 45px;
 }
 
+.post {
+    text-align: justify;
+}
+
 @media (max-width: 600px) {
     .cover-img {
         margin: auto;
