@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Sun, 17 Jun 2018 22:59:24 +0430</pubDate>
-		<lastBuildDate>Sun, 17 Jun 2018 22:59:24 +0430</lastBuildDate>
+		<pubDate>Sun, 26 Aug 2018 19:23:04 +0430</pubDate>
+		<lastBuildDate>Sun, 26 Aug 2018 19:23:04 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>مسافر: مرضیه از کانادا</title>
+				<link>https://radioDaal.ir/marzieh-canada</link>
+				<pubDate>Sun, 26 Aug 2018 00:00:00 +0430</pubDate>
+				<description>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/marzieh-canada</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Marzieh-Canada.mp3" length="56406485" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: مسافر: مرضیه از کانادا</itunes:subtitle>
+				<itunes:summary>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</itunes:summary>
+				<itunes:duration>78:20</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, کانادا, هنر, نقاشی</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</title>
