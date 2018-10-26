@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Sun, 26 Aug 2018 19:23:04 +0430</pubDate>
-		<lastBuildDate>Sun, 26 Aug 2018 19:23:04 +0430</lastBuildDate>
+		<pubDate>Fri, 26 Oct 2018 18:29:50 +0330</pubDate>
+		<lastBuildDate>Fri, 26 Oct 2018 18:29:50 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,40 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>عطیه از آمریکا - بخش دوم</title>
+				<link>https://radioDaal.ir/atieh-part2</link>
+				<pubDate>Fri, 26 Oct 2018 00:00:00 +0330</pubDate>
+				<description>بخش دوم از صحبت‌های من با عطیه. همونطور که در قسمت قبل گفتیم عطیه لیسانس خودش رو در رشته کامپیوتر از دانشگاه شریف دریافت کرده و سپس برای ادامه تحصیل به آمریکا رفت. عطیه در حال حاضر دچار عارضه‌ایست به نام SMA که فعالیت‌های فیزیکی‌اش رو بسیار محدود می‌کنه. در این قسمت بیشتر به زندگی و چالش‌هایی که عطیه با زندگی در آمریکا با اونها روبرو شده میپردازیم.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/atieh-part2</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Atieh-Part2.mp3" length="45404910" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: عطیه از آمریکا - بخش دوم</itunes:subtitle>
+				<itunes:summary>بخش دوم از صحبت‌های من با عطیه. همونطور که در قسمت قبل گفتیم عطیه لیسانس خودش رو در رشته کامپیوتر از دانشگاه شریف دریافت کرده و سپس برای ادامه تحصیل به آمریکا رفت. عطیه در حال حاضر دچار عارضه‌ایست به نام SMA که فعالیت‌های فیزیکی‌اش رو بسیار محدود می‌کنه. در این قسمت بیشتر به زندگی و چالش‌هایی که عطیه با زندگی در آمریکا با اونها روبرو شده میپردازیم.</itunes:summary>
+				<itunes:duration>62:49</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, آمریکا, کامپیوتر</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+			<item>
+				<title>عطیه از آمریکا - بخش اول</title>
+				<link>https://radioDaal.ir/atieh-part1</link>
+				<pubDate>Fri, 26 Oct 2018 00:00:00 +0330</pubDate>
+				<description>در این قسمت با عطیه همراه شده‌ام. عطیه لیسانس خودش رو از دانشگاه شریف گرفته و در حال حاضر به همراه خانوداه‌اش در آمریکا زندگی می‌کنه و مشغول به تحصیله. اما اصلی‌ترین موضوع در این بین شرایط خاصی است که عطیه باهاش درگیره و اون عارضه‌ای است به اسم آتروفی عضلانی نخاعی یا SMA</description>
+				<guid isPermaLink="true">https://radioDaal.ir/atieh-part1</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Atieh-Part1.mp3" length="45831854" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: عطیه از آمریکا - بخش اول</itunes:subtitle>
+				<itunes:summary>در این قسمت با عطیه همراه شده‌ام. عطیه لیسانس خودش رو از دانشگاه شریف گرفته و در حال حاضر به همراه خانوداه‌اش در آمریکا زندگی می‌کنه و مشغول به تحصیله. اما اصلی‌ترین موضوع در این بین شرایط خاصی است که عطیه باهاش درگیره و اون عارضه‌ای است به اسم آتروفی عضلانی نخاعی یا SMA</itunes:summary>
+				<itunes:duration>63:25</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, آمریکا, کامپیوتر</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>مسافر: مرضیه از کانادا</title>
