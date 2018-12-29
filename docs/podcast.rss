@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Fri, 26 Oct 2018 18:29:50 +0330</pubDate>
-		<lastBuildDate>Fri, 26 Oct 2018 18:29:50 +0330</lastBuildDate>
+		<pubDate>Sat, 29 Dec 2018 20:00:20 +0330</pubDate>
+		<lastBuildDate>Sat, 29 Dec 2018 20:00:20 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>اُزی</title>
+				<link>https://radioDaal.ir/oz</link>
+				<pubDate>Sat, 29 Dec 2018 00:00:00 +0330</pubDate>
+				<description>در این قسمت با ازی صحبت کرده‌ام. ازی دراماتورژی می‌خونه و الان ساکن آلمانه.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/oz</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Oz-Germany.mp3" length="79234681" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: اُزی</itunes:subtitle>
+				<itunes:summary>در این قسمت با ازی صحبت کرده‌ام. ازی دراماتورژی می‌خونه و الان ساکن آلمانه.</itunes:summary>
+				<itunes:duration>109:46</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, آلمان, تئاتر</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>عطیه از آمریکا - بخش دوم</title>
