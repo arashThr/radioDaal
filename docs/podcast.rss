@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Sat, 29 Dec 2018 20:00:20 +0330</pubDate>
-		<lastBuildDate>Sat, 29 Dec 2018 20:00:20 +0330</lastBuildDate>
+		<pubDate>Wed, 17 Apr 2019 21:14:52 +0430</pubDate>
+		<lastBuildDate>Wed, 17 Apr 2019 21:14:52 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>دکتر پرتغال؛ با هوشیار از پرتغال</title>
+				<link>https://radioDaal.ir/hooshiar</link>
+				<pubDate>Wed, 17 Apr 2019 00:00:00 +0430</pubDate>
+				<description>هوشیار در پرتغال مدرک دکترای خودش رو گرفته و الان در شهر پورتو همراه با همسر خودش مشغول به کار و زندگیه.</description>
+				<guid isPermaLink="true">https://radioDaal.ir/hooshiar</guid>
+				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Hooshiar-Portugal.mp3" length="50899494" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: دکتر پرتغال؛ با هوشیار از پرتغال</itunes:subtitle>
+				<itunes:summary>هوشیار در پرتغال مدرک دکترای خودش رو گرفته و الان در شهر پورتو همراه با همسر خودش مشغول به کار و زندگیه.</itunes:summary>
+				<itunes:duration>70:27</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, پرتغال, دکترا</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>اُزی</title>
