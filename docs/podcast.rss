@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fa">
 	<channel>
 		<atom:link href="https://radioDaal.ir/podcast.rss" rel="self" type="application/rss+xml" />
-		<title>رادیو دال</title>
+		<title>رادیو دال | Radio Daal</title>
 		<description>گفتن از مسیرها و انتخاب‌ها؛ این پادکست یک مرجع نیست، یک تجربه است</description>
 		<link>https://radioDaal.ir</link>
 		<language>fa</language>
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
-		<copyright>۲۰۱۸ رادیو دال</copyright>
-		<pubDate>Tue, 14 May 2019 21:35:41 +0430</pubDate>
-		<lastBuildDate>Tue, 14 May 2019 21:35:41 +0430</lastBuildDate>
+		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
+		<pubDate>Tue, 14 May 2019 21:42:37 +0430</pubDate>
+		<lastBuildDate>Tue, 14 May 2019 21:42:37 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
-			<title>رادیو دال</title>
+			<title>رادیو دال | Radio Daal</title>
 		</image>
 		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
 		<itunes:author>Arash Thr</itunes:author>

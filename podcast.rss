@@ -12,7 +12,7 @@ layout: null
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>
 		<webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
-		<copyright>۲۰۱۸ {{ site.title }}</copyright>
+		<copyright>۲۰۱۹ {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
@@ -48,7 +48,7 @@ layout: null
 				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author.name }}</itunes:author>
-				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+				<itunes:subtitle>{{ site.fa_title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | default: post.excerpt | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords | join: ', ' }}</itunes:keywords>
