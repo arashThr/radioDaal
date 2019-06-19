@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Wed, 15 May 2019 03:11:05 +0430</pubDate>
-		<lastBuildDate>Wed, 15 May 2019 03:11:05 +0430</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2019 20:49:30 +0430</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2019 20:49:30 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,23 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>راحله از کانادا</title>
+				<link>https://radioDaal.ir/rahele</link>
+				<pubDate>Wed, 19 Jun 2019 00:00:00 +0430</pubDate>
+				<description></description>
+				<guid isPermaLink="true">https://radioDaal.ir/rahele</guid>
+				<enclosure url="https://media.blubrry.com/472117/archive.org/download/radioDaal/Rahele-Canada.mp3" length="72117547" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: راحله از کانادا</itunes:subtitle>
+				<itunes:summary></itunes:summary>
+				<itunes:duration>99:50</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, کانادا, انسانی, مهندسی</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>یاسمین از ایتالیا</title>
