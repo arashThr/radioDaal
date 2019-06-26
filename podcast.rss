@@ -44,7 +44,7 @@ layout: null
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.excerpt | xml_escape }}</description>
+				<description>{{ post.summary | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author.name }}</itunes:author>

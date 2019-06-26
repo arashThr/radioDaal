@@ -4,7 +4,7 @@ title: 'فرناز، مهرداد و کانادا '
 duration: "62:51" #audio length in min
 length: "26479224" #filesize in byte
 summary: 'قسمت سوم رادیو دال: مهرداد و فرناز از کانادا'
-excerpt: 'در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.'
+summary: 'در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.'
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/FarnazMehrdad-Canada.mp3'
 categories:

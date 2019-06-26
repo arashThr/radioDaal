@@ -266,7 +266,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3" length="57382421" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرزانه از ایرلند شمالی</itunes:subtitle>
-				<itunes:summary>قسمت چهارده رادیو دال: فرزانه از ایرلند شمالی</itunes:summary>
+				<itunes:summary>ایرلند شمالی جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در ایرلند شمالی صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور جنگ‌های داخلی به شهر حس و حال داده‌ان.</itunes:summary>
 				<itunes:duration>61:43</itunes:duration>
 				<itunes:keywords>مهاجرت, انگلیس, منچستر, ایرلند, تحصیل, دکترا, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -283,7 +283,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Parnian-Australia.mp3" length="27683904" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پرنیان و استرالیا</itunes:subtitle>
-				<itunes:summary>قسمت سیزده از رادیو دال: پرنیان و قاره دور افتاده</itunes:summary>
+				<itunes:summary>استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.</itunes:summary>
 				<itunes:duration>64:38</itunes:duration>
 				<itunes:keywords>مهاجرت, استرالیا, کار, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -300,7 +300,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Shahrzad-Dubai.mp3" length="24442826" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: شهرزاد و دبی</itunes:subtitle>
-				<itunes:summary>قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی</itunes:summary>
+				<itunes:summary>این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.</itunes:summary>
 				<itunes:duration>58:00</itunes:duration>
 				<itunes:keywords>مهاجرت, دبی, کار, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -317,7 +317,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3" length="23983555" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: امین، اعظم و مالزی</itunes:subtitle>
-				<itunes:summary>قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی</itunes:summary>
+				<itunes:summary>در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.</itunes:summary>
 				<itunes:duration>56:48</itunes:duration>
 				<itunes:keywords>مهاجرت, مالزی, کار, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -334,7 +334,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Abbas-US.mp3" length="25612303" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عباس و آمریکا</itunes:subtitle>
-				<itunes:summary>قسمت ده از رادیو دال: صحبت با عباس از آمریکا</itunes:summary>
+				<itunes:summary>این قسمت عباس عزیز لطف کرده و در رادیو دال شرکت کرده. عباس مدرک کارشناسی رو ایران گرفت و برای مقطع ارشد به آمریکا رفت. الان همونجا و در ایالت اوهایو مشغول به کار شده و داره زندگی می‌کنه.</itunes:summary>
 				<itunes:duration>60:58</itunes:duration>
 				<itunes:keywords>مهاجرت, آمریکا, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -351,7 +351,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Pooya-Germany.mp3" length="23299459" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پویا و آلمان</itunes:subtitle>
-				<itunes:summary>قسمت نه از رادیو دال: صحبت با پویا از آلمان</itunes:summary>
+				<itunes:summary>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</itunes:summary>
 				<itunes:duration>55:28</itunes:duration>
 				<itunes:keywords>مهاجرت, آلمان, تحصیل, گفتگو</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -368,7 +368,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Masih-Italy.mp3" length="28116746" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسیح و میلان</itunes:subtitle>
-				<itunes:summary>قسمت شش رادیو دال: مسیح از ایتالیا</itunes:summary>
+				<itunes:summary>و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.</itunes:summary>
 				<itunes:duration>66:35</itunes:duration>
 				<itunes:keywords>مهاجرت, ایتالیا, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -385,7 +385,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Arash-Switzerland.mp3" length="34114911" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: آرش از سوئیس</itunes:subtitle>
-				<itunes:summary>قسمت پنجم رادیو دال: آرش از سوئیس</itunes:summary>
+				<itunes:summary>در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.</itunes:summary>
 				<itunes:duration>81:00</itunes:duration>
 				<itunes:keywords>مهاجرت, سوئیس, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -402,7 +402,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Erfan-England.mp3" length="21128214" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عرفان: از منچستر تا تهران</itunes:subtitle>
-				<itunes:summary>قسمت چهارم رادیو دال: عرفان و انگلیس</itunes:summary>
+				<itunes:summary>در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.</itunes:summary>
 				<itunes:duration>50:07</itunes:duration>
 				<itunes:keywords>مهاجرت, انگلیس, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -419,7 +419,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/FarnazMehrdad-Canada.mp3" length="26479224" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرناز، مهرداد و کانادا </itunes:subtitle>
-				<itunes:summary>قسمت سوم رادیو دال: مهرداد و فرناز از کانادا</itunes:summary>
+				<itunes:summary>در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.</itunes:summary>
 				<itunes:duration>62:51</itunes:duration>
 				<itunes:keywords>مهاجرت, کانادا, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -436,7 +436,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/RojinSaba-Us.mp3" length="32589266" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: صبا، روژین و آمریکا</itunes:subtitle>
-				<itunes:summary>قسمت دوم رادیو دال: صبا و روژین از آمریکا</itunes:summary>
+				<itunes:summary>در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.</itunes:summary>
 				<itunes:duration>77:23</itunes:duration>
 				<itunes:keywords>مهاجرت, آمریکا, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
@@ -453,7 +453,7 @@
 				<enclosure url="http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Germany.mp3" length="23906025" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: علی و آلمان</itunes:subtitle>
-				<itunes:summary>قسمت اول رادیو دال: علی از آلمان</itunes:summary>
+				<itunes:summary>در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.</itunes:summary>
 				<itunes:duration>56:43</itunes:duration>
 				<itunes:keywords>مهاجرت, آلمان, تحصیل, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />

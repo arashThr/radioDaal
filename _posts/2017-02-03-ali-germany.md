@@ -4,7 +4,7 @@ title: 'علی و آلمان'
 duration: "56:43" #audio length in min
 length: "23906025" #filesize in byte
 summary: 'قسمت اول رادیو دال: علی از آلمان'
-excerpt: 'در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.'
+summary: 'در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.'
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Germany.mp3'
 categories:

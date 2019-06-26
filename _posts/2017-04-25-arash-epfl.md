@@ -4,7 +4,7 @@ title: 'آرش از سوئیس'
 duration: "81:00" #audio length in min
 length: "34114911" #filesize in byte
 summary: 'قسمت پنجم رادیو دال: آرش از سوئیس'
-excerpt: 'در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.'
+summary: 'در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.'
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Arash-Switzerland.mp3'
 categories:

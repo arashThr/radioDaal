@@ -4,7 +4,7 @@ title: 'امین، اعظم و مالزی'
 duration: "56:48" #audio length in min
 length: "23983555" #filesize in byte
 summary: 'قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی'
-excerpt: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
+summary: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3'
 categories:

@@ -7,6 +7,8 @@ title: Home
   <h3>
   به رادیو دال خوش آمدید!
   </h3>
+  <br>
+  <small>
   <p>
 در این پادکست من با دوستانم از <b>کار، تحصیل و مهاجرت</b> صحبت می‌کنم. تقریبا هر ماه یک نفر، یک کشور و یک رشته.
   </p>
@@ -14,12 +16,12 @@ title: Home
   <p>
     به این پادکست می‌توانید از طریق اپل‌پادکست، گوگل‌پادکست و یا اسپاتیفای گوش دهید.
   </p>
-
   {%include badges.html %}
 
   <p>
     برای مشاهده قسمت‌های قبل به <a href="{{ site.baseurl }}/archive">آرشیو</a> سر بزنید و برای اطلاع از انتشار قسمت‌های جدید در خبرنامه عضو شوید.
   </p>
+</small>
 
   <div id="mc_embed_signup">
     <form dir="ltr" action="//partalk.us15.list-manage.com/subscribe/post?u=03d2436c1809de4a80a7bba9f&amp;id=4c0bfb5c97" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
@@ -46,8 +48,8 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | jdate: "%A %d %b %Y" }}</span>
-
-    {{ post.content }}
+    {{ post.excerpt }}
+    <a href="{{ site.baseurl }}{{ post.url }}">توضیحات بیشتر ...</a>
   </div>
   {% endfor %}
 </div>

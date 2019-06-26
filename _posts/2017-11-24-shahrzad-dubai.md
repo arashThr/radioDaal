@@ -4,7 +4,7 @@ title: 'شهرزاد و دبی'
 duration: "58:00" #audio length in min
 length: "24442826" #filesize in byte
 summary: 'قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی'
-excerpt: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
+summary: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
 explicit: "no"
 file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
 categories:
