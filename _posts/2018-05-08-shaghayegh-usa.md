@@ -37,8 +37,6 @@ keywords:
 
 برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2rqZHCY) مراجعه کنید.  
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/441038727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 <hr>
 
 **خلاصه مطالب**
@@ -54,6 +52,8 @@ keywords:
 - قدم گذاشتن به خاک آمریکا
 
 <hr>
+
+{% include player.html id="76328100" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 <div dir="ltr" style="font-size: smaller;">

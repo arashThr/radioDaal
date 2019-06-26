@@ -36,12 +36,7 @@ keywords:
 
 برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2MSHABF) مراجعه کنید.  
 
-<!-- {% include player.html id="34843447" %} -->
-<!-- {%include audio.html url="Marzieh-Canada" %} -->
-
-<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=-WoAxb4&ge=s1!55d389f536dd81deb29ee178a10e54773aa138f3"></iframe>
-
-
+{% include player.html id="89858217" %}
 
 <hr>
 

@@ -69,7 +69,7 @@ keywords:
 
 <hr>
 
-{% include player.html id="32703833" %}
+{% include player.html id="71202043" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 <div dir="ltr" style="font-size: smaller;">

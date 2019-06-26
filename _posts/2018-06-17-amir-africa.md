@@ -36,9 +36,7 @@ keywords:
 
 برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2K1lBHk) مراجعه کنید.  
 
-<!-- {% include player.html id="34843447" %} -->
-<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=-WoAxb4&ge=s1!2ab733011633e33114271d972b5981b5127152c8"></iframe>
-
+{% include player.html id="81104837" %}
 
 <hr>
 
