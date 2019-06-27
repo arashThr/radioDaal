@@ -1065,7 +1065,7 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 }
 
 .intro {
-    background: rgba(83, 50, 172, 0.3);
+    background: rgba(83, 50, 172, 0.1);
     padding: 10px 24px 28px;
 }
 
@@ -1126,4 +1126,20 @@ blockquote {
 .theme-base-1a .sidebar-toggle,
 .theme-base-1a .related-posts li a:hover {
   color: #532baf;
+}
+
+.svg-badge > a > img{
+    width: 165px;
+    height: 40;
+}
+
+.social-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.social-logo > a > img {
+    margin: 10px 10px 10px 10px;
+    width: 40px;
+    height: 40px;
 }
