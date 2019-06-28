@@ -3,7 +3,7 @@
 	<channel>
 		<atom:link href="https://radioDaal.ir/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال | Radio Daal</title>
-		<description>گفتن از مسیرها و انتخاب‌ها؛ این پادکست یک مرجع نیست، یک تجربه است</description>
+		<description>در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.</description>
 		<link>https://radioDaal.ir</link>
 		<language>fa</language>
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
@@ -16,9 +16,9 @@
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
 			<title>رادیو دال | Radio Daal</title>
 		</image>
-		<itunes:subtitle>گپ و گفتمانی خودمانی از تجربه‌ها</itunes:subtitle>
+		<itunes:subtitle>این پادکست یک مرجع نیست، یک تجربه است.</itunes:subtitle>
 		<itunes:author>Arash Thr</itunes:author>
-		<itunes:summary>مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟ رادیو دال هم با همین ایده شکل گرفته: من که میشستم با دوستام گپ بزنم و ازشون راجع به کار، تحصیل و مهاجرت سوال بپرسم، خب چرا حرفها و تجربیات رو با بقیه به اشتراک نذارم؟</itunes:summary>
+		<itunes:summary>در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.</itunes:summary>
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
 			<itunes:name>Arash Thr</itunes:name>

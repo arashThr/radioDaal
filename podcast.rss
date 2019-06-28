@@ -20,9 +20,9 @@ layout: null
 			<url>{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
-		<itunes:subtitle>{{ site.podcastsubtitle | xml_escape }}</itunes:subtitle>
+		<itunes:subtitle>{{ site.tagline | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.author.name }}</itunes:author>
-		<itunes:summary>{{ site.podcastdescription | xml_escape }}</itunes:summary>
+		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
 			<itunes:name>{{ site.author.name }}</itunes:name>
