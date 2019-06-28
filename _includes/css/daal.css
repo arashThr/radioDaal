@@ -77,3 +77,7 @@ blockquote {
     width: 40px;
     height: 40px;
 }
+
+.content {
+    text-align: justify;
+}
