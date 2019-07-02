@@ -1148,3 +1148,20 @@ blockquote {
     text-align: justify;
 }
 
+.mobileShow { display: none;}
+
+/* Smartphone Portrait and Landscape */
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+    .mobileShow {display: inline;}
+}
+
+
+.mobileHide { display: inline; }
+
+/* Smartphone Portrait and Landscape */
+@media only screen
+  and (min-width : 320px)
+  and (max-width : 480px){
+   .mobileHide { display: none;}
+}
+
