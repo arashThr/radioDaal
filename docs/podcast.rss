@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Wed, 19 Jun 2019 21:21:29 +0430</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2019 21:21:29 +0430</lastBuildDate>
+		<pubDate>Wed, 17 Jul 2019 21:25:32 +0430</pubDate>
+		<lastBuildDate>Wed, 17 Jul 2019 21:25:32 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,25 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>رفت و برگشت با علی</title>
+				<link>https://radioDaal.ir/ali-nomad</link>
+				<pubDate>Wed, 17 Jul 2019 00:00:00 +0430</pubDate>
+				<description>علی در دوره‌ای برای گرفتن مدرک دکترا به کانادا رفته بود، ولی در اواسط کار انصراف داد و به ایران برگشت. در حال حاضر علی در صفحه اینستاگرامی که داره تلاش می‌کنه جاذبه‌های گردشگری ایران رو به مخاطبانش که عمدتا انگلیسی زبانان هستند معرفی کنه. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ali-nomad&quot;&gt;سایت&lt;/a&gt;
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/ali-nomad</guid>
+				<enclosure url="https://media.blubrry.com/472117/archive.org/download/radioDaal/Ali-Nomad.mp3" length="61159937" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: رفت و برگشت با علی</itunes:subtitle>
+				<itunes:summary>علی در دوره‌ای برای گرفتن مدرک دکترا به کانادا رفته بود، ولی در اواسط کار انصراف داد و به ایران برگشت. در حال حاضر علی در صفحه اینستاگرامی که داره تلاش می‌کنه جاذبه‌های گردشگری ایران رو به مخاطبانش که عمدتا انگلیسی زبانان هستند معرفی کنه. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ali-nomad&quot;&gt;سایت&lt;/a&gt;
+</itunes:summary>
+				<itunes:duration>84:39</itunes:duration>
+				<itunes:keywords>مهاجرت, تحصیل, کانادا, ایران</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>راحله از کانادا</title>
