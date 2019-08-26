@@ -6,7 +6,7 @@ length: "24442826" #filesize in byte
 summary: 'قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی'
 summary: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
 explicit: "no"
-file: 'http://archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
+file: 'archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
 categories:
     - podcast
 keywords:
@@ -25,7 +25,7 @@ keywords:
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-12) و یا مستقیما از [همین جا]({{page.file}}) دریافت کنید.  
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-12) دریافت کنید.  
 نسخه با کیفیت بالا روی گوگل درایو موجود هست.
 
 {%include audio.html url="Shahrzad-Dubai" %}

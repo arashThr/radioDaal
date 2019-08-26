@@ -5,7 +5,7 @@ duration: "60:00" #audio length in min
 length: "43457291" #filesize in byte
 summary: 'شقایق در اواخر سال هشتاد و نه همراه با همسر و فرزندش به آمریکا مهاجرت کرد. دانشگاه تهران درس خونده، چندین سال در ایران کار کرده و از طریق تحصیلی تونسته بره ایالت میشیگان. در این قسمت داستان این خانواده رو میشنویم و می‌پردازیم به اینکه چطور مسیر زندگی شقایق پس از به دنیا اومدن فرزندش عوض شد.'
 explicit: "no"
-file: 'http://archive.org/download/radioDaal/Shaghayegh-USA.mp3'
+file: 'archive.org/download/radioDaal/Shaghayegh-USA.mp3'
 categories:
     - podcast
 keywords:
@@ -33,7 +33,6 @@ keywords:
 رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](http://bit.ly/2C2KlZw).  
 دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-18) هم امکان‌پذیر است.  
 علاوه بر اینها این قسمت رو در [دراپ باکس](http://bit.ly/2rrqQ8D) و [ساوندکلاود](http://bit.ly/2IqBmXB) هم قرار داده‌ام.  
-برای دانلود مستقیم هم از این [لینک]({{page.file}}) استفاده کنید.
 
 برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2rqZHCY) مراجعه کنید.  
 

@@ -5,7 +5,7 @@ duration: "55:44" #audio length in min
 length: "40137747" #filesize in byte
 summary: 'در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.'
 explicit: "no"
-file: 'http://archive.org/download/radioDaal/Amir-Africa-Japan.mp3'
+file: 'archive.org/download/radioDaal/Amir-Africa-Japan.mp3'
 categories:
     - podcast
 keywords:
@@ -32,7 +32,6 @@ keywords:
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید.  
 دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-20) هم امکان‌پذیر است.  
 رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](http://bit.ly/2C2KlZw).  
-برای دانلود مستقیم هم از این [لینک]({{page.file}}) استفاده کنید.
 
 برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2K1lBHk) مراجعه کنید.  
 

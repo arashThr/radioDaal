@@ -6,7 +6,7 @@ length: "28116746" #filesize in byte
 summary: 'قسمت شش رادیو دال: مسیح از ایتالیا'
 summary: 'و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.'
 explicit: "no"
-file: 'http://archive.org/download/radioDaal/Masih-Italy.mp3'
+file: 'archive.org/download/radioDaal/Masih-Italy.mp3'
 categories:
     - podcast
 keywords:

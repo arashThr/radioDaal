@@ -6,7 +6,7 @@ length: "23299459" #filesize in byte
 summary: 'قسمت نه از رادیو دال: صحبت با پویا از آلمان'
 summary: 'در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.'
 explicit: "no"
-file: 'http://archive.org/download/radioDaal/Pooya-Germany.mp3'
+file: 'archive.org/download/radioDaal/Pooya-Germany.mp3'
 categories:
     - podcast
 keywords:
