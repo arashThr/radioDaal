@@ -6,7 +6,7 @@ length: "21128214" #filesize in byte
 summary: 'قسمت چهارم رادیو دال: عرفان و انگلیس'
 summary: 'در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.'
 explicit: "no"
-file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Erfan-England.mp3'
+file: 'http://archive.org/download/radioDaal/Erfan-England.mp3'
 categories:
     - podcast
 keywords:

@@ -6,7 +6,7 @@ length: "34114911" #filesize in byte
 summary: 'قسمت پنجم رادیو دال: آرش از سوئیس'
 summary: 'در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.'
 explicit: "no"
-file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/Arash-Switzerland.mp3'
+file: 'http://archive.org/download/radioDaal/Arash-Switzerland.mp3'
 categories:
     - podcast
 keywords:

@@ -6,7 +6,7 @@ length: "23983555" #filesize in byte
 summary: 'قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی'
 summary: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
 explicit: "no"
-file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3'
+file: 'http://archive.org/download/radioDaal/AminAzam-malaysia.mp3'
 categories:
     - podcast
 keywords:
@@ -25,7 +25,7 @@ keywords:
 
 <hr>
 
-می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-11) و یا مستقیما از [همین جا](http://media.blubrry.com/472117/archive.org/download/radioDaal/AminAzam-malaysia.mp3) دریافت کنید.  
+می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-11) و یا مستقیما از [همین جا]({{page.file}}) دریافت کنید.  
 
 یه راه دیگه هم اینه که همینجا داخل سایت به این قسمت گوش بدید:
 

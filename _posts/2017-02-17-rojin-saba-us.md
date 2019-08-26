@@ -6,7 +6,7 @@ length: "32589266" #filesize in byte
 summary: 'قسمت دوم رادیو دال: صبا و روژین از آمریکا'
 summary: 'در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.'
 explicit: "no"
-file: 'http://media.blubrry.com/472117/archive.org/download/radioDaal/RojinSaba-Us.mp3'
+file: 'http://archive.org/download/radioDaal/RojinSaba-Us.mp3'
 categories:
     - podcast
 keywords:
