@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Fri, 16 Aug 2019 18:36:31 +0430</pubDate>
-		<lastBuildDate>Fri, 16 Aug 2019 18:36:31 +0430</lastBuildDate>
+		<pubDate>Tue, 27 Aug 2019 22:43:58 +0430</pubDate>
+		<lastBuildDate>Tue, 27 Aug 2019 22:43:58 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,25 @@
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>مهدی از الکتروبوم</title>
+				<link>https://radioDaal.ir/electroboom</link>
+				<pubDate>Tue, 27 Aug 2019 00:00:00 +0430</pubDate>
+				<description>تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه کانال یوتیوب داره به اسم الکتروبوم. کانال یوتیوب مهدی بیش از دو میلیون و هفتصد هزار مخاطب داره و ساخت ویدئو برای این کانال تبدیل به کار تمام وقت برای مهدی شده.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/electroboom</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mehdi-Electroboom.mp3" length="59448892" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: مهدی از الکتروبوم</itunes:subtitle>
+				<itunes:summary>تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه کانال یوتیوب داره به اسم الکتروبوم. کانال یوتیوب مهدی بیش از دو میلیون و هفتصد هزار مخاطب داره و ساخت ویدئو برای این کانال تبدیل به کار تمام وقت برای مهدی شده.
+</itunes:summary>
+				<itunes:duration>82:14</itunes:duration>
+				<itunes:keywords>یوتیوب, اینترنت, برق, کانادا</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>پدرام از نروژ</title>
