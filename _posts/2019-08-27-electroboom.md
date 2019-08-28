@@ -28,8 +28,8 @@ keywords:
 
  اگر خواستید یکی از ویدئوهای مهدی رو تماشا کنید، من خودم این قسمت که راجع به گرافیت هست رو خیلی دوست داشتم:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5YBwDNfOaxU
-" target="_blank"><img src="http://img.youtube.com/vi/5YBwDNfOaxU/0.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=5YBwDNfOaxU
+" target="_blank"><img src="https://img.youtube.com/vi/5YBwDNfOaxU/0.jpg" 
 alt="Graphite and Its Awesome Properties" width="240" height="180" border="10" /></a>
 
 مهدی رو می‌تونید در [اینستاگرام](https://www.instagram.com/mehdi_sadaghdar/)
