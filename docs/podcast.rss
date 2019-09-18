@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Tue, 27 Aug 2019 22:43:58 +0430</pubDate>
-		<lastBuildDate>Tue, 27 Aug 2019 22:43:58 +0430</lastBuildDate>
+		<pubDate>Wed, 18 Sep 2019 22:42:50 +0430</pubDate>
+		<lastBuildDate>Wed, 18 Sep 2019 22:42:50 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -25,16 +25,45 @@
 			<itunes:email>radioDaal@outlook.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
-		<itunes:category text="Business">
-			<itunes:category text="Careers" />
-		</itunes:category>
-		<itunes:category text="Education">
-			<itunes:category text="Higher Education" />
-		</itunes:category>
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
+		<itunes:category text="Comedy">
+			<itunes:category text="Comedy Interviews" />
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Careers" />
+		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>دنیای چین</title>
+				<link>https://radioDaal.ir/donya</link>
+				<pubDate>Tue, 17 Sep 2019 00:00:00 +0430</pubDate>
+				<description>در این قسمت از پادکست با دنیا همراه شدم که دو سال گذشته رو در چین زندگی کرده.
+در بخش اول از گفتگو راجع به این صحبت کردیم که چطور دنیا پاش به چین باز شد و در بخش دوم از آداب و رسوم و فرهنگ چین حرف زدیم. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/donya&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+
+دنیا رو می‌تونید در &lt;a href=&quot;https://instagram.com/donyaa68/&quot;&gt;اینستاگرام&lt;/a&gt; دنبال کنید.
+
+برای اطلاع از اخبار پادکست، رادیو دال رو در &lt;a href=&quot;https://t.me/radioDaal&quot;&gt;تلگرام&lt;/a&gt;، &lt;a href=&quot;https://www.instagram.com/radiodaal/&quot;&gt;اینستاگرام&lt;/a&gt; و &lt;a href=&quot;https://twitter.com/radioDaal&quot;&gt;توئیتر&lt;/a&gt; جستجو کنید.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/donya</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Donya-China.mp3" length="68134260" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: دنیای چین</itunes:subtitle>
+				<itunes:summary>در این قسمت از پادکست با دنیا همراه شدم که دو سال گذشته رو در چین زندگی کرده.
+در بخش اول از گفتگو راجع به این صحبت کردیم که چطور دنیا پاش به چین باز شد و در بخش دوم از آداب و رسوم و فرهنگ چین حرف زدیم. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/donya&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+
+دنیا رو می‌تونید در &lt;a href=&quot;https://instagram.com/donyaa68/&quot;&gt;اینستاگرام&lt;/a&gt; دنبال کنید.
+
+برای اطلاع از اخبار پادکست، رادیو دال رو در &lt;a href=&quot;https://t.me/radioDaal&quot;&gt;تلگرام&lt;/a&gt;، &lt;a href=&quot;https://www.instagram.com/radiodaal/&quot;&gt;اینستاگرام&lt;/a&gt; و &lt;a href=&quot;https://twitter.com/radioDaal&quot;&gt;توئیتر&lt;/a&gt; جستجو کنید.
+</itunes:summary>
+				<itunes:duration>94:01</itunes:duration>
+				<itunes:keywords>انگلیسی, چین</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>مهدی از الکتروبوم</title>
