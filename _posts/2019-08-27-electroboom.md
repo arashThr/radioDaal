@@ -65,7 +65,7 @@ alt="Graphite and Its Awesome Properties" width="240" height="180" border="10" /
 
 <hr>
 
-<!-- {% include player.html id="177725572" %} -->
+{% include player.html id="180125759" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 
