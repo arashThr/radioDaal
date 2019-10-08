@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Wed, 18 Sep 2019 22:42:50 +0430</pubDate>
-		<lastBuildDate>Wed, 18 Sep 2019 22:42:50 +0430</lastBuildDate>
+		<pubDate>Tue, 08 Oct 2019 17:04:29 +0330</pubDate>
+		<lastBuildDate>Tue, 08 Oct 2019 17:04:29 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>رویای تی هزار، با محمد مدرس</title>
+				<link>https://radioDaal.ir/mohammad-ilm</link>
+				<pubDate>Tue, 08 Oct 2019 00:00:00 +0330</pubDate>
+				<description>در این قسمت از رادیو دال محمد مدرس مهمان برنامه شده. محمد در ایالت کالیفرنیا زندگی میکنه و در شرکت آی‌اِل‌ام مشغول به کاره. این شرکت مسئول جلوه‌های ویژه بعضی از بزرگترین پروژه‌های هالیوودی بوده. محمد در این شرکت در قسمت مجسمه‌سازی دیجیتال کار می‌کنه و سابقه کار روی پروژه‌هایی مثل ددپول، دکتر استرنج و آیریش من، جدیدترین فیلم مارتین اسکورسیزی رو داره.
+
+برای مشاهده سوابق محمد به صفحه‌ی کاری‌اش در &lt;a href=&quot;https://www.imdb.com/name/nm3973741/&quot;&gt;IMDb&lt;/a&gt; سر بزنید و اگر دوست دارید می‌تونید در &lt;a href=&quot;https://twitter.com/3mmmod&quot;&gt;توئیتر&lt;/a&gt; و &lt;a href=&quot;https://www.instagram.com/3mmmod/&quot;&gt;اینستاگرام&lt;/a&gt; هم محمد رو دنبال کنید.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/mohammad-ilm</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohammd-ILM.mp3" length="58139250" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: رویای تی هزار، با محمد مدرس</itunes:subtitle>
+				<itunes:summary>در این قسمت از رادیو دال محمد مدرس مهمان برنامه شده. محمد در ایالت کالیفرنیا زندگی میکنه و در شرکت آی‌اِل‌ام مشغول به کاره. این شرکت مسئول جلوه‌های ویژه بعضی از بزرگترین پروژه‌های هالیوودی بوده. محمد در این شرکت در قسمت مجسمه‌سازی دیجیتال کار می‌کنه و سابقه کار روی پروژه‌هایی مثل ددپول، دکتر استرنج و آیریش من، جدیدترین فیلم مارتین اسکورسیزی رو داره.
+
+برای مشاهده سوابق محمد به صفحه‌ی کاری‌اش در &lt;a href=&quot;https://www.imdb.com/name/nm3973741/&quot;&gt;IMDb&lt;/a&gt; سر بزنید و اگر دوست دارید می‌تونید در &lt;a href=&quot;https://twitter.com/3mmmod&quot;&gt;توئیتر&lt;/a&gt; و &lt;a href=&quot;https://www.instagram.com/3mmmod/&quot;&gt;اینستاگرام&lt;/a&gt; هم محمد رو دنبال کنید.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>80:31</itunes:duration>
+				<itunes:keywords>آمریکا, هنر, فیلم</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>دنیای چین</title>
