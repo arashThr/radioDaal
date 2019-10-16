@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Tue, 08 Oct 2019 17:09:55 +0330</pubDate>
-		<lastBuildDate>Tue, 08 Oct 2019 17:09:55 +0330</lastBuildDate>
+		<pubDate>Wed, 16 Oct 2019 14:40:06 +0330</pubDate>
+		<lastBuildDate>Wed, 16 Oct 2019 14:40:06 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>محمد در آمریکا - بخش تکمیلی</title>
+				<link>https://radioDaal.ir/mohammad-bonus</link>
+				<pubDate>Wed, 16 Oct 2019 00:00:00 +0330</pubDate>
+				<description>در قسمت قبل که با حضور محمد بود، موقع ضبط راجع به موضوعات مختلفی صحبت کردیم. یه قسمت از این صحبت‌ها، حرف‌های محمد راجع به ازدواج، رابطه و فضای خود آمریکا بود.
+
+چون احساس کردم پرداختن به این موضوعات ممکنه یه کم باعث سردرگمی بشه و پراکندگی مطالب رو زیاد کنه، این قسمت از صحبت‌ها رو از گفتگوی اصلی خارج کردم و الان به صورت یه بخش مستقل منتشر میکنم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/mohammad-bonus</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohammad-ILM-Bonus.mp3" length="16640517" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: محمد در آمریکا - بخش تکمیلی</itunes:subtitle>
+				<itunes:summary>در قسمت قبل که با حضور محمد بود، موقع ضبط راجع به موضوعات مختلفی صحبت کردیم. یه قسمت از این صحبت‌ها، حرف‌های محمد راجع به ازدواج، رابطه و فضای خود آمریکا بود.
+
+چون احساس کردم پرداختن به این موضوعات ممکنه یه کم باعث سردرگمی بشه و پراکندگی مطالب رو زیاد کنه، این قسمت از صحبت‌ها رو از گفتگوی اصلی خارج کردم و الان به صورت یه بخش مستقل منتشر میکنم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>22:56</itunes:duration>
+				<itunes:keywords>آمریکا, ازدواج, رابطه</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>رویای تی هزار، با محمد مدرس</title>
