@@ -25,3 +25,17 @@
 این سایت یک سایت استاتیک هست. برای ساختش از جکیل استفاده شده و از طریق Netlify سرو میشه. راجع به چگونگی اتصال سایت به دامنه هم یکی از شنونده‌های پادکست مطلبی نوشته که در [اینجا](https://virgool.io/@dany_kh/githubpagesdominir-zqjgtpk5pjij) می‌تونید بخونید.
 
 </div>
+
+### Installation
+```
+brew upgrade ruby
+brew link --overwrite ruby
+echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+gem install --user-install bundler jekyll 
+gem install jalalidate
+gem install jekyll-paginate 
+```
+
+### Running
+- Build: `jekyll build --watch`
+- Serve: `jekyll serve --port 4000 --host 0.0.0.0 --incremental --watch`
