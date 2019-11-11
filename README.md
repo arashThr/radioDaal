@@ -38,4 +38,4 @@ gem install jekyll-paginate
 
 ### Running
 - Build: `jekyll build --watch`
-- Serve: `jekyll serve --port 4000 --host 0.0.0.0 --incremental --watch`
+- Serve: `jekyll serve --host 0.0.0.0 --incremental --watch`

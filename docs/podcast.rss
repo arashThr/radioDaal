@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Wed, 16 Oct 2019 14:40:06 +0330</pubDate>
-		<lastBuildDate>Wed, 16 Oct 2019 14:40:06 +0330</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2019 10:35:33 +0330</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2019 10:35:33 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>گوشه‌های عجیب و غریب اسپانیا</title>
+				<link>https://radioDaal.ir/shahin</link>
+				<pubDate>Mon, 11 Nov 2019 00:00:00 +0330</pubDate>
+				<description>در این قسمت از پادکست این فرصت مهیا شد تا من با یکی از سازنده‌های استرینگ‌کست، یعنی شاهین صحبت کنم. استرینگ‌کست پادکستی است با موضوعات علمی. علاوه بر این شاهین در حال حاضر در اسپانیا زندگی میکنه و در کنار موضوعات پادکستی راجع به حال و هوای اسپانیا هم صحبت کردیم.
+
+شما می‌تونید [استرینگ‌کست](https://castbox.fm/channel/StringCast-id314119?country=us) رو در هرجا که به رادیو دال گوش میدید پیدا کنید. اگر هم می‌خواید بیشتر با شاهین آشنا بشید می‌تونید به [سایتش](https://www.shahinjnezhad.com) سر بزنید یا در [توئیتر](https://twitter.com/shahin447/) دنبالش کنید.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/shahin&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/shahin</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Shahin-StringCast.mp3" length="48707819" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: گوشه‌های عجیب و غریب اسپانیا</itunes:subtitle>
+				<itunes:summary>در این قسمت از پادکست این فرصت مهیا شد تا من با یکی از سازنده‌های استرینگ‌کست، یعنی شاهین صحبت کنم. استرینگ‌کست پادکستی است با موضوعات علمی. علاوه بر این شاهین در حال حاضر در اسپانیا زندگی میکنه و در کنار موضوعات پادکستی راجع به حال و هوای اسپانیا هم صحبت کردیم.
+
+شما می‌تونید [استرینگ‌کست](https://castbox.fm/channel/StringCast-id314119?country=us) رو در هرجا که به رادیو دال گوش میدید پیدا کنید. اگر هم می‌خواید بیشتر با شاهین آشنا بشید می‌تونید به [سایتش](https://www.shahinjnezhad.com) سر بزنید یا در [توئیتر](https://twitter.com/shahin447/) دنبالش کنید.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/shahin&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>67:05</itunes:duration>
+				<itunes:keywords>پادکست, اسپانیا, علم</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>محمد در آمریکا - بخش تکمیلی</title>
