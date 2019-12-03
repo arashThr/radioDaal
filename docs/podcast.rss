@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Mon, 11 Nov 2019 10:54:52 +0330</pubDate>
-		<lastBuildDate>Mon, 11 Nov 2019 10:54:52 +0330</lastBuildDate>
+		<pubDate>Tue, 03 Dec 2019 19:22:23 +0330</pubDate>
+		<lastBuildDate>Tue, 03 Dec 2019 19:22:23 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>مسیر پر پیچ و خم، با قاسم از آلمان</title>
+				<link>https://radioDaal.ir/ghasem</link>
+				<pubDate>Tue, 03 Dec 2019 00:00:00 +0330</pubDate>
+				<description>این بار در رادیو دال همراه با قاسم از آلمان، قسمتی کاملا متفاوت از قسمت‌های قبل داریم. در اینجا دیگه خبری از درس و مدرک و دانشگاه نیست و به جاش پرواز‌های متوالی، قایق‌های زهوار در رفته و زندان‌های تک نفره داریم.
+
+قاسم یک روز تصمیم میگیره زندگی قبلی خودش در ایران رو کنار بذاره و به دنبال رویایی که سال‌ها در ذهن داشته بره؛ یک زندگی ساده و بی‌دردسر در مزرعه‌ای در استرالیا. حالا اینکه چطور قاسم وارد این مسیر میشه و در انتها چگونه از قاسمی که در ایران ازش فرار کرده بود متفاوت میشه، داستانی است که در این قسمت قراره بشنویم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ghasem&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/ghasem</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ghasem-Germany.mp3" length="69901674" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: مسیر پر پیچ و خم، با قاسم از آلمان</itunes:subtitle>
+				<itunes:summary>این بار در رادیو دال همراه با قاسم از آلمان، قسمتی کاملا متفاوت از قسمت‌های قبل داریم. در اینجا دیگه خبری از درس و مدرک و دانشگاه نیست و به جاش پرواز‌های متوالی، قایق‌های زهوار در رفته و زندان‌های تک نفره داریم.
+
+قاسم یک روز تصمیم میگیره زندگی قبلی خودش در ایران رو کنار بذاره و به دنبال رویایی که سال‌ها در ذهن داشته بره؛ یک زندگی ساده و بی‌دردسر در مزرعه‌ای در استرالیا. حالا اینکه چطور قاسم وارد این مسیر میشه و در انتها چگونه از قاسمی که در ایران ازش فرار کرده بود متفاوت میشه، داستانی است که در این قسمت قراره بشنویم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ghasem&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>96:55</itunes:duration>
+				<itunes:keywords>استرالیا, آلمان, پناهندگی</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>گوشه‌های عجیب و غریب اسپانیا</title>
