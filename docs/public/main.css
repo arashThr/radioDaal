@@ -84,9 +84,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   text-rendering: optimizeLegibility;
 }
-h1 {
-  font-size: 2rem;
-}
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
@@ -517,20 +514,6 @@ body {
   src: url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot?#iefix") format("embedded-opentype"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff2") format("woff2"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff") format("woff"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.ttf") format("truetype");
 }
 
-@font-face {
-  font-family: "mitra";
-  font-style: normal;
-  font-weight: bold;
-  src: url("/public/fonts/BMitra-Bold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "mitra";
-  font-style: normal;
-  font-weight: normal;
-  src: url("/public/fonts/BMitra-Regular.woff") format("woff");
-}
-
 .fa {
     font-family: "Droid Arabic Naskh", Arial, sans-serif
 }
@@ -541,11 +524,11 @@ body {
 }
 
 html {
-  font-family: "mitra", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "dana", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -652,7 +635,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -861,7 +844,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -1064,6 +1047,11 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
     #mc_embed_signup .button {width: 100%; margin:0; }
 }
 
+body {
+    font-size: 16px;
+    line-height: 2;
+}
+
 .intro {
     background: rgba(83, 50, 172, 0.1);
     padding: 10px 24px 28px;
@@ -1121,6 +1109,7 @@ blockquote {
 .theme-base-1a .sidebar-toggle:active,
 .theme-base-1a #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #532baf;
+  font-size: 0.7rem;
 }
 .theme-base-1a .container a,
 .theme-base-1a .sidebar-toggle,
@@ -1149,19 +1138,17 @@ blockquote {
 }
 
 .mobileShow { display: none;}
-
-/* Smartphone Portrait and Landscape */
-@media only screen and (min-width : 320px) and (max-width : 480px) {
-    .mobileShow {display: inline;}
-}
-
-
 .mobileHide { display: inline; }
 
 /* Smartphone Portrait and Landscape */
 @media only screen
   and (min-width : 320px)
   and (max-width : 480px){
-   .mobileHide { display: none;}
+   .mobileHide { display: none; }
+   .mobileShow { display: inline; }
+
+   body {
+    font-size: 0.9em;
+   }
 }
 

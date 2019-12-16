@@ -47,20 +47,6 @@ body {
   src: url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot?#iefix") format("embedded-opentype"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff2") format("woff2"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff") format("woff"), url("//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.ttf") format("truetype");
 }
 
-@font-face {
-  font-family: "mitra";
-  font-style: normal;
-  font-weight: bold;
-  src: url("{{ site.baseurl }}/public/fonts/BMitra-Bold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "mitra";
-  font-style: normal;
-  font-weight: normal;
-  src: url("{{ site.baseurl }}/public/fonts/BMitra-Regular.woff") format("woff");
-}
-
 .fa {
     font-family: "Droid Arabic Naskh", Arial, sans-serif
 }
@@ -71,11 +57,11 @@ body {
 }
 
 html {
-  font-family: "mitra", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "dana", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -182,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -391,7 +377,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "mitra", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "dana", "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
