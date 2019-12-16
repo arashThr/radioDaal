@@ -86,11 +86,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -1053,7 +1051,7 @@ body {
 }
 
 .intro {
-    background: rgba(83, 50, 172, 0.1);
+    background: rgba(253, 218, 81, 0.2);
     padding: 10px 24px 28px;
 }
 
@@ -1108,13 +1106,13 @@ blockquote {
 .theme-base-1a .sidebar,
 .theme-base-1a .sidebar-toggle:active,
 .theme-base-1a #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #532baf;
+  background-color: #2b58af;
   font-size: 0.7rem;
 }
 .theme-base-1a .container a,
 .theme-base-1a .sidebar-toggle,
 .theme-base-1a .related-posts li a:hover {
-  color: #532baf;
+  color: #2b58af;
 }
 
 .svg-badge > a > img{
