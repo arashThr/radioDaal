@@ -30,7 +30,7 @@ audio {
 blockquote {
     padding-left: 5rem;
     padding-right: 1.25rem;
-    border-right: .25rem solid #e5e5e5;
+    border-right: 0.25rem solid #e5e5e5;
     border-left: 0;
 }
 
@@ -59,16 +59,16 @@ blockquote {
 .theme-base-1a .sidebar,
 .theme-base-1a .sidebar-toggle:active,
 .theme-base-1a #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #2b58af;
-  font-size: 0.7rem;
+    background-color: #2b58af;
+    font-size: 0.7rem;
 }
 .theme-base-1a .container a,
 .theme-base-1a .sidebar-toggle,
 .theme-base-1a .related-posts li a:hover {
-  color: #2b58af;
+    color: #2b58af;
 }
 
-.svg-badge > a > img{
+.svg-badge > a > img {
     width: 165px;
     height: 40;
 }
@@ -78,27 +78,79 @@ blockquote {
     justify-content: center;
 }
 
-.social-logo > a > img {
+.social-logo > a {
     margin: 10px 10px 10px 10px;
     width: 40px;
     height: 40px;
+    font-size: 3em;
 }
+
+.header-nav {
+    background-color: #2b58af;
+}
+
+.header-nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.header-nav ul li a {
+    padding: 0px 2px;
+    color: white !important;
+}
+
+.header-nav ul li {
+    color: white !important;
+}
+
+.myButton {
+	box-shadow:inset 0px 0px 15px 3px #23395e;
+	background-color:#2e466e;
+	border-radius:17px;
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background-color:#415989;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
 
 .content {
     text-align: justify;
 }
 
-.mobileShow { display: none;}
-.mobileHide { display: inline; }
+.mobileShow {
+    display: none;
+}
+.mobileHide {
+    display: inline;
+}
 
 /* Smartphone Portrait and Landscape */
-@media only screen
-  and (min-width : 320px)
-  and (max-width : 480px){
-   .mobileHide { display: none; }
-   .mobileShow { display: inline; }
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .mobileHide {
+        display: none;
+    }
+    .mobileShow {
+        display: inline;
+    }
 
-   body {
-    font-size: 0.9em;
-   }
+    body {
+        font-size: 0.9em;
+    }
 }
