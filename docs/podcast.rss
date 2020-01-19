@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Tue, 03 Dec 2019 19:22:23 +0330</pubDate>
-		<lastBuildDate>Tue, 03 Dec 2019 19:22:23 +0330</lastBuildDate>
+		<pubDate>Sun, 19 Jan 2020 13:22:08 +0330</pubDate>
+		<lastBuildDate>Sun, 19 Jan 2020 13:22:08 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>شرق پر ماجرا، با فرناز از کره جنوبی</title>
+				<link>https://radioDaal.ir/farnaz</link>
+				<pubDate>Sun, 19 Jan 2020 00:00:00 +0330</pubDate>
+				<description>پس از کمی تاخیر به واسطه اتفاقاتی که در چند هفته گذشته شاهدش بودیم، دوباره با یک قسمت دیگر از رادیو دال برگشتیم و این بار سراغ کره جنوبی رفتیم. فرناز در این قسمت مهمان برنامه ما شده و همراه با هم از فرهنگ و نحوه زندگی در کره جنوبی حرف زدیم. همچنین به این پرداختیم که چطور شد فرناز از کسی که برنامه داشت دکترا بخونه رسید به جایی که گوینده رادیو بوسان در کره شد.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/farnaz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/farnaz</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Farnaz-SouthKorea.mp3" length="75521672" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: شرق پر ماجرا، با فرناز از کره جنوبی</itunes:subtitle>
+				<itunes:summary>پس از کمی تاخیر به واسطه اتفاقاتی که در چند هفته گذشته شاهدش بودیم، دوباره با یک قسمت دیگر از رادیو دال برگشتیم و این بار سراغ کره جنوبی رفتیم. فرناز در این قسمت مهمان برنامه ما شده و همراه با هم از فرهنگ و نحوه زندگی در کره جنوبی حرف زدیم. همچنین به این پرداختیم که چطور شد فرناز از کسی که برنامه داشت دکترا بخونه رسید به جایی که گوینده رادیو بوسان در کره شد.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/farnaz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>104:35</itunes:duration>
+				<itunes:keywords>کره جنوبی, آسیا, تحصیل</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>مسیر پر پیچ و خم، با قاسم از آلمان</title>
