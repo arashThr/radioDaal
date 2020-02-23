@@ -9,8 +9,8 @@
 		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 19 Jan 2020 13:22:08 +0330</pubDate>
-		<lastBuildDate>Sun, 19 Jan 2020 13:22:08 +0330</lastBuildDate>
+		<pubDate>Sun, 23 Feb 2020 23:50:21 +0800</pubDate>
+		<lastBuildDate>Sun, 23 Feb 2020 23:50:21 +0800</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>محسن، یکی حقوقی از نیویورک</title>
+				<link>https://radioDaal.ir/mohsen</link>
+				<pubDate>Sun, 23 Feb 2020 00:00:00 +0800</pubDate>
+				<description>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
+
+در این قسمت راجع به این صحبت کردیم که چرا و چطور کسی که رشته حقوق خونده سر از آمریکا در آورده و اینکه چرا صرفا دنبال کردن علایق ممکنه نتایج خوبی نداشته باشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohsen&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/mohsen</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohsen-NY.mp3" length="59861624" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: محسن، یکی حقوقی از نیویورک</itunes:subtitle>
+				<itunes:summary>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
+
+در این قسمت راجع به این صحبت کردیم که چرا و چطور کسی که رشته حقوق خونده سر از آمریکا در آورده و اینکه چرا صرفا دنبال کردن علایق ممکنه نتایج خوبی نداشته باشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohsen&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>82:58</itunes:duration>
+				<itunes:keywords>آمریکا, نیویورک, حقوق, تحصیل, مهاجرت</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>شرق پر ماجرا، با فرناز از کره جنوبی</title>
