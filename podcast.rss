@@ -52,7 +52,7 @@ layout: null
 				<itunes:summary>{{ post.summary | default: post.excerpt | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords | join: ', ' }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg" />
+				<itunes:image href={%if post.cover %}"{{ site.url }}{{ post.cover }}"{% else %}"{{ site.url }}{{ site.baseurl }}/public/img/itunes.jpg"{% endif %} />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block | default: "no" }}</itunes:block>
 			</item>
