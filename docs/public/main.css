@@ -1151,6 +1151,11 @@ blockquote {
     color: #2b58af;
 }
 
+.sidebar-toggle {
+    position: fixed;
+    background-color: whitesmoke;
+}
+
 .svg-badge > a > img {
     width: 165px;
     height: 40;
