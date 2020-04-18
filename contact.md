@@ -5,7 +5,7 @@ title: تماس و همکاری
 
 ## تماس
 
-پیشنهادات، نظرات و سوالات خودتون رو می‌تونید از طریق [ایمیل](mailto:radioDaal@outlook.com){:target="_blank"}  برای من بفرستید.
+پیشنهادات، نظرات و سوالات خودتون رو می‌تونید از طریق [ایمیل](mailto:{{ site.author.email }}){:target="_blank"}  برای من بفرستید.
 
 <hr>
 
@@ -35,6 +35,7 @@ title: تماس و همکاری
 
 - [مائده‌ی بی‌نظیر](http://instagram.com/mayi_mosavar) که با استعداد خارق‌العاده‌اش آرت‌ورک پادکست رو تهیه کرده.
 - [عازم دوست‌داشتنی](https://twitter.com/iAzem/) که در طراحی کاور بعضی از قسمت‌ها به من کمک کرده و در بسیاری از مواقع از نظراتش استفاده کرده‌ام.
+- [ریحانه آل‌شیخ](https://instagram.com/reyhanehalesheykh) که با استعداد خارق‌العاده‌اش در تصویرسازی به شکل‌گیری هویت بصری رادیو دال کمک کرده.
 - [محمد مشایخی](https://instagram.com/mashaayekhi) که لطف کرد و یک طرح زیبا برای پادکست فرستاد که در چندین جا ازش استفاده کرده‌ام.
 - تایپوگرافی زیبای رادیو دال که الان بالای صفحه مشاهده می‌کنید کار [مبارکه عزیز](https://twitter.com/Mobarake03)ه که خودش داوطلبانه کار رو آماده کرد و برام فرستاد.
 - قبل از مبارکه هم بهنام لوگوی زیبایی طراحی کرده بود که همین الان هم در بعضی جاها ازش استفاده می‌کنم.
@@ -42,7 +43,8 @@ title: تماس و همکاری
 
 <div class="image-line">
     <img src="{% link public/assets/volunteers/radiodaal-logo.png %}" width="200" height="200">
-    <img src="{% link public/assets/volunteers/daal-square.jpg %}" width="200" height="200">
+    <img src="{% link public/assets/volunteers/daal-reyhaneh.jpg %}" width="200" height="200">
+    <img src="{% link public/assets/volunteers/daal-400x.jpg %}" width="200" height="200">
     <img src="{% link public/assets/volunteers/daal-small.jpg %}" width="200" height="200">
     <img src="{% link public/assets/volunteers/amir-cover.jpg %}" width="200" height="200">
     <img src="{% link public/assets/volunteers/daal-400x.jpg %}" width="200" height="200">
