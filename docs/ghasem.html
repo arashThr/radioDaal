@@ -274,22 +274,94 @@
 </ul>
 </div>
 
-  
+
 <p>
   به این قسمت گوش دهید (<a href="/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>) و یا مستقیما <a href="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ghasem-Germany.mp3">دانلود</a> کنید:
 </p>
+
   <div class="image-line svg-badge">
     <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9yYWRpb2RhYWwuaXIvcG9kY2FzdC5yc3M%3D"><img src="/public/assets/google_podcasts_badge_svg.svg"></a>
     <a href="https://itunes.apple.com/us/podcast/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AF%D8%A7%D9%84/id1268317148?mt=2"><img src="/public/assets/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg"></a>
     <a href="https://open.spotify.com/show/3ZDTVdIiojTh2nbwfvRv4N?si=-42sQsM7S5Sz1GC5ReXtBw"><img src="/public/assets/spotify-podcast-badge-wht-grn-165x40.svg"></a>
   </div>
 
-  <div class="social-logo">
-    <a href="https://t.me/radioDaal" target="_blank"><span class="icon-telegram"></span></a>
-    <a href="https://twitter.com/radioDaal" target="_blank"><span class="icon-twitter2"></span></a>
-    <a href="https://instagram.com/radioDaal" target="_blank"><span class="icon-instagram2"></span></a>
-</div>
+  <style>
 
+button.learn-more {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: inherit;
+  font-family: inherit;
+
+  font-weight: 600;
+  color: #382b22;
+  text-transform: uppercase;
+  padding: 1em 2em;
+  background: #fffff0;
+  border: 2px solid #adb185;
+  border-radius: 0.75em;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  -webkit-transition: background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+
+button.learn-more::before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #e2f9c4;
+  border-radius: inherit;
+  box-shadow: 0 0 0 2px #b1ae85, 0 0.625em 0 0 #ffffe2;
+  -webkit-transform: translate3d(0, 0.75em, -1em);
+          transform: translate3d(0, 0.75em, -1em);
+  -webkit-transition: box-shadow 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: box-shadow 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+
+button.learn-more:hover {
+  background: #ffffe9;
+  -webkit-transform: translate(0, 0.25em);
+          transform: translate(0, 0.25em);
+}
+
+button.learn-more:hover::before {
+  box-shadow: 0 0 0 2px #b1b085, 0 0.5em 0 0 #fcffe2;
+  -webkit-transform: translate3d(0, 0.5em, -1em);
+          transform: translate3d(0, 0.5em, -1em);
+}
+
+button.learn-more:active {
+  background: #fffde9;
+  -webkit-transform: translate(0em, 0.75em);
+          transform: translate(0em, 0.75em);
+}
+
+button.learn-more:active::before {
+  box-shadow: 0 0 0 2px #aeb185, 0 0 #ffffe2;
+  -webkit-transform: translate3d(0, 0, -1em);
+          transform: translate3d(0, 0, -1em);
+}
+
+</style>
+
+<div class="image-line" style="margin-top: 1em">
+<button class="learn-more" onclick="location.href='/donation'">حمایت مالی از پادکست</button>
+</div>
 </div>
 
 <div id="disqus_thread"></div>
@@ -345,6 +417,13 @@
     
   </ul>
 </div>
+
+<div class="social-logo">
+    <a href="https://t.me/radioDaal" target="_blank"><span class="icon-telegram"></span></a>
+    <a href="https://twitter.com/radioDaal" target="_blank"><span class="icon-twitter2"></span></a>
+    <a href="https://instagram.com/radioDaal" target="_blank"><span class="icon-instagram2"></span></a>
+</div>
+
 
       </div>
     </div>

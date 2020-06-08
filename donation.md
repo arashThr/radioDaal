@@ -21,6 +21,8 @@ title: حمایت از پادکست
 
 ### PayPal
 
+<a href="https://www.paypal.me/radiodaal" target="_blank"><img src="{{site.baseurl}}/public/img/donation/paypal.jpg" class="small-cover"></a>
+
 همچنین به لطف یکی از دوستان کمک به پادکست از طریق [مراجعه به صفحه پادکست در پی‌پل ](https://www.paypal.me/radiodaal) هم امکانپذیره. (به نام محمدرضا برزگران)  
 [paypal.me/radiodaal](https://www.paypal.me/radiodaal)
 
@@ -36,11 +38,11 @@ Ethereum: <code>0xAbDBFbeA1fb3Ea6E44Ee7471676B202141fBE7d9</code>
 
 <div class="image-line">
     <figure>
-        <img src="{{ site.baseurl }}/public/img/donation/bitcoin.png" width="150">
+        <img src="{{ site.baseurl }}/public/img/donation/bitcoin.png" width="100">
         <figcaption style="text-align: center;">Bitcoin</figcaption>
     </figure> 
     <figure>
-        <img src="{{ site.baseurl }}/public/img/donation/ether.png" width="150">
+        <img src="{{ site.baseurl }}/public/img/donation/ether.png" width="100">
         <figcaption style="text-align: center;">Ethereum</figcaption>
     </figure> 
 </div>
