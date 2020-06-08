@@ -22,7 +22,7 @@ title: حمایت از پادکست
 ### PayPal
 
 همچنین به لطف یکی از دوستان کمک به پادکست از طریق [مراجعه به صفحه پادکست در پی‌پل ](https://www.paypal.me/radiodaal) هم امکانپذیره. (به نام محمدرضا برزگران)  
-[paypal.me/radiodaal](‍‍‍https://www.paypal.me/radiodaal)
+[paypal.me/radiodaal](https://www.paypal.me/radiodaal)
 
 ### بیت‌کوین و اتریوم
 
