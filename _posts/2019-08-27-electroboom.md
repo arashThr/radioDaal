@@ -69,7 +69,7 @@ alt="Graphite and Its Awesome Properties" width="240" height="180" border="10" /
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li><a href="https://www.youtube.com/watch?v=PHgc8Q6qTjc">Congratulations</a></li>
 </ul>

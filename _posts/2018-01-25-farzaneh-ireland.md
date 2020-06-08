@@ -85,7 +85,7 @@ keywords:
 <hr>
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Excurb1a - A Guide to Worrying</li>
 <li>John Lennon - Give Peace A Chance</li>

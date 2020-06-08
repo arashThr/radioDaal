@@ -71,7 +71,7 @@ keywords:
 {% include player.html id="71202043" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Louie, Louie CK</li>
 <li>Big tooth aspen, Martin Gauffin</li>

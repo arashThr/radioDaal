@@ -78,7 +78,7 @@ keywords:
 گفتگویی که در اول پادکست می‌شنوید از سریال [Baskets](http://www.imdb.com/title/tt3468798/) آورده شده. در این سریال Zach Galifianakis نقش‌آفرینی میکنه که احتمالا از فیلم Hangover می‌شناسینش.
 
 آهنگ‌هایی هم که در این قسمت استفاده شده‌ان:
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li><a href="https://open.spotify.com/track/4uiTbuv259VxOrSH6nAF5I">Obsolet</a>, Tryo</li>
 <li><a href="https://open.spotify.com/track/5xbHOm8c1fsLyAE6la5gqe">Senegal, Fast-food</a>, Amadou & Mariam</li>

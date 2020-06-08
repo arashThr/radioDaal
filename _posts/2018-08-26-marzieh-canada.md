@@ -40,7 +40,7 @@ keywords:
 <hr>
 
 آهنگ‌ها و کلیپ‌های استفاده شده ([پلی لیست](http://bit.ly/daal-music) در اسپاتیفای): 
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Lana Del Rey, Radio</li>
 <li>Oberhofer, Sea of dreams</li>

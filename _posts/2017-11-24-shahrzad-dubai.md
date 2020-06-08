@@ -73,7 +73,7 @@ keywords:
 
 
 صحبت‌های اول پادکست مربوط به کمدین معروف لویی سی کی در سریال لویی هستش.  
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>I took a pill in Ibiza, Mike Posne</li>
 <li>Gangsta's Paradise, Coolio ft. L.V</li>

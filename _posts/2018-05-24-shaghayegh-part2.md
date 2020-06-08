@@ -59,7 +59,7 @@ keywords:
 <hr>
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Family guy</li>
 <li>Parade, Kevin Morby</li>

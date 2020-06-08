@@ -77,7 +77,7 @@ keywords:
 
 <hr>
 
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>The plains of dover, Ceilidh</li>
 <li>Incomplete & Insecure, The Avett Brothers</li>

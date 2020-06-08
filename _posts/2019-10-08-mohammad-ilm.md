@@ -72,7 +72,7 @@ keywords:
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Mark Normand - Single people</li>
 <li>Jurassic Park Theme Song</li>

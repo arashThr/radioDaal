@@ -55,7 +55,7 @@ keywords:
 {% include player.html id="76328100" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Louie - Louis C.K.</li>
 <li>1000 Nights - Frenship</li>

@@ -70,7 +70,7 @@ keywords:
 <hr>
 
 آهنگ‌ها و کلیپ‌های استفاده شده ([پلی لیست](http://bit.ly/daal-music) در اسپاتیفای): 
-<div dir="ltr" style="font-size: smaller;">
+<div dir="ltr">
 <ul>
 <li>Carmen Twillie, Lebo M. - The Lion King, Circle Of Life</li>
 <li>Inkuyo, Wipala</li>
