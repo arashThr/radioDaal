@@ -14,6 +14,7 @@ baseurl:             ''
 paginate:            5
 lang:                'fa'
 copyright:           "&#x2117; &amp; &#xA9; 2019"
+timezone:            "Asia/Tehran"
 
 # About/contact
 author:

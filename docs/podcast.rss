@@ -6,11 +6,11 @@
 		<description>در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.</description>
 		<link>https://radioDaal.ir</link>
 		<language>fa</language>
-		<managingEditor>radioDaal@outlook.com (Arash Thr)</managingEditor>
-		<webMaster>radioDaal@outlook.com (Arash Thr)</webMaster>
+		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
+		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 22 Mar 2020 22:50:50 +0800</pubDate>
-		<lastBuildDate>Sun, 22 Mar 2020 22:50:50 +0800</lastBuildDate>
+		<pubDate>Mon, 08 Jun 2020 11:49:11 +0430</pubDate>
+		<lastBuildDate>Mon, 08 Jun 2020 11:49:11 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -22,7 +22,7 @@
 		<itunes:keywords></itunes:keywords>
 		<itunes:owner>
 			<itunes:name>Arash Thr</itunes:name>
-			<itunes:email>radioDaal@outlook.com</itunes:email>
+			<itunes:email>radioDaalPodcast@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
 		<itunes:category text="Society &amp; Culture">
@@ -37,9 +37,36 @@
 		<itunes:explicit>no</itunes:explicit>
 		
 			<item>
+				<title>دیاسپوران، با دنیز از نیویورک</title>
+				<link>https://radioDaal.ir/deniz</link>
+				<pubDate>Mon, 08 Jun 2020 00:00:00 +0430</pubDate>
+				<description>مهمون این قسمت از رادیو دال دنیز از نیویورکه. دنیز تقریبا هشت ساله که در آمریکا زندگی میکنه و مشغول به فعالیت در حوزه‌ی تئاتر و بازیگری است. علاوه بر این دنیز یکی از سازندگان مجموعه انیمشن &lt;a href=&quot;https://www.youtube.com/channel/UC5waa265OjRZlnbUWmrtqiw&quot;&gt;دیاسپوران&lt;/a&gt; با موضوع مهاجرته.
+
+دنیز هم یکی دیگر از مهمان‌های رادیو داله که بعد از دوران کارشناسی مسیر خودش رو تغییر داده. در ایران برای دوره‌ی لیسانس برق خوند و پس از مهاجرت به آمریکا به صورت حرفه‌ای سراغ تئاتر و بازیگری رفت
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/deniz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/deniz</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Deniz-Diasporan.mp3" length="52429773" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: دیاسپوران، با دنیز از نیویورک</itunes:subtitle>
+				<itunes:summary>مهمون این قسمت از رادیو دال دنیز از نیویورکه. دنیز تقریبا هشت ساله که در آمریکا زندگی میکنه و مشغول به فعالیت در حوزه‌ی تئاتر و بازیگری است. علاوه بر این دنیز یکی از سازندگان مجموعه انیمشن &lt;a href=&quot;https://www.youtube.com/channel/UC5waa265OjRZlnbUWmrtqiw&quot;&gt;دیاسپوران&lt;/a&gt; با موضوع مهاجرته.
+
+دنیز هم یکی دیگر از مهمان‌های رادیو داله که بعد از دوران کارشناسی مسیر خودش رو تغییر داده. در ایران برای دوره‌ی لیسانس برق خوند و پس از مهاجرت به آمریکا به صورت حرفه‌ای سراغ تئاتر و بازیگری رفت
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/deniz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>72:41</itunes:duration>
+				<itunes:keywords>هنر, آمریکا, یوتیوب</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/deniz/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+			<item>
 				<title>شفق شمالی، با سپهر از فنلاند</title>
 				<link>https://radioDaal.ir/sepehr</link>
-				<pubDate>Sun, 19 Apr 2020 00:00:00 +0800</pubDate>
+				<pubDate>Sun, 19 Apr 2020 00:00:00 +0430</pubDate>
 				<description>در این قسمت همراه با سپهر به کشور فنلاند سر زدیم. سپهر در ایران زبان انگلیسی تدریس میکرد. اتفاقاتی که در زندگی‌اش افتاد باعث شد که پس از سال‌ها کار کردن تصمیم به مهاجرت بگیره. در این مسیر علاوه بر فنلاند، از کانادا و کشورهای دیگری هم سر در میاره و تا سه تا مدرک ارشد هم پیش میره.
 
 یکی از مسائلی که در این گفتگو  روش تمرکز داشتیم بررسی کردم سیستم آموزشی فنلاند بود. علاوه بر اینکه این کشور یکی از پیشگامان حوزه آموزش در سطح جهانه، سابقه‌ی کاری و تحصیلات سپهر هم این شرایط رو مهیا کرد تا بتونیم بحث‌های خوبی راجع به این موضوع داشته باشیم.
@@ -66,7 +93,7 @@
 			<item>
 				<title>ویو از اجنبی، وحیده از لهستان</title>
 				<link>https://radioDaal.ir/viv</link>
-				<pubDate>Sun, 22 Mar 2020 00:00:00 +0800</pubDate>
+				<pubDate>Sun, 22 Mar 2020 00:00:00 +0430</pubDate>
 				<description>وحیده از پادکست اجنبی در این قسمت مهمان رادیو دال شده. وحیده چندین ساله که در لهستان زندگی میکنه. همونجا برای خودش پادکستی به نام اجنبی درست کرده که در اون راجع به اتفاقات و تجربیات شخصی خودش صحبت میکنه.
 
 در این قسمت راجع به مسیری که طی کرده، روابط و دوستانی که در حین زندگی در خارج ایران برای خودش در داخل ایران پیدا کرده، تاثیر زبان انگلیسی در شکل‌گیری شخصیتش و خیلی موضوعات دیگه صحبت کردیم.
@@ -91,9 +118,9 @@
 			</item>
 		
 			<item>
-				<title>محسن، یکی حقوقی از نیویورک</title>
+				<title>محسن، یک حقوقی از نیویورک</title>
 				<link>https://radioDaal.ir/mohsen</link>
-				<pubDate>Sun, 23 Feb 2020 00:00:00 +0800</pubDate>
+				<pubDate>Sun, 23 Feb 2020 00:00:00 +0330</pubDate>
 				<description>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
 
 در این قسمت راجع به این صحبت کردیم که چرا و چطور کسی که رشته حقوق خونده سر از آمریکا در آورده و اینکه چرا صرفا دنبال کردن علایق ممکنه نتایج خوبی نداشته باشه.
@@ -103,7 +130,7 @@
 				<guid isPermaLink="true">https://radioDaal.ir/mohsen</guid>
 				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohsen-NY.mp3" length="59861624" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
-				<itunes:subtitle>رادیو دال: محسن، یکی حقوقی از نیویورک</itunes:subtitle>
+				<itunes:subtitle>رادیو دال: محسن، یک حقوقی از نیویورک</itunes:subtitle>
 				<itunes:summary>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
 
 در این قسمت راجع به این صحبت کردیم که چرا و چطور کسی که رشته حقوق خونده سر از آمریکا در آورده و اینکه چرا صرفا دنبال کردن علایق ممکنه نتایج خوبی نداشته باشه.

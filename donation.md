@@ -59,9 +59,9 @@ Ethereum: <code>0xAbDBFbeA1fb3Ea6E44Ee7471676B202141fBE7d9</code>
 
 ### میکروفن و کارت صدا
 
-<a href="https://www.amazon.com/Movo-PM20-Dual-Headed-Omnidirectional-Smartphones/dp/B00X8470MQ" target="_blank"><img src="{{site.baseurl}}/public/img/donation/movo.jpg" class="small-cover"></a>
+<a href="https://www.amazon.com/Movo-PM20-Dual-Headed-Omnidirectional-Smartphones/dp/B00X8470MQ" target="_blank"><img src="{{site.baseurl}}/public/img/donation/blue.jpg" class="small-cover"></a>
 
-قبلا در [یک پست](https://forum.radiodaal.ir/topic/13/) توضیح دادم که چه چالش‌هایی در مورد **بهبود کیفیت صدای پادکست** مصاحبه‌ای مثل رادیو دال که دو سمتِ گفتگو یکجا نیستند وجود داره. پیرو همین موضوعات به رقم جذابیت‌های ظاهریِ میکروفن‌های تخصصی، *تاثیر تهیه‌ی میکروفن حرفه‌ای در پادکست اینقدر نیست که چنین هزینه‌ای رو توجیه کنه*. در عوض برای کاری که ما داریم انجام میدیم یک [میکروفن یقه‌ای دو نفره](https://www.movophoto.com/products/movo-pm20-s) به همراه [کمی تجهیزات اضافه](https://www.amazon.com/Headsets-Splitter-Separate-Headphone-Nintendo/dp/B07FB8LCQ7/ref=sr_1_10?crid=3Q2769UK0AG87&keywords=trrs+splitter&qid=1566982986&s=gateway&sprefix=trrs+spli%2Caps%2C344&sr=8-10) رو مناسب‌تر دیدم. تقریبا با چهل یورو میتونم هم کیفیت ضبط در سمت خودم رو بهبود بدم، هم اگر **گفتگوی رو در رو** (مثل [قسمت دنیا](https://radiodaal.ir/donya)) داشتم، کار بهتری میتونم ارائه بدم.
+چه چیزی مهمتر از **میکروفن** برای یک پادکست؟ منم مسلما مدت‌هاست دارم به **بهبود کیفیت صدا** حداقل در سمت خودم فکر میکنم. مدلی هم که پیدا کرده‌ام **[بلو یتی](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S)** اسم داره و توسط خیلی از پادکسترها استفاده میشه. با این حال هزینه خرید این مدل نسبتا بالاست و به عنوان یه گزینه جمع و جورتر یک [میکروفن یقه‌ای دو نفره](https://www.movophoto.com/products/movo-pm20-s) به همراه [کمی تجهیزات اضافی](https://www.amazon.com/Headsets-Splitter-Separate-Headphone-Nintendo/dp/B07FB8LCQ7) رو مد نظر دارم. در مورد عوامل موثر در بهبود کیفیت صدا و تاثیر میکروفن قبلا یک [پست](https://arashtaher.ir/learn/recording-quality/) نوشته‌ام که میتونید نگاه بنداز.
 
 ### هزینه سرورها و بهبود زیرساخت‌ها
 

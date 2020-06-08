@@ -47,5 +47,4 @@ title: تماس و همکاری
     <img src="{% link public/assets/volunteers/daal-400x.jpg %}" width="200" height="200">
     <img src="{% link public/assets/volunteers/daal-small.jpg %}" width="200" height="200">
     <img src="{% link public/assets/volunteers/amir-cover.jpg %}" width="200" height="200">
-    <img src="{% link public/assets/volunteers/daal-400x.jpg %}" width="200" height="200">
 </div>
