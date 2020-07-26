@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Mon, 08 Jun 2020 11:49:11 +0430</pubDate>
-		<lastBuildDate>Mon, 08 Jun 2020 11:49:11 +0430</lastBuildDate>
+		<pubDate>Sun, 26 Jul 2020 12:20:31 +0000</pubDate>
+		<lastBuildDate>Sun, 26 Jul 2020 12:20:31 +0000</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,33 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>به من بگو چرا؟ با حامد از ایران</title>
+				<link>https://radioDaal.ir/hamed</link>
+				<pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+				<description>تا به حال در چندین قسمت به جای سفر به کشورهای خارجی مهمان‌هایی از داخل ایران داشتیم، افرادی که یا به انتخاب خودشون در ایران مونده بودند و یا پس از مدتی زندگی در خارج تصمیم گرفته بودند به ایران بازگردند. در این قسمت هم به چنین داستانی میپردازیم.
+
+حامد از دوران نوجوانی به کانادا مهاجرت کرده بود. پس سال‌ها تصمیم میگیره برای ادامه‌ی مسیر کاری خودش به ایران برگرده.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/hamed&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/hamed</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Hamed-Iran.mp3" length="79675713" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: به من بگو چرا؟ با حامد از ایران</itunes:subtitle>
+				<itunes:summary>تا به حال در چندین قسمت به جای سفر به کشورهای خارجی مهمان‌هایی از داخل ایران داشتیم، افرادی که یا به انتخاب خودشون در ایران مونده بودند و یا پس از مدتی زندگی در خارج تصمیم گرفته بودند به ایران بازگردند. در این قسمت هم به چنین داستانی میپردازیم.
+
+حامد از دوران نوجوانی به کانادا مهاجرت کرده بود. پس سال‌ها تصمیم میگیره برای ادامه‌ی مسیر کاری خودش به ایران برگرده.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/hamed&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>110:14</itunes:duration>
+				<itunes:keywords>کارآفرینی, کانادا, ایران</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/hamed/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>دیاسپوران، با دنیز از نیویورک</title>
