@@ -3,9 +3,9 @@ layout: post
 title: 'پرنیان و استرالیا'
 duration: "64:38" #audio length in min
 length: "27683904" #filesize in byte
-summary: 'قسمت سیزده از رادیو دال: پرنیان و قاره دور افتاده'
 summary: 'استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.'
 explicit: "no"
+excerpt_separator: <!-- more -->
 file: 'archive.org/download/radioDaal/Parnian-Australia.mp3'
 categories:
     - podcast
@@ -22,8 +22,8 @@ keywords:
 
 راستی اینم بگم که یکی دو نمونه **دعوت‌نامه** آماده کرده‌ام و [اینجا]({{ site.baseurl }}/participate) قرار داده‌ام. اگر کسی رو می‌شناسید که به نظرتون کاندید مناسبی برای حضور در  , پادکسته میتونید  یکی از متن‌های از پیش نوشته شده رو براش بفرستید و ازش برای شرکت به عنوان مهمان در پادکست دعوت کنید.
 
-
 {% include guest_imgs.html name="parnian" %}
+<!-- more -->
 
 <hr>
 

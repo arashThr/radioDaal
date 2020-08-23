@@ -3,8 +3,8 @@ layout: post
 title: 'امین، اعظم و مالزی'
 duration: "56:48" #audio length in min
 length: "23983555" #filesize in byte
-summary: 'قسمت یازده از رادیو دال: صحبت با امین و اعظم از مالزی'
 summary: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
+excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/AminAzam-malaysia.mp3'
 categories:
@@ -21,6 +21,7 @@ keywords:
 
 این بار سومه که یه زوج تو پادکست شرکت کرده‌ان، مسلما جدای از مسائل دیگه کنار هم قرار گرفتن دو نفر در این شرایط و دیدگاهی که الان نسبت به زندگی دارن می‌تونه جذابیتی افزده برای این قسمت محسوب بشه.
 
+<!-- more -->
 {% include guest_imgs.html name="amin" %}
 
 <hr>

@@ -3,8 +3,8 @@ layout: post
 title: 'مسیح و میلان'
 duration: "66:35" #audio length in min
 length: "28116746" #filesize in byte
-summary: 'قسمت شش رادیو دال: مسیح از ایتالیا'
 summary: 'و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.'
+excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Masih-Italy.mp3'
 categories:
@@ -21,6 +21,7 @@ keywords:
 
 برای گوش دادن به این قسمت می‌تونید دو نسخه با کیفیت بالا و حجم کم رو مستقیما از [اینجا](http://bit.ly/daal-06) دانلود کنید یا اینکه توی کانال [رادیو دال](https://telegram.me/radioDaal) در تلگرام عضو شید.
 
+<!-- more -->
 {% include guest_imgs.html name="masih" %}
 
 {%include audio.html url="Masih-Italy" %}

@@ -3,8 +3,8 @@ layout: post
 title: 'فرناز، مهرداد و کانادا '
 duration: "62:51" #audio length in min
 length: "26479224" #filesize in byte
-summary: 'قسمت سوم رادیو دال: مهرداد و فرناز از کانادا'
 summary: 'در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.'
+excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/FarnazMehrdad-Canada.mp3'
 categories:
@@ -22,6 +22,7 @@ keywords:
 مکالمه رو در دو نسخه باکیفیت و کم حجم می‌تونید از روی [گوگل‌درایو](http://bit.ly/daal-03) دانلود کنید.
 همچنین می‌توانید برای دریافت و دنبال کردن مجموعه به کانال ما در تلگرام به آدرس [رادیو دال](https://telegram.me/radioDaal) بپیوندید.
 
+<!-- more -->
 {%include audio.html url="FarnazMehrdad-Canada" %}
 
 **از کجا شروع شد**

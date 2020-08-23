@@ -3,8 +3,8 @@ layout: post
 title: 'شهرزاد و دبی'
 duration: "58:00" #audio length in min
 length: "24442826" #filesize in byte
-summary: 'قسمت دوازه از رادیو دال: صحبت با شهرزاد از دبی'
 summary: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
+excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
 categories:
@@ -22,6 +22,7 @@ keywords:
 یه تشکر ویژه هم باید داشته باشم از شهرزاد عزیز، چرا که همه اینها میسر شد به خاطر خود شهرزاد که لطف کرد و داوطلبانه برای حضور در پادکست اعلام آمادگی کرد.
 
 {% include guest_imgs.html name="shahrzad" %}
+<!-- more -->
 
 <hr>
 

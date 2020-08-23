@@ -5,6 +5,7 @@ duration: "60:00" #audio length in min
 length: "43457291" #filesize in byte
 summary: 'شقایق در اواخر سال هشتاد و نه همراه با همسر و فرزندش به آمریکا مهاجرت کرد. دانشگاه تهران درس خونده، چندین سال در ایران کار کرده و از طریق تحصیلی تونسته بره ایالت میشیگان. در این قسمت داستان این خانواده رو میشنویم و می‌پردازیم به اینکه چطور مسیر زندگی شقایق پس از به دنیا اومدن فرزندش عوض شد.'
 explicit: "no"
+excerpt_separator: <!-- more -->
 file: 'archive.org/download/radioDaal/Shaghayegh-USA.mp3'
 categories:
     - podcast
@@ -24,6 +25,7 @@ keywords:
 در ضمن یه پلی‌لیست از آهنگ‌هایی که در پادکست استفاده شده در [اسپاتیفای](http://bit.ly/daal-music) درست کرده‌ام که می‌تونید با مراجعه به اونجا نام و نشون تمام این آهنگ‌ها رو مشاهده کنید.
 
 {% include guest_imgs.html name="shaghayegh" %}
+<!-- more -->
 
 <hr>
 
