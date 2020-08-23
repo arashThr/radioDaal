@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 26 Jul 2020 12:20:31 +0000</pubDate>
-		<lastBuildDate>Sun, 26 Jul 2020 12:20:31 +0000</lastBuildDate>
+		<pubDate>Sun, 23 Aug 2020 20:42:00 +0430</pubDate>
+		<lastBuildDate>Sun, 23 Aug 2020 20:42:00 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -37,9 +37,32 @@
 		<itunes:explicit>no</itunes:explicit>
 		
 			<item>
+				<title>سرزمین دورافتاده، با فائقه از نیوزیلند</title>
+				<link>https://radioDaal.ir/faegheh</link>
+				<pubDate>Sun, 23 Aug 2020 00:00:00 +0430</pubDate>
+				<description>در این قسمت همراه با فائقه این فرصت رو به دست آوردیم که بریم به سراغ کشور نیوزیلند. فائقه برای تحصیل در مقطع دکترا همراه با همسرش هفت سال پیش به نیوزیلند مهاجرت میکنه و بعد از اخذ اقامت در همونجا موندگار میشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/faegheh&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/faegheh</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Faegheh-NewZealand.mp3" length="64621970" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: سرزمین دورافتاده، با فائقه از نیوزیلند</itunes:subtitle>
+				<itunes:summary>در این قسمت همراه با فائقه این فرصت رو به دست آوردیم که بریم به سراغ کشور نیوزیلند. فائقه برای تحصیل در مقطع دکترا همراه با همسرش هفت سال پیش به نیوزیلند مهاجرت میکنه و بعد از اخذ اقامت در همونجا موندگار میشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/faegheh&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>134:14</itunes:duration>
+				<itunes:keywords>نیوزیلند, تحصیل, دکترا</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/faegheh/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+		
+			<item>
 				<title>به من بگو چرا؟ با حامد از ایران</title>
 				<link>https://radioDaal.ir/hamed</link>
-				<pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+				<pubDate>Sun, 26 Jul 2020 00:00:00 +0430</pubDate>
 				<description>تا به حال در چندین قسمت به جای سفر به کشورهای خارجی مهمان‌هایی از داخل ایران داشتیم، افرادی که یا به انتخاب خودشون در ایران مونده بودند و یا پس از مدتی زندگی در خارج تصمیم گرفته بودند به ایران بازگردند. در این قسمت هم به چنین داستانی میپردازیم.
 
 حامد از دوران نوجوانی به کانادا مهاجرت کرده بود. پس سال‌ها تصمیم میگیره برای ادامه‌ی مسیر کاری خودش به ایران برگرده.
