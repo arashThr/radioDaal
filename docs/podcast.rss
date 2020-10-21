@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 23 Aug 2020 20:42:00 +0430</pubDate>
-		<lastBuildDate>Sun, 23 Aug 2020 20:42:00 +0430</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2020 19:17:44 +0330</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2020 19:17:44 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>کاپیتان، با مهدی از آلمان</title>
+				<link>https://radioDaal.ir/mehdi</link>
+				<pubDate>Wed, 21 Oct 2020 00:00:00 +0330</pubDate>
+				<description>در این قسمت از رادیو دال بار دیگه به سراغ کشور آلمان رفتیم و این بار با مهدی همراه شدیم. مهدی در حال حاضر در شهر هامبورگ زندگی میکنه و در حوزه‌ی مهندسی مشغول به فعالیته. در وقت آزادش هم با گلایدر پرواز میکنه و یا برای سفر و عکاسی به جاهای مختلف دنیا سر میزنه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mehdi&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/mehdi</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mehdi-Germany.mp3" length="58945370" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: کاپیتان، با مهدی از آلمان</itunes:subtitle>
+				<itunes:summary>در این قسمت از رادیو دال بار دیگه به سراغ کشور آلمان رفتیم و این بار با مهدی همراه شدیم. مهدی در حال حاضر در شهر هامبورگ زندگی میکنه و در حوزه‌ی مهندسی مشغول به فعالیته. در وقت آزادش هم با گلایدر پرواز میکنه و یا برای سفر و عکاسی به جاهای مختلف دنیا سر میزنه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mehdi&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>122:35</itunes:duration>
+				<itunes:keywords>آلمان, تحصیل, پرواز, سفر, ایسلند</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/mehdi/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>سرزمین دورافتاده، با فائقه از نیوزیلند</title>
