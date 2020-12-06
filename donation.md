@@ -61,9 +61,16 @@ Ethereum: <code>0xAbDBFbeA1fb3Ea6E44Ee7471676B202141fBE7d9</code>
 
 ### میکروفن و کارت صدا
 
-<a href="https://www.amazon.com/Movo-PM20-Dual-Headed-Omnidirectional-Smartphones/dp/B00X8470MQ" target="_blank"><img src="{{site.baseurl}}/public/img/donation/blue.jpg" class="small-cover"></a>
+<a href="https://www.amazon.com/Samson-Handheld-Microphone-Recording-Podcasting/dp/B001R747SG?tag=podcastage03-20" target="_blank"><img src="{{site.baseurl}}/public/img/donation/q2u.jpeg" class="small-cover"></a>
 
-چه چیزی مهمتر از **میکروفن** برای یک پادکست؟ منم مسلما مدت‌هاست دارم به **بهبود کیفیت صدا** حداقل در سمت خودم فکر میکنم. مدلی هم که پیدا کرده‌ام **[بلو یتی](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S)** اسم داره و توسط خیلی از پادکسترها استفاده میشه. با این حال هزینه خرید این مدل نسبتا بالاست و به عنوان یه گزینه جمع و جورتر یک [میکروفن یقه‌ای دو نفره](https://www.movophoto.com/products/movo-pm20-s) به همراه [کمی تجهیزات اضافی](https://www.amazon.com/Headsets-Splitter-Separate-Headphone-Nintendo/dp/B07FB8LCQ7) رو مد نظر دارم. در مورد عوامل موثر در بهبود کیفیت صدا و تاثیر میکروفن قبلا یک [پست](https://arashtaher.ir/learn/recording-quality/) نوشته‌ام که میتونید نگاه بنداز.
+**(این مورد با حمایت شنوندگان پادکست تهیه شد.)**  
+چه چیزی مهمتر از **میکروفن** برای یک پادکست؟ منم مسلما مدت‌هاست دارم به **بهبود کیفیت صدا** حداقل در سمت خودم فکر میکنم. ~~مدلی هم که پیدا کرده‌ام **[بلو یتی](https://www.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S)** اسم داره و توسط خیلی از پادکسترها استفاده میشه. با این حال هزینه خرید این مدل نسبتا بالاست و به عنوان یه گزینه جمع و جورتر یک [میکروفن یقه‌ای دو نفره](https://www.movophoto.com/products/movo-pm20-s) به همراه [کمی تجهیزات اضافی](https://www.amazon.com/Headsets-Splitter-Separate-Headphone-Nintendo/dp/B07FB8LCQ7) رو مد نظر دارم.~~ بعد از [جستجو در اینترنت](https://podcastage.com/rev/favusb) و مطالعه پیشنهادات افرادی که به صورت تخصصی کار گفتگو انجام میدادند تصمیم گرفتم میکروفن [«Samson Q2U»](http://www.samsontech.com/samson/products/microphones/usb-microphones/q2u/) رو تهیه کنم. هم از لحاظ هزینه و هم از لحاظ کیفیت گزینه‌ای مناسبی بود برای پادکست. در مورد جنس کار ما هیچ ضرورتی نداشت برای ضبط صدا سراغ گزینه‌های گرون قیمت و بیش از حد پیشرفته‌ای مثل بلویتی بریم. علاوه بر اینکه تجهیزات مهم دیگه‌ای هست که میتونه در بهبود کیفیت پادکست بیش از یک میکروفن موثر باشه. در مورد عوامل موثر در بهبود کیفیت صدا و تاثیر میکروفن یک [پست](https://arashtaher.ir/learn/recording-quality/) نوشته‌ام که میتونید نگاه بنداز.
+
+### Zoom H5 Recorder
+
+<a href="https://www.amazon.com/Zoom-H5-Four-Track-Portable-Recorder/dp/B00KCXMBES" target="_blank"><img src="{{site.baseurl}}/public/img/donation/zoom-h5.jpg" class="small-cover"></a>
+
+ریکورد زوم مدل اچ پنج یکی از مواردی است که میتونه [تاثیرات خوبی](https://www.youtube.com/watch?v=JUrKSZXdKuo) در پادکست داشته باشه. از همه مهمتر اینکه از طریق این دستگاه قابلیت ضبط مطمئن و با کیفیت گفتگوهای رو در رو فراهم میشه، چرا که امکان ضبط صدا از طریق بیش یک میکرفون رو فراهم میکنه. علاوه بر این به عنوان پشتیبان ذخیره صدا هم کارکرد مهمی میتونه داشته باشه.
 
 ### هزینه سرورها و بهبود زیرساخت‌ها
 
@@ -81,6 +88,7 @@ Ethereum: <code>0xAbDBFbeA1fb3Ea6E44Ee7471676B202141fBE7d9</code>
 
 ### موسیقی
 
+**(موسیقی اختصاصی با کمک [امیرحسین](https://soundcloud.com/amirhosein-rajaee) برای پادکست تهیه شد)**  
 از یک جایی به بعد من تصمیم گرفتم از موسیقی‌های کپی‌رایت دار برای پادکست استفاده نکنم. هم کار غلطی است، هم شاید در ادامه مشکل‌ساز بشه. به واسطه این تصمیم گزینه‌های خیلی کمی برای انتخاب آهنگ در مقابلم قرار گرفت. در این بین هستند سایت‌هایی که با دریافت هزینه‌ای اجازه میدن به مجموعه‌ای از موسیقی‌های عمومی دسترسی داشته باشید. در آینده شاید تونستیم آهنگ‌های اختصاصی خودمون رو داشته باشیم.
 
 ### توسعه سرویس‌های جانبی

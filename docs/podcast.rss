@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Wed, 21 Oct 2020 19:17:44 +0330</pubDate>
-		<lastBuildDate>Wed, 21 Oct 2020 19:17:44 +0330</lastBuildDate>
+		<pubDate>Sun, 06 Dec 2020 18:35:57 +0330</pubDate>
+		<lastBuildDate>Sun, 06 Dec 2020 18:35:57 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>مهمان پاریسی، با سینا از فرانسه</title>
+				<link>https://radioDaal.ir/sina</link>
+				<pubDate>Sun, 06 Dec 2020 00:00:00 +0330</pubDate>
+				<description>فرانسه کشوری است که در این قسمت از پادکست رادیو دال، یعنی قسمت چهل دو همراه با سینا بهش سر میزنیم. سینا در ایران کارشناسی خودش رو در رشته مهندسی کامپیوتر گرفت و برای تحصیل در مقطع ارشد به فرانسه مهاجرت کرد. پس از گرفتن مدرک ارشد به دنبال انتخاب‌هایی که در راستای علاقمندی‌هاش انجام داده بود تونست در یک شرکت مهندسی مشغول به کار بشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/sina</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sina-France.mp3" length="64065142" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: مهمان پاریسی، با سینا از فرانسه</itunes:subtitle>
+				<itunes:summary>فرانسه کشوری است که در این قسمت از پادکست رادیو دال، یعنی قسمت چهل دو همراه با سینا بهش سر میزنیم. سینا در ایران کارشناسی خودش رو در رشته مهندسی کامپیوتر گرفت و برای تحصیل در مقطع ارشد به فرانسه مهاجرت کرد. پس از گرفتن مدرک ارشد به دنبال انتخاب‌هایی که در راستای علاقمندی‌هاش انجام داده بود تونست در یک شرکت مهندسی مشغول به کار بشه.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>133:10</itunes:duration>
+				<itunes:keywords>فرانسه, تحصیل, انگلیسی, رابطه, مهاجرت</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/sina/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>کاپیتان، با مهدی از آلمان</title>
