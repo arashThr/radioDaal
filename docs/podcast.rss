@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 06 Dec 2020 18:35:57 +0330</pubDate>
-		<lastBuildDate>Sun, 06 Dec 2020 18:35:57 +0330</lastBuildDate>
+		<pubDate>Sat, 23 Jan 2021 16:39:23 +0330</pubDate>
+		<lastBuildDate>Sat, 23 Jan 2021 16:39:23 +0330</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>سفر پشت سفر، با سینا از سوئد</title>
+				<link>https://radioDaal.ir/sina-sweden</link>
+				<pubDate>Thu, 14 Jan 2021 00:00:00 +0330</pubDate>
+				<description>در این قسمت از رادیو دال یک بار دیگر به حوزه اسکاندیناوی سر میزنیم و این بار با سینا هم‌صحبت میشیم. سینا برخلاف بسیاری از مهمان‌های برنامه که از طریق تحصیلی مهاجرت کرده‌اند، از طریق کاری و در ماجرایی پر پیچ و خم، و پس از پشت سر گذاشتن ترکیه و دبی به همراه همسرش به سوئد رسیده‌اند.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina-sweden&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/sina-sweden</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sina-Sweden.mp3" length="65005537" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: سفر پشت سفر، با سینا از سوئد</itunes:subtitle>
+				<itunes:summary>در این قسمت از رادیو دال یک بار دیگر به حوزه اسکاندیناوی سر میزنیم و این بار با سینا هم‌صحبت میشیم. سینا برخلاف بسیاری از مهمان‌های برنامه که از طریق تحصیلی مهاجرت کرده‌اند، از طریق کاری و در ماجرایی پر پیچ و خم، و پس از پشت سر گذاشتن ترکیه و دبی به همراه همسرش به سوئد رسیده‌اند.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina-sweden&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>134:25</itunes:duration>
+				<itunes:keywords>سوئد, کار, مدیا, مهاجرت</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/sina-sweden/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>مهمان پاریسی، با سینا از فرانسه</title>
