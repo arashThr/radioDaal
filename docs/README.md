@@ -27,15 +27,13 @@
 </div>
 
 ### Installation
+Use `rbenv` to install latest Ruby 2.X.X version.
+Follow instructions [here](https://jekyllrb.com/docs/installation/macos/) for MacOS.
 ```
-brew upgrade ruby
-brew link --overwrite ruby
-echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
-gem install --user-install bundler jekyll 
-gem install jalalidate
-gem install jekyll-paginate 
+gem install --user-install bundler jekyll
+bundle install
 ```
 
 ### Running
-- Build: `jekyll build --watch`
-- Serve: `jekyll serve --host 0.0.0.0 --incremental --watch`
+- Build: `bundle exec jekyll build --watch`
+- Serve: `bundle exec jekyll serve --host 0.0.0.0 --incremental --watch`

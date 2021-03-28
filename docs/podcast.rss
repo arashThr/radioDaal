@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Mon, 25 Jan 2021 05:55:55 +0330</pubDate>
-		<lastBuildDate>Mon, 25 Jan 2021 05:55:55 +0330</lastBuildDate>
+		<pubDate>Sun, 28 Mar 2021 19:16:38 +0430</pubDate>
+		<lastBuildDate>Sun, 28 Mar 2021 19:16:38 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>The Backpacker, with Aaron from The Netherlands</title>
+				<link>https://radioDaal.ir/aaron</link>
+				<pubDate>Sun, 28 Mar 2021 00:00:00 +0430</pubDate>
+				<description>Aaron is our guest for this episode of Radio Daal. He was born and raised in the Netherlands. He started studying Computer programming and game  development in college, but he dropped it halfway and started working in a werehouse. After a few years he left his country and moved to Austrialia to live as a backpacker. It was the beginning of a big journey for him.
+
+For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radio Daal website&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/aaron</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Aaron-Netherlands.mp3" length="54814187" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: The Backpacker, with Aaron from The Netherlands</itunes:subtitle>
+				<itunes:summary>Aaron is our guest for this episode of Radio Daal. He was born and raised in the Netherlands. He started studying Computer programming and game  development in college, but he dropped it halfway and started working in a werehouse. After a few years he left his country and moved to Austrialia to live as a backpacker. It was the beginning of a big journey for him.
+
+For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radio Daal website&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>112:56</itunes:duration>
+				<itunes:keywords>هلند, سفر, انگلیسی, english, netherlands, backpacking</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/aaron/cover.jpg" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>سفر پشت سفر، با سینا از سوئد</title>
