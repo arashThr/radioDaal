@@ -2,13 +2,24 @@
 layout: default
 ---
 
-<div class="post">
+<div class="post" {% if page.keywords contains "english" %} dir="ltr" {% endif %}>
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | jdate: "%A %d %b %Y" }}</span>
+  <span class="post-date">
+    {% if page.keywords contains "english" %}
+    {{ page.date | date: "%A %d %b %Y" }}
+    {% else %}
+    {{ page.date | jdate: "%A %d %b %Y" }}
+    {% endif %}
+  </span>
   {{ content }}
 
+
 <p>
-  به این قسمت گوش دهید (<a href="{{site.baseurl}}/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>) و یا مستقیما <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">دانلود</a> کنید:
+{% if page.keywords contains "english" %}
+Listen to this episode using the links below or download it directly from <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">here</a>.
+{% else %}
+ به این قسمت گوش دهید (<a href="{{site.baseurl}}/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>) و یا مستقیما <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">دانلود</a> کنید:
+{% endif %}
 </p>
 
   {% include badges.html %}

@@ -73,5 +73,6 @@ button.learn-more:active::before {
 </style>
 
 <div class="image-line" style="margin-top: 1em">
-<button class="learn-more" onclick="location.href='{{ site.baseurl }}/donation'">حمایت مالی از پادکست</button>
+<button class="learn-more" onclick="location.href='{{ site.baseurl }}/donation'">
+  {% if page.keywords contains "english" %}Support the podcast{% else %}حمایت مالی از پادکست{% endif %}</button>
 </div>

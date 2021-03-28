@@ -41,16 +41,22 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post" {% if post.keywords contains "english" %}dir="ltr"{% endif %}>
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | jdate: "%A %d %b %Y" }}</span>
+    <span class="post-date">
+      {% if post.keywords contains "english" %}
+      {{ post.date | date: "%A %d %b %Y" }}
+      {% else %}
+      {{ post.date | jdate: "%A %d %b %Y" }}
+      {% endif %}
+    </span>
     {{ post.excerpt }}
-    <a href="{{ site.baseurl }}{{ post.url }}">توضیحات بیشتر ...</a>
+    <a href="{{ site.baseurl }}{{ post.url }}">{% if post.keywords contains "english" %}More ...{% else %}توضیحات بیشتر ...{% endif %}</a>
   </div>
   {% endfor %}
 </div>
