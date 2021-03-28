@@ -73,6 +73,13 @@ button.learn-more:active::before {
 </style>
 
 <div class="image-line" style="margin-top: 1em">
+{% if page.keywords contains "english" %}
+<button class="learn-more" onclick="location.href='https://www.patreon.com/radioDaal'">
+  Support the podcast
+</button>
+{% else %}
 <button class="learn-more" onclick="location.href='{{ site.baseurl }}/donation'">
-  {% if page.keywords contains "english" %}Support the podcast{% else %}حمایت مالی از پادکست{% endif %}</button>
+  حمایت مالی از پادکست
+</button>
+{% endif %}
 </div>
