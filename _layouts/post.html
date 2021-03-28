@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="post" {% if page.keywords contains "english" %} dir="ltr" {% endif %}>
+<div class="post" {% if page.categories contains "english" %} dir="ltr" {% endif %}>
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">
-    {% if page.keywords contains "english" %}
+    {% if page.categories contains "english" %}
     {{ page.date | date: "%A %d %b %Y" }}
     {% else %}
     {{ page.date | jdate: "%A %d %b %Y" }}
@@ -15,7 +15,7 @@ layout: default
 
 
 <p>
-{% if page.keywords contains "english" %}
+{% if page.categories contains "english" %}
 Listen to this episode using the links below or download it directly from <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">here</a>.
 {% else %}
  به این قسمت گوش دهید (<a href="{{site.baseurl}}/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>) و یا مستقیما <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">دانلود</a> کنید:
