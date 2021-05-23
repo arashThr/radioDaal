@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>۲۰۱۹ رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 28 Mar 2021 19:16:38 +0430</pubDate>
-		<lastBuildDate>Sun, 28 Mar 2021 19:16:38 +0430</lastBuildDate>
+		<pubDate>Sun, 23 May 2021 14:43:54 +0430</pubDate>
+		<lastBuildDate>Sun, 23 May 2021 14:43:54 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>سخت و آسان، با مرضیه از بلژیک</title>
+				<link>https://radioDaal.ir/marzieh-belgium</link>
+				<pubDate>Sun, 23 May 2021 00:00:00 +0430</pubDate>
+				<description>در این قسمت برای اولین بار همراه با مرضیه به سراغ بلژیک رفتیم. البته در جغرافیای اروپا، نزدیک بودن کشورها و ارتباط تنگاتنگی که با هم دارند، به سادگی این شرایط را مهیا کرده تا تجربه‌ی حضور در کشورهای دیگر را هم داشته باشی. مهمان ما هم به همین واسطه، علاوه بر بلژیک تجربیاتی از زندگی در هلند هم داشته که در این قسمت به آنها هم می‌پردازیم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/marzieh-belgium&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/marzieh-belgium</guid>
+				<enclosure url="http://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Marzieh-Belgium.mp3" length="63527570" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: سخت و آسان، با مرضیه از بلژیک</itunes:subtitle>
+				<itunes:summary>در این قسمت برای اولین بار همراه با مرضیه به سراغ بلژیک رفتیم. البته در جغرافیای اروپا، نزدیک بودن کشورها و ارتباط تنگاتنگی که با هم دارند، به سادگی این شرایط را مهیا کرده تا تجربه‌ی حضور در کشورهای دیگر را هم داشته باشی. مهمان ما هم به همین واسطه، علاوه بر بلژیک تجربیاتی از زندگی در هلند هم داشته که در این قسمت به آنها هم می‌پردازیم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/marzieh-belgium&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>122:03</itunes:duration>
+				<itunes:keywords>بلژیک, هلند, سفر, تحصیل, دکترا, مصاحبه, belgium, migration, interview</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/marzieh-belgium/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>The Backpacker, with Aaron from The Netherlands</title>
