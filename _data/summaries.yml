@@ -1,0 +1,9 @@
+pedram:
+  refer: 2019-08-16-pedram.md
+  cover: /public/img/pedram/cover.jpg
+  title: پدرام از نروژ
+  list:
+    - author: خانم حقی
+      link: pedram
+      summary: true
+

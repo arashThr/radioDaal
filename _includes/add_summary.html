@@ -1,0 +1,13 @@
+{% assign summaries = site.data.summaries[page.slug].list %}
+{% if summaries %}
+  <p>خلاصه‌ها و نوشته‌ها برای این قسمت:</p>
+  <ul>
+  {% for summary in summaries %}
+    <li>
+      <a href="{%link summary/{{summary.link}}.md %}">
+       {% if summary.summary %}خلاصه{% else %}نوشته{% endif %} {{ summary.author }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endif %}
