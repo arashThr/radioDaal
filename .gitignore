@@ -1,7 +1,6 @@
 # Ignore docs files
 _gh_pages
 _site
-.ruby-version
 .jekyll-cache
 
 # Numerous always-ignore extensions
@@ -42,3 +41,5 @@ validation-report.json
 node_modules
 bower_components
 .jekyll-metadata
+
+Todo.md
