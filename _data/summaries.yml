@@ -5,5 +5,19 @@ pedram:
   list:
     - author: خانم حقی
       link: pedram
-      summary: true
 
+sina-sweden:
+  refer: 2021-01-23-sina-sweden.md
+  cover: /public/img/sina-sweden/cover.jpg
+  title: سفر پشت سفر، با سینا از سوئد
+  list:
+    - author: خانم حقی
+      link: sina-sweden
+
+amin-azam-malaysia:
+  refer: 2017-10-06-amin-azam-malaysia.md
+  cover: /public/img/amin/cover.jpg
+  title: امین، اعظم و مالزی
+  list:
+    - author: خانم حقی
+      link: amin

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'امین، اعظم و مالزی'
+title: امین، اعظم و مالزی
 duration: "56:48" #audio length in min
 length: "23983555" #filesize in byte
 summary: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
@@ -28,13 +28,7 @@ keywords:
 
 می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-11) دریافت کنید.  
 
-یه راه دیگه هم اینه که همینجا داخل سایت به این قسمت گوش بدید:
-
-{%include audio.html url="AminAzam-malaysia" %}
-
 یادتون نره شنیدن نظراتتون لذت‌بخش‌ترین دستاورد این کار و به اشتراک گذاشتن هر قسمت با دوستانتون نهایت لطف شما است.
-
-
 
 <hr>
 
@@ -87,3 +81,6 @@ keywords:
 <li><a href="https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c">You've got a friend in me</a>, Randy Newman</li>
 </ul>
 </div>
+
+{% include add_summary.html %}
+{% include player.html id="70514141" %}

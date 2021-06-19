@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "سفر پشت سفر، با سینا از سوئد"
+title: سفر پشت سفر، با سینا از سوئد
 duration: "134:25" #audio length in min
 length: "65005537" #filesize in byte
 summary: |
@@ -9,7 +9,7 @@ summary: |
   توضیحات بیشتر در <a href="https://radiodaal.ir/sina-sweden">سایت رادیو دال</a>.
 explicit: "no"
 file: "archive.org/download/radioDaal/Sina-Sweden.mp3"
-cover: "/public/img/sina-sweden/cover.jpg"
+cover: /public/img/sina-sweden/cover.jpg
 excerpt_separator: <!-- more -->
 categories:
   - podcast
@@ -69,8 +69,6 @@ keywords:
 
 ---
 
-{% include player.html id="347969822" %}
-
 آهنگ‌ها و کلیپ‌های استفاده شده:
 
 <div dir="ltr">
@@ -79,3 +77,6 @@ keywords:
   <li><a href="https://www.youtube.com/watch?v=rmpwfj4Kb6c">John Cleese: Political Correctness, 1984 & The Destruction of Comedy</a></li>
 </ul>
 </div>
+
+{% include add_summary.html %}
+{% include player.html id="347969822" %}
