@@ -5,7 +5,7 @@
   {% for summary in summaries %}
     <li>
       <a href="{%link summary/{{summary.link}}.md %}">
-       {% if summary.summary %}خلاصه{% else %}نوشته{% endif %} {{ summary.author }}
+       {% if summary.note %}نوشته{% else %}خلاصه{% endif %} {{ summary.author }}
       </a>
     </li>
   {% endfor %}

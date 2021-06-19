@@ -12,11 +12,13 @@ layout: default
   <img src="{{ site.baseurl }}{{ post_data.cover }}" class="cover-img"/>
   {{ content }}
 
+  <hr>
+
   <p>
   {% if page.categories contains "english" %}
   Listen to this episode using the links below or download it directly from <a href="https://dts.podtrac.com/redirect.mp3/{{page.file}}">here</a>.
   {% else %}
-  به این قسمت گوش دهید (<a href="{{site.baseurl}}/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>).<br>
+  به این قسمت گوش دهید. (<a href="{{site.baseurl}}/intro#چطور-به-پادکست-گوش-بدم">چطور؟</a>)<br>
   برای توضیحات بیشتر به پست مربوط به این قسمت مراجعه کنید: <a href={% link _posts/{{ post_data.refer }} %}>{{ page.title }}</a>
   {% endif %}
   </p>
