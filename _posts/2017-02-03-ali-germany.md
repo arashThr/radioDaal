@@ -4,9 +4,9 @@ title: 'علی و آلمان'
 duration: "56:43" #audio length in min
 length: "23906025" #filesize in byte
 summary: 'در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Ali-Germany.mp3'
+spotifyId: 3Re8WACZFtX44u8ymEfIOn
 categories:
     - podcast
 keywords:
@@ -21,4 +21,3 @@ keywords:
 می‌توانید این قسمت را در دو نسخه با کیفیت و کم‌حجم از روی [گوگل‌درایو](http://bit.ly/daal-01) دانلود کنید.
 
 <!-- more -->
-{%include audio.html url="Ali-Germany" %}

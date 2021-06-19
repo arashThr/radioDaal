@@ -11,7 +11,8 @@ summary: |
   توضیحات بیشتر در <a href="https://radiodaal.ir/mohammad-ilm">سایت رادیو دال</a>.
 explicit: "no"
 file: "archive.org/download/radioDaal/Mohammad-ILM-Bonus.mp3"
-excerpt_separator: <!-- more -->
+cover: /public/img/ilm/cover-parsa.jpg
+spotifyId: 5NRYdAYkkDEtBwbHZ5KRHT
 categories:
   - podcast
   - profession
@@ -20,8 +21,6 @@ keywords:
   - ازدواج
   - رابطه
 ---
-
-<img src="{{site.baseurl}}/public/img/ilm/cover-parsa.jpg" class="cover-img"/>
 
 در [قسمت قبل]({{ site.baseurl }}{% post_url 2019-10-08-mohammad-ilm %}) که با حضور محمد بود، موقع ضبط راجع به موضوعات مختلفی صحبت کردیم. یه قسمت از این صحبت‌ها، حرف‌های محمد راجع به **ازدواج، رابطه و فضای خود آمریکا** بود 🇺🇸
 
@@ -32,5 +31,3 @@ keywords:
  مراجعه کنید.
  
 در ضمن کاور زیبایی که برای این قسمت ازش استفاده شده توسط [پارسا](https://www.instagram.com/_parsart/) طراحی شده که ازش تشکر می‌کنم 🙏🏼
-
-<!-- {% include player.html id="177725572" %} -->

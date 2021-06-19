@@ -5,8 +5,9 @@ duration: "60:00" #audio length in min
 length: "43457291" #filesize in byte
 summary: 'شقایق در اواخر سال هشتاد و نه همراه با همسر و فرزندش به آمریکا مهاجرت کرد. دانشگاه تهران درس خونده، چندین سال در ایران کار کرده و از طریق تحصیلی تونسته بره ایالت میشیگان. در این قسمت داستان این خانواده رو میشنویم و می‌پردازیم به اینکه چطور مسیر زندگی شقایق پس از به دنیا اومدن فرزندش عوض شد.'
 explicit: "no"
-excerpt_separator: <!-- more -->
 file: 'archive.org/download/radioDaal/Shaghayegh-USA.mp3'
+spotifyId: 1HJ0HdBWPFzt8rXWsLEj5z
+castboxId: 76328100
 categories:
     - podcast
 keywords:
@@ -29,14 +30,10 @@ keywords:
 
 <hr>
 
-<!-- <img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" class="cover-img"/> -->
-
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید.  
 رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](http://bit.ly/2C2KlZw).  
 دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-18) هم امکان‌پذیر است.  
-علاوه بر اینها این قسمت رو در [دراپ باکس](http://bit.ly/2rrqQ8D) و [ساوندکلاود](http://bit.ly/2IqBmXB) هم قرار داده‌ام.  
-
-برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2rqZHCY) مراجعه کنید.  
+علاوه بر اینها این قسمت رو در [ساوندکلاود](http://bit.ly/2IqBmXB) هم قرار داده‌ام.  
 
 <hr>
 
@@ -53,8 +50,6 @@ keywords:
 - قدم گذاشتن به خاک آمریکا
 
 <hr>
-
-{% include player.html id="76328100" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 <div dir="ltr">

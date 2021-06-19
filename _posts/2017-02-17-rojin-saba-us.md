@@ -4,9 +4,9 @@ title: 'صبا، روژین و آمریکا'
 duration: "77:23" #audio length in min
 length: "32589266" #filesize in byte
 summary: 'در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/RojinSaba-Us.mp3'
+spotifyId: 03hIiWnNCU0xcQxZTbcHwO
 categories:
     - podcast
 keywords:
@@ -21,7 +21,6 @@ keywords:
 مکالمه رو در دو نسخه باکیفیت و کم حجم می‌تونید از [گوگل‌درایو](http://bit.ly/daal-02) دانلود کنید.
 
 <!-- more -->
-{%include audio.html url="RojinSaba-Us" %}
 
 باهاشون گپ می‌زنیم راجع به:
 

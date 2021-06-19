@@ -5,8 +5,8 @@ duration: "64:38" #audio length in min
 length: "27683904" #filesize in byte
 summary: 'استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.'
 explicit: "no"
-excerpt_separator: <!-- more -->
 file: 'archive.org/download/radioDaal/Parnian-Australia.mp3'
+spotifyId: 3pmnja8zwBvdKlrgfaTkxg
 categories:
     - podcast
 keywords:
@@ -34,12 +34,7 @@ keywords:
 .  
 اینم بگم که این ماه قسمت [دوم پادکست]({{site.baseurl}}/rojin-saba-us) اومده بود بین پادکست‌های برگزیده ناملیک. مرسی از دوستانی که اسباب حضور ما در بین این همه پادکست خوب رو مهیا کردن.
 
-{%include audio.html url="Parnian-Australia" %}
-
-مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با مهمان این قسمت یعنی پرنیان در میون بگذارید.
-
 همچنین یادتون نره این قسمت رو با دوستان و آشنایانتون به اشتراک بگذارید.
-
 
 <hr>
 

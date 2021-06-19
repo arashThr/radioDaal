@@ -4,9 +4,9 @@ title: 'آرش از سوئیس'
 duration: "81:00" #audio length in min
 length: "34114911" #filesize in byte
 summary: 'در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Arash-Switzerland.mp3'
+spotifyId: 3CBrONl1yzdq6mbw6YcVSr
 categories:
     - podcast
 keywords:
@@ -24,8 +24,6 @@ keywords:
 <!-- more -->
 مکالمه رو در دو نسخه باکیفیت و کم حجم می‌تونید از روی [گوگل‌درایو](http://bit.ly/daal-05) دانلود کنید.
 همچنین می‌تونید برای دریافت و دنبال کردن مجموعه به کانال ما در تلگرام به آدرس [رادیو دال](https://telegram.me/radioDaal) بپیوندید.
-
-{%include audio.html url="Arash-Switzerland" %}
 
 **بخش اول**
 

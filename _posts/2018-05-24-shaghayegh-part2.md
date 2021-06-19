@@ -5,8 +5,9 @@ duration: "90:00" #audio length in min
 length: "65100155" #filesize in byte
 summary: 'در قسمت قبل همراه با شقایق پرداختیم به اینکه شرایط در ایران به چه صورت بود، چی شد که تصمیم به مهاجرت گرفتند و در این مسیر برای خودش و همسر و فرزندش  چه اتفاقاتی افتاد. انتهای قسمت قبل با ورود به خاک آمریکا به پایان رسید. در این قسمت میریم سراغ داستان شقایق در آمریکا: از روزهای اولی که وارد این کشور شدند میشنویم و میپردازیم به اینکه این خانواده چطور به تدریج از پس مشکلات براومد و جای پای خودش رو محکم کرد.'
 explicit: "no"
-excerpt_separator: <!-- more -->
 file: 'archive.org/download/radioDaal/Shaghayegh-USA-Part2.mp3'
+castboxId: 78265303
+spotifyId: 4e5AEJXbkmovHjOPezlSMS
 categories:
     - podcast
 keywords:
@@ -53,10 +54,6 @@ keywords:
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید.  
 رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](http://bit.ly/2C2KlZw).  
 دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-19) هم امکان‌پذیر است.  
-
-برای بحث و تبادل نظر راجع به این قسمت می‌تونید به [فروم رادیو دال](http://bit.ly/2rqZHCY) مراجعه کنید.  
-
-{% include player.html id="78265303" %}
 
 <hr>
 

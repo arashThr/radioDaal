@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "سخت و آسان، با مرضیه از بلژیک"
+title: سخت و آسان، با مرضیه از بلژیک
 duration: "122:03" #audio length in min
 length: "63527570" #filesize in byte
 summary: |
@@ -9,8 +9,9 @@ summary: |
   توضیحات بیشتر در <a href="https://radiodaal.ir/marzieh-belgium">سایت رادیو دال</a>.
 explicit: "no"
 file: "archive.org/download/radioDaal/Marzieh-Belgium.mp3"
-cover: "/public/img/marzieh-belgium/cover.jpg"
-excerpt_separator: <!-- more -->
+cover: /public/img/marzieh-belgium/cover.jpg
+castboxId: 384927127
+spotifyId: 6Lc5FgentHRt4BJVB2yekQ
 categories:
   - podcast
   - farsi
@@ -25,8 +26,6 @@ keywords:
 - migration
 - interview
 ---
-
-<img src="{{ page.cover }}" class="cover-img"/>
 
 در این قسمت برای اولین بار همراه با مهمان خودمان به سراغ **بلژیک** رفتیم. البته در جغرافیای اروپا، نزدیک بودن کشورها و ارتباط تنگاتنگی که با هم دارند، به سادگی این شرایط را مهیا کرده تا تجربه‌ی حضور در کشورهای دیگر را هم داشته باشی. مهمان ما هم به همین واسطه، علاوه بر بلژیک **تجربیاتی از زندگی در هلند** هم داشته که در این قسمت به آنها هم می‌پردازیم.
 
@@ -72,7 +71,3 @@ keywords:
 - دوران کرونا
 - شاهنامه‌خوانی
 - پاسپورت ایرانی و سفر به استرالیا و هلند
-
----
-
-<!-- {% include player.html id="368322997" %} -->

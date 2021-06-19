@@ -4,9 +4,9 @@ title: 'شهرزاد و دبی'
 duration: "58:00" #audio length in min
 length: "24442826" #filesize in byte
 summary: 'این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Shahrzad-Dubai.mp3'
+spotifyId: 2TKkYKo5nt7BxqnlSRAPhn
 categories:
     - podcast
 keywords:
@@ -29,13 +29,7 @@ keywords:
 می‌تونید این قسمت رو از [آیتونز](http://apple.co/2go4xdT)، [کانال تگرام](https://t.me/radioDaal)، [گوگل درایو](http://bit.ly/daal-12) دریافت کنید.  
 نسخه با کیفیت بالا روی گوگل درایو موجود هست.
 
-{%include audio.html url="Shahrzad-Dubai" %}
-
-مثل قبل می‌تونید با استفاده از [این بات تلگرام](https://t.me/RadioDaalGuestBot) اگر سوالی داشتید با شهرزاد در میون بگذارید.
-
-
 همچنین یادتون نره این قسمت رو با دوستان و آشنایانتون به اشتراک بگذارید.
-
 
 <hr>
 
@@ -69,9 +63,7 @@ keywords:
 - فاصله
 - بقیه کشورها
 
-
 <hr>
-
 
 صحبت‌های اول پادکست مربوط به کمدین معروف لویی سی کی در سریال لویی هستش.  
 <div dir="ltr">

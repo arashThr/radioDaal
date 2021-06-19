@@ -11,7 +11,9 @@ summary: |
   توضیحات بیشتر در <a href="https://radiodaal.ir/mohammad-ilm">سایت رادیو دال</a>.
 explicit: "no"
 file: "archive.org/download/radioDaal/Mohammd-ILM.mp3"
-excerpt_separator: <!-- more -->
+cover: /public/img/ilm/cover.jpg
+castboxId: 191828612
+spotifyId: 1jSGKR0ON9rKmQt6iqo2pN
 categories:
   - podcast
   - profession
@@ -20,8 +22,6 @@ keywords:
   - هنر
   - فیلم
 ---
-
-<img src="{{site.baseurl}}/public/img/ilm/cover.jpg" class="cover-img"/>
 
 در این قسمت از رادیو دال محمد مدرس مهمان برنامه شده. محمد در ایالت کالیفرنیا زندگی میکنه و در **شرکت ILM** مشغول به کاره. این شرکت مسئول **جلوه‌های ویژه** بعضی از بزرگترین پروژه‌های هالیوودی مثل اونجرز، اسپایدرمن و علاءالدین بوده. محمد در این شرکت در قسمت مجسمه‌سازی دیجیتال کار می‌کنه و سابقه کار روی پروژه‌هایی مثل **ددپول، دکتر استرنج و آیریش من**، جدیدترین فیلم مارتین اسکورسیزی رو داره.
 
@@ -67,8 +67,6 @@ keywords:
 - هزینه‌ی جلوه‌های ویژه
 
 <hr>
-
-{% include player.html id="191828612" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 

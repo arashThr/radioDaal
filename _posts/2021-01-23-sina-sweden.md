@@ -10,7 +10,8 @@ summary: |
 explicit: "no"
 file: "archive.org/download/radioDaal/Sina-Sweden.mp3"
 cover: /public/img/sina-sweden/cover.jpg
-excerpt_separator: <!-- more -->
+playerId: 347969822
+spotifyId: 46drkGDKne2SDPVYDisGnn
 categories:
   - podcast
 keywords:
@@ -19,8 +20,6 @@ keywords:
 - مدیا
 - مهاجرت
 ---
-
-<img src="{{ page.cover }}" class="cover-img"/>
 
 در این قسمت از رادیو دال یک بار دیگر به حوزه **اسکاندیناوی** سر میزنیم و این بار با سینا هم‌صحبت میشیم. سینا برخلاف بسیاری از مهمان‌های برنامه که از طریق تحصیلی مهاجرت کرده‌اند، **از طریق کاری** و در ماجرایی پر پیچ و خم، و پس از **پشت سر گذاشتن ترکیه و دبی** به همراه همسرش به سوئد رسیده‌اند. علاوه بر این شغل سینا هم یکی از موضوعات هیجان‌انگیز این قسمت محسوب میشود: **کارگردان فنی**، تصویربردار، تهیه‌کننده برادکست، و ناظر کیفی پخش.
 
@@ -77,6 +76,3 @@ keywords:
   <li><a href="https://www.youtube.com/watch?v=rmpwfj4Kb6c">John Cleese: Political Correctness, 1984 & The Destruction of Comedy</a></li>
 </ul>
 </div>
-
-{% include add_summary.html %}
-{% include player.html id="347969822" %}

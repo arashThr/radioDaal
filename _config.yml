@@ -19,7 +19,7 @@ timezone:            "Asia/Tehran"
 # About/contact
 author:
   name:              Arash Thr
-  url:               https://t.me/radioDaalBot
+  url:               https://arashTaher.ir
   email:             radioDaalPodcast@gmail.com
 
 # Custom vars
@@ -28,3 +28,11 @@ version:             1.0.0
 plugins:
     - jekyll-paginate
     - jalalidate
+
+# Front Matter Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      excerpt_separator: <!-- more -->

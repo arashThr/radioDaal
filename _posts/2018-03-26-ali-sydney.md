@@ -5,7 +5,8 @@ duration: "68:26" #audio length in min
 length: "63045918" #filesize in byte
 summary: 'علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال در ایران مشغول به کار بوده. بعد تونسته ویزای اقامت استرالیا رو اخذ کنه و به اونجا مهاجرت کرده. الان چندین ساله که در سیدنی زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.'
 explicit: "no"
-excerpt_separator: <!-- more -->
+castboxId: 71202043
+spotifyId: 2gHQv8GRWxDl4cNdFqEDJ2
 file: 'archive.org/download/radioDaal/Ali-Sydney.mp3'
 categories:
     - podcast
@@ -25,8 +26,6 @@ keywords:
 <!-- more -->
 
 <hr>
-
-<!-- <img src="{{site.baseurl}}/public/img/ali-sydney/cover.jpg" class="cover-img"/> -->
 
 می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید.  
 رادیو دال رو در ناملیک هم می‌تونید [گوش کنید](http://bit.ly/2C2KlZw)
@@ -68,8 +67,6 @@ keywords:
 
 
 <hr>
-
-{% include player.html id="71202043" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 <div dir="ltr">

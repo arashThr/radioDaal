@@ -4,9 +4,10 @@ title: امین، اعظم و مالزی
 duration: "56:48" #audio length in min
 length: "23983555" #filesize in byte
 summary: 'در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/AminAzam-malaysia.mp3'
+castboxId: 70514141
+spotifyId: 7ovGLOXGWDRmOkkJQk9l1V
 categories:
     - podcast
 keywords:
@@ -61,7 +62,6 @@ keywords:
 - حجاب
 - تنش، هویت و فرارم
 
-
 <hr>
 
 تشکری دارم از آقای بندی از پادکست [کانال بی](http://namlik.me/channel/%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%A8%DB%8C) که وقت گذاشتن و نظرات خودشون راجع به رادیو دال را به من انتقال دادن. توصیه اکید من گوش دادن به هر قسمت از پادکست خوبشونه ... همین الان!
@@ -81,6 +81,3 @@ keywords:
 <li><a href="https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c">You've got a friend in me</a>, Randy Newman</li>
 </ul>
 </div>
-
-{% include add_summary.html %}
-{% include player.html id="70514141" %}

@@ -4,9 +4,9 @@ title: 'عرفان: از منچستر تا تهران'
 duration: "50:07" #audio length in min
 length: "21128214" #filesize in byte
 summary: 'در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Erfan-England.mp3'
+spotifyId: 5byxnM1u1SEJzPZT591sCA
 categories:
     - podcast
 keywords:
@@ -26,9 +26,6 @@ keywords:
 
 مکالمه رو در دو نسخه باکیفیت و کم حجم می‌تونید از روی [گوگل درایو](http://bit.ly/daal-04) دانلود کنید.  
 همچنین می‌تونید برای دریافت و دنبال کردن مجموعه به کانال ما در تلگرام به آدرس [رادیو دال](https://telegram.me/radioDaal) بپیوندید.
-
-{%include audio.html url="Erfan-England" %}
-
 
 **بخش اول**
 

@@ -7,7 +7,9 @@ summary: |
   تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه کانال یوتیوب داره به اسم الکتروبوم. کانال یوتیوب مهدی بیش از دو میلیون و هفتصد هزار مخاطب داره و ساخت ویدئو برای این کانال تبدیل به کار تمام وقت برای مهدی شده.
 explicit: "no"
 file: "archive.org/download/radioDaal/Mehdi-Electroboom.mp3"
-excerpt_separator: <!-- more -->
+castboxId: 180125759
+spotifyId: 3E6n3mbl8IKne4mB1fwbZ4
+cover: /public/img/electroboom/cover.jpg
 categories:
   - podcast
 keywords:
@@ -16,8 +18,6 @@ keywords:
   - برق
   - کانادا
 ---
-
-<img src="{{site.baseurl}}/public/img/electroboom/cover.jpg" class="cover-img"/>
 
 تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه **کانال یوتیوب داره به اسم [الکتروبوم](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)**.
 این کانال یوتیوب اصلی‌ترین دلیل بود که مهدی رو گیر بیارم و باهاش صحبت کنم. کانال الکتروبوم در این زمان **دو میلیون و هفتصد هزار نفر سابسکرایبر** داره. عددی که فکر کنم مهدی رو تبدیل میکنه به بزرگترین یوتیوبر ایرانی.  
@@ -64,8 +64,6 @@ alt="Graphite and Its Awesome Properties" width="240" height="180" border="10" /
 - ایده‌ها رو از کجا پیدا می‌کنی؟
 
 <hr>
-
-{% include player.html id="180125759" %}
 
 آهنگ‌ها و کلیپ‌های استفاده شده:
 

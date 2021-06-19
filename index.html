@@ -38,7 +38,6 @@ title: Home
 
 {% endif %}
 
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post" {% if post.categories contains "english" %}dir="ltr"{% endif %}>
@@ -55,6 +54,9 @@ title: Home
       {{ post.date | jdate: "%A %d %b %Y" }}
       {% endif %}
     </span>
+    {% if post.cover %}
+    <img src="{{ post.cover }}" class="cover-img"/>
+    {% endif %}
     {{ post.excerpt }}
     <a href="{{ site.baseurl }}{{ post.url }}">{% if post.categories contains "english" %}More ...{% else %}توضیحات بیشتر ...{% endif %}</a>
   </div>

@@ -11,8 +11,14 @@ layout: default
     {{ page.date | jdate: "%A %d %b %Y" }}
     {% endif %}
   </span>
+
+  {% if page.cover %}
+  <img src="{{ page.cover }}" class="cover-img"/>
+  {% endif %}
+
   {{ content }}
 
+  {% include add_summary.html %}
 
 <p>
 {% if page.categories contains "english" %}
@@ -22,8 +28,8 @@ Listen to this episode using the links below or download it directly from <a hre
 {% endif %}
 </p>
 
+  {% include player.html %}
   {% include badges.html %}
-
   {% include donation.html %}
 </div>
 

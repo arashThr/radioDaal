@@ -4,9 +4,9 @@ title: 'مسیح و میلان'
 duration: "66:35" #audio length in min
 length: "28116746" #filesize in byte
 summary: 'و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.'
-excerpt_separator: <!-- more -->
 explicit: "no"
 file: 'archive.org/download/radioDaal/Masih-Italy.mp3'
+spotifyId: 6cvInHzxYlTi1dFvfujXIE
 categories:
     - podcast
 keywords:
@@ -23,8 +23,6 @@ keywords:
 
 <!-- more -->
 {% include guest_imgs.html name="masih" %}
-
-{%include audio.html url="Masih-Italy" %}
 
 **بخش اول**
 
