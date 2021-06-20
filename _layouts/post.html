@@ -18,6 +18,8 @@ layout: default
 
   {{ content }}
 
+  {% assign summaries = site.data.summaries[page.slug].list %}
+  <h3>خلاصه‌ها و نوشته‌ها برای این قسمت:</h3>
   {% include add_summary.html %}
 
 <p>
