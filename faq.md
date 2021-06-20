@@ -44,8 +44,8 @@ title: پرسش‌های متداول
 چنانجه از برنامه‌های مخصوص پادکست (پادگیر، مثل اپل‌پادکست و گوگل‌پادکست) استفاده کنید، این برنامه‌ها خودشون اگر قسمت جدیدی منتشر بشه به شما اطلاع میدند و میتونید از همونجا گوش بدید.
 
 - ## چطور میتونم پادکست رو دنبال کنم؟
-دنبال کردن پادکست در [آیتونز](http://apple.co/2go4xdT)، عضویت در خبرنامه ([ثبت نام](http://eepurl.com/cVyx_r))، دنبال کردن در برنامه‌های مخصوص گوش دادن به پادکست مثل [Podcast addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en)، [Castbox](http://castbox.fm/) و [Overcast](http://overcast.fm/) (کافیه رادیو دال رو به فارسی جستجو کنید)،
-استفاده از خبرخوان‌ها مثل [فیدلی](http://feedly.com) ([آدرس فید]({{site.baseurl}}/podcast.rss))، دنبال کردن رادیو دال در [ناملیک](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)، عضویت در [کانال تلگرام](https://t.me/radioDaal)، دنبال کردن پادکست در [توئیتر](https://twitter.com/radioDaal) و [اینستاگرام](https://www.instagram.com/radioDaal).
+دنبال کردن پادکست در [آیتونز](https://apple.co/2go4xdT)، عضویت در خبرنامه ([ثبت نام](https://eepurl.com/cVyx_r))، دنبال کردن در برنامه‌های مخصوص گوش دادن به پادکست مثل [Podcast addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en)، [Castbox](https://castbox.fm/) و [Overcast](https://overcast.fm/) (کافیه رادیو دال رو به فارسی جستجو کنید)،
+استفاده از خبرخوان‌ها مثل [فیدلی](https://feedly.com) ([آدرس فید]({{site.baseurl}}/podcast.rss))، دنبال کردن رادیو دال در [ناملیک](https://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AF%D8%A7%D9%84)، عضویت در [کانال تلگرام](https://t.me/radioDaal)، دنبال کردن پادکست در [توئیتر](https://twitter.com/radioDaal) و [اینستاگرام](https://www.instagram.com/radioDaal).
 
 - ## چرا در سانودکلاود نیستی؟
 در ساوندکلاود [هستیم](https://soundcloud.com/arashthr/sets/radio-daal)، ولی خیلی فعالیتی نداریم. ساوندکلاود یک سرویس رایگان نیست. پرداخت هزینه‌اش هم در حال حاضر مقدور نیست.

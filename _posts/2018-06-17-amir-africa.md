@@ -27,15 +27,15 @@ keywords:
 
 <!-- more -->
 
-میتونید نظرات خودتون رو در [توئیتر](https://twitter.com/radioDaal) و [اینستاگرام](https://www.instagram.com/radioDaal/) و یا [انجمن](http://bit.ly/2K1lBHk) با بقیه در میون بگذارید.
+میتونید نظرات خودتون رو در [توئیتر](https://twitter.com/radioDaal) و [اینستاگرام](https://www.instagram.com/radioDaal/) و یا [انجمن](https://bit.ly/2K1lBHk) با بقیه در میون بگذارید.
 
 {% include guest_imgs.html name="amir-africa" %}
 
 <hr>
 
-می‌تونید این قسمت رو در [آیتونز](http://apple.co/2go4xdT) گوش بدید.  
-دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](http://bit.ly/daal-20) هم امکان‌پذیر است.  
-رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](http://bit.ly/2C2KlZw).  
+می‌تونید این قسمت رو در [آیتونز](https://apple.co/2go4xdT) گوش بدید.  
+دسترسی به این قسمت مثل قبل در [کانال تگرام](https://t.me/radioDaal) و [گوگل درایو](https://bit.ly/daal-20) هم امکان‌پذیر است.  
+رادیو دال رو در ناملیک هم می‌تونید [دنبال کنید](https://bit.ly/2C2KlZw).  
 
 <hr>
 
@@ -69,7 +69,7 @@ keywords:
 
 <hr>
 
-آهنگ‌ها و کلیپ‌های استفاده شده ([پلی لیست](http://bit.ly/daal-music) در اسپاتیفای): 
+آهنگ‌ها و کلیپ‌های استفاده شده ([پلی لیست](https://bit.ly/daal-music) در اسپاتیفای): 
 <div dir="ltr">
 <ul>
 <li>Carmen Twillie, Lebo M. - The Lion King, Circle Of Life</li>
