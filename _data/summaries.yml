@@ -1,11 +1,3 @@
-pedram:
-  refer: 2019-08-16-pedram.md
-  cover: /public/img/pedram/cover.jpg
-  title: پدرام از نروژ
-  list:
-    - author: خانم حقی
-      link: pedram
-
 sina-sweden:
   refer: 2021-01-23-sina-sweden.md
   cover: /public/img/sina-sweden/cover.jpg
@@ -14,6 +6,38 @@ sina-sweden:
     - author: خانم حقی
       link: sina-sweden
 
+pedram:
+  refer: 2019-08-16-pedram.md
+  cover: /public/img/pedram/cover.jpg
+  title: پدرام از نروژ
+  list:
+    - author: خانم حقی
+      link: pedram
+
+mohsen:
+  refer: 2020-02-23-mohsen.md
+  title: محسن، یک حقوقی از نیویورک
+  cover: /public/img/mohsen/cover.jpg
+  list:
+    - author: خانم حقی
+      link: mohsen
+
+hamed:
+  refer: 2020-07-26-hamed.md
+  title: به من بگو چرا؟ با حامد از ایران
+  cover: /public/img/hamed/cover.jpg
+  list:
+    - author: خانم حقی
+      link: hamed
+
+yasamin:
+  refer: 2019-05-14-yasamin.md
+  title: یاسمین از ایتالیا
+  cover: /public/img/yasi/cover.jpg
+  list:
+    - author: خانم حقی
+      link: yasamin
+
 amin-azam-malaysia:
   refer: 2017-10-06-amin-azam-malaysia.md
   cover: /public/img/amin/cover.jpg
@@ -21,3 +45,17 @@ amin-azam-malaysia:
   list:
     - author: خانم حقی
       link: amin
+
+pooya-germany:
+  refer: 2017-08-02-pooya-germany.md
+  title: پویا و آلمان
+  list:
+    - author: خانم حقی
+      link: pooya
+
+farnaz-mehrded:
+  refer: 2017-03-06-farnaz-mehrdad-canada.md
+  title: فرناز، مهرداد و کانادا
+  list:
+    - author: خانم حقی
+      link: farnaz-mehrded

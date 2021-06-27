@@ -1,6 +1,6 @@
 {% if page.spotifyId %}
 <iframe src="https://open.spotify.com/embed/episode/{{ page.spotifyId }}" width="100%" height="152" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{% else if page.castboxId %}
+{% elsif page.castboxId %}
 <iframe src="https://castbox.fm/app/castbox/player/id1210932/id{{ page.castboxId }}?v=8.1.0&autoplay=0&hide_list=1" frameborder="0" width="100%" height="200"></iframe>
 {% endif %}
 

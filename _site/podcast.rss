@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>2021 رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 20 Jun 2021 09:25:44 +0430</pubDate>
-		<lastBuildDate>Sun, 20 Jun 2021 09:25:44 +0430</lastBuildDate>
+		<pubDate>Sun, 27 Jun 2021 18:34:50 +0430</pubDate>
+		<lastBuildDate>Sun, 27 Jun 2021 18:34:50 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>سفرهای استادی، با وهاب از تایوان</title>
+				<link>https://radioDaal.ir/vahab</link>
+				<pubDate>Fri, 25 Jun 2021 00:00:00 +0430</pubDate>
+				<description>در این قسمت قدم در مسیری بیست ساله گذاشتیم و همراه با وهاب از ایران شروع کردیم، به آمریکا رفتیم و سرانجام به تایوان رسیدیم. در حال حاضر وهاب به عنوان استاد در یکی از دانشگاه‌های آمریکا به تدریس و تحقیق مشغوله. اما در کنار این حرفه، علاقه و اشتیاق فراوانی که به سفر کردن داره پاش رو به بیش از نود کشور باز کرده.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/vahab&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/vahab</guid>
+				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Vahab-Taiwan.mp3" length="64058124" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: سفرهای استادی، با وهاب از تایوان</itunes:subtitle>
+				<itunes:summary>در این قسمت قدم در مسیری بیست ساله گذاشتیم و همراه با وهاب از ایران شروع کردیم، به آمریکا رفتیم و سرانجام به تایوان رسیدیم. در حال حاضر وهاب به عنوان استاد در یکی از دانشگاه‌های آمریکا به تدریس و تحقیق مشغوله. اما در کنار این حرفه، علاقه و اشتیاق فراوانی که به سفر کردن داره پاش رو به بیش از نود کشور باز کرده.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/vahab&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>7993.0</itunes:duration>
+				<itunes:keywords>آمریکا, تایوان, تحصیل, دانشگاه, سفر, مصاحبه, taiwan, migration, interview</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/vahab/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>سخت و آسان، با مرضیه از بلژیک</title>
