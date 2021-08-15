@@ -9,8 +9,8 @@
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
 		<copyright>2021 رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 27 Jun 2021 18:37:19 +0430</pubDate>
-		<lastBuildDate>Sun, 27 Jun 2021 18:37:19 +0430</lastBuildDate>
+		<pubDate>Sun, 15 Aug 2021 19:02:48 +0430</pubDate>
+		<lastBuildDate>Sun, 15 Aug 2021 19:02:48 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>از رویا تا حقیقت، با سارا از ژاپن</title>
+				<link>https://radioDaal.ir/sara-japan</link>
+				<pubDate>Sun, 15 Aug 2021 00:00:00 +0430</pubDate>
+				<description>در این قسمت یک بار دیگر به شرق آسيا سر میزنیم و برای سومین مرتبه، ولی این بار همراه با سارا به سراغ کشور ژاپن میریم. آشنایی من با سارا از طریق یک برنامه مستند در شبکه‌ی ان‌اچ‌کی بود که به زندگی در مناطق روستایی و بکر ژاپن میپرداخت. تسلط بالای سارا به زبان ژاپنی و شناخت و درک عمیقی که از فرهنگ ژاپن داشت نکات برجسته‌ای بود که در این برنامه به چشم میومد. همین موضوعات سبب شد که ازش برای شرکت در یک قسمت از پادکست دعوت کنم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sara-japan&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/sara-japan</guid>
+				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sara-Japan.mp3" length="58419447" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: از رویا تا حقیقت، با سارا از ژاپن</itunes:subtitle>
+				<itunes:summary>در این قسمت یک بار دیگر به شرق آسيا سر میزنیم و برای سومین مرتبه، ولی این بار همراه با سارا به سراغ کشور ژاپن میریم. آشنایی من با سارا از طریق یک برنامه مستند در شبکه‌ی ان‌اچ‌کی بود که به زندگی در مناطق روستایی و بکر ژاپن میپرداخت. تسلط بالای سارا به زبان ژاپنی و شناخت و درک عمیقی که از فرهنگ ژاپن داشت نکات برجسته‌ای بود که در این برنامه به چشم میومد. همین موضوعات سبب شد که ازش برای شرکت در یک قسمت از پادکست دعوت کنم.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sara-japan&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>7281.0</itunes:duration>
+				<itunes:keywords>ژاپن, فرانسه, japan, interview</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/sara-japan/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>سفرهای استادی، با وهاب از تایوان</title>
