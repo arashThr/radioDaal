@@ -8,9 +8,9 @@
 		<language>fa</language>
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
-		<copyright>2021 رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 15 Aug 2021 19:02:48 +0430</pubDate>
-		<lastBuildDate>Sun, 15 Aug 2021 19:02:48 +0430</lastBuildDate>
+		<copyright>2022 رادیو دال | Radio Daal</copyright>
+		<pubDate>Sun, 22 May 2022 20:22:33 +0430</pubDate>
+		<lastBuildDate>Sun, 22 May 2022 20:22:33 +0430</lastBuildDate>
 		<image>
 			<link>https://radioDaal.ir</link>
 			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
@@ -35,6 +35,29 @@
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		
+			<item>
+				<title>پل سرخ، با فاطمه از افغانستان</title>
+				<link>https://radioDaal.ir/fateme</link>
+				<pubDate>Sun, 22 May 2022 00:00:00 +0430</pubDate>
+				<description>در این قسمت با فاطمه همراه شدیم برای سفر به افغانستان. فاطمه از والدینی افغانستانی در ایران به دنیا اومد. همینجا تحصیل کرد، وارد دانشگاه شد و در ادامه پس از ازدواج به دنبال یک زندگی و آینده بهتر به افغانستان رفت.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/fateme&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</description>
+				<guid isPermaLink="true">https://radioDaal.ir/fateme</guid>
+				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Fateme-Afghanistan.mp3" length="45804634" type="audio/mp3"/>
+				<itunes:author>Arash Thr</itunes:author>
+				<itunes:subtitle>رادیو دال: پل سرخ، با فاطمه از افغانستان</itunes:subtitle>
+				<itunes:summary>در این قسمت با فاطمه همراه شدیم برای سفر به افغانستان. فاطمه از والدینی افغانستانی در ایران به دنیا اومد. همینجا تحصیل کرد، وارد دانشگاه شد و در ادامه پس از ازدواج به دنبال یک زندگی و آینده بهتر به افغانستان رفت.
+
+توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/fateme&quot;&gt;سایت رادیو دال&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>5711.0</itunes:duration>
+				<itunes:keywords>افغانستان, مهاجرت, afghanistan, interview</itunes:keywords>
+				<itunes:image href="https://radioDaal.ir/public/img/fateme/cover.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 		
 			<item>
 				<title>از رویا تا حقیقت، با سارا از ژاپن</title>
@@ -216,33 +239,6 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 				<itunes:duration>134:14</itunes:duration>
 				<itunes:keywords>نیوزیلند, تحصیل, دکترا</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/faegheh/cover.jpg" />
-				<itunes:explicit>no</itunes:explicit>
-				<itunes:block>no</itunes:block>
-			</item>
-		
-			<item>
-				<title>به من بگو چرا؟ با حامد از ایران</title>
-				<link>https://radioDaal.ir/hamed</link>
-				<pubDate>Sun, 26 Jul 2020 00:00:00 +0430</pubDate>
-				<description>تا به حال در چندین قسمت به جای سفر به کشورهای خارجی مهمان‌هایی از داخل ایران داشتیم، افرادی که یا به انتخاب خودشون در ایران مونده بودند و یا پس از مدتی زندگی در خارج تصمیم گرفته بودند به ایران بازگردند. در این قسمت هم به چنین داستانی میپردازیم.
-
-حامد از دوران نوجوانی به کانادا مهاجرت کرده بود. پس سال‌ها تصمیم میگیره برای ادامه‌ی مسیر کاری خودش به ایران برگرده.
-
-توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/hamed&quot;&gt;سایت رادیو دال&lt;/a&gt;.
-</description>
-				<guid isPermaLink="true">https://radioDaal.ir/hamed</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Hamed-Iran.mp3" length="79675713" type="audio/mp3"/>
-				<itunes:author>Arash Thr</itunes:author>
-				<itunes:subtitle>رادیو دال: به من بگو چرا؟ با حامد از ایران</itunes:subtitle>
-				<itunes:summary>تا به حال در چندین قسمت به جای سفر به کشورهای خارجی مهمان‌هایی از داخل ایران داشتیم، افرادی که یا به انتخاب خودشون در ایران مونده بودند و یا پس از مدتی زندگی در خارج تصمیم گرفته بودند به ایران بازگردند. در این قسمت هم به چنین داستانی میپردازیم.
-
-حامد از دوران نوجوانی به کانادا مهاجرت کرده بود. پس سال‌ها تصمیم میگیره برای ادامه‌ی مسیر کاری خودش به ایران برگرده.
-
-توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/hamed&quot;&gt;سایت رادیو دال&lt;/a&gt;.
-</itunes:summary>
-				<itunes:duration>110:14</itunes:duration>
-				<itunes:keywords>کارآفرینی, کانادا, ایران</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/hamed/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -680,11 +676,11 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 				<pubDate>Sun, 26 Aug 2018 00:00:00 +0430</pubDate>
 				<description>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</description>
 				<guid isPermaLink="true">https://radioDaal.ir/marzieh-canada</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Marzieh-Canada.mp3" length="56406485" type="audio/mp3"/>
+				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Marzieh-Canada.mp3" length="36994699" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسافر: مرضیه از کانادا</itunes:subtitle>
 				<itunes:summary>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</itunes:summary>
-				<itunes:duration>78:20</itunes:duration>
+				<itunes:duration>76:55</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, کانادا, هنر, نقاشی</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/marzieh-canada/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
@@ -697,11 +693,11 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 				<pubDate>Sun, 17 Jun 2018 00:00:00 +0430</pubDate>
 				<description>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</description>
 				<guid isPermaLink="true">https://radioDaal.ir/amir-africa</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Amir-Africa-Japan.mp3" length="40137747" type="audio/mp3"/>
+				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Amir-Africa-Japan.mp3" length="25807449" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</itunes:subtitle>
 				<itunes:summary>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</itunes:summary>
-				<itunes:duration>55:44</itunes:duration>
+				<itunes:duration>53:26</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آفریقای جنوبی, ژاپن, تانزانیا, پادکست</itunes:keywords>
 				<itunes:image href="https://radioDaal.ir/public/img/amir-africa/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>

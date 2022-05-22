@@ -45,6 +45,12 @@ blockquote {
     margin: 0px 20px 10px 0px;
 }
 
+.small-right-cover {
+    height: 150px;
+    border-radius: 25px;
+    margin: 0px 0px 10px 20px;
+}
+
 .post p {
     text-align: justify;
 }
@@ -56,6 +62,9 @@ blockquote {
     .small-cover {
         margin: auto;
     }
+    .small-right-cover {
+        margin: auto;
+    }
 }
 @media (min-width: 600px) {
     .cover-img {
@@ -64,6 +73,9 @@ blockquote {
     }
     .small-cover {
         float: left;
+    }
+    .small-right-cover {
+        float: right;
     }
 }
 

@@ -39,7 +39,7 @@ layout: null
 			<itunes:category text="Careers" />
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
-		{% for post in site.posts %}
+		{% for post in site.posts %}{% if post.publish != "no" %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
@@ -56,6 +56,6 @@ layout: null
 				<itunes:explicit>{{ post.explicit | default: "no" }}</itunes:explicit>
 				<itunes:block>{{ post.block | default: "no" }}</itunes:block>
 			</item>
-		{% endfor %}
+		{% endif %}{% endfor %}
 	</channel>
 </rss>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن'
-duration: "55:44" #audio length in min
-length: "40137747" #filesize in byte
+duration: "53:26" #audio length in min
+length: "25807449" #filesize in byte
 summary: 'در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.'
 explicit: "no"
 file: 'archive.org/download/radioDaal/Amir-Africa-Japan.mp3'
