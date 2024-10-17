@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fa">
 	<channel>
-		<atom:link href="https://radioDaal.ir/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="http://0.0.0.0:4000/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>رادیو دال | Radio Daal</title>
 		<description>در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.</description>
-		<link>https://radioDaal.ir</link>
+		<link>http://0.0.0.0:4000</link>
 		<language>fa</language>
 		<managingEditor>radioDaalPodcast@gmail.com (Arash Thr)</managingEditor>
 		<webMaster>radioDaalPodcast@gmail.com (Arash Thr)</webMaster>
-		<copyright>2022 رادیو دال | Radio Daal</copyright>
-		<pubDate>Sun, 22 May 2022 20:22:33 +0430</pubDate>
-		<lastBuildDate>Sun, 22 May 2022 20:22:33 +0430</lastBuildDate>
+		<copyright>2024 رادیو دال | Radio Daal</copyright>
+		<pubDate>Thu, 17 Oct 2024 12:49:17 +0330</pubDate>
+		<lastBuildDate>Thu, 17 Oct 2024 12:49:17 +0330</lastBuildDate>
 		<image>
-			<link>https://radioDaal.ir</link>
-			<url>https://radioDaal.ir/public/img/itunes.jpg</url>
+			<link>http://0.0.0.0:4000</link>
+			<url>http://0.0.0.0:4000/public/img/itunes.jpg</url>
 			<title>رادیو دال | Radio Daal</title>
 		</image>
 		<itunes:subtitle>این پادکست یک مرجع نیست، یک تجربه است.</itunes:subtitle>
@@ -24,7 +24,7 @@
 			<itunes:name>Arash Thr</itunes:name>
 			<itunes:email>radioDaalPodcast@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+		<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Personal Journals" />
 		</itunes:category>
@@ -38,14 +38,14 @@
 		
 			<item>
 				<title>پل سرخ، با فاطمه از افغانستان</title>
-				<link>https://radioDaal.ir/fateme</link>
+				<link>http://0.0.0.0:4000/fateme</link>
 				<pubDate>Sun, 22 May 2022 00:00:00 +0430</pubDate>
 				<description>در این قسمت با فاطمه همراه شدیم برای سفر به افغانستان. فاطمه از والدینی افغانستانی در ایران به دنیا اومد. همینجا تحصیل کرد، وارد دانشگاه شد و در ادامه پس از ازدواج به دنبال یک زندگی و آینده بهتر به افغانستان رفت.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/fateme&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/fateme</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Fateme-Afghanistan.mp3" length="45804634" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/fateme</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2022-05-22-fateme.mp3" length="45804634" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پل سرخ، با فاطمه از افغانستان</itunes:subtitle>
 				<itunes:summary>در این قسمت با فاطمه همراه شدیم برای سفر به افغانستان. فاطمه از والدینی افغانستانی در ایران به دنیا اومد. همینجا تحصیل کرد، وارد دانشگاه شد و در ادامه پس از ازدواج به دنبال یک زندگی و آینده بهتر به افغانستان رفت.
@@ -54,21 +54,21 @@
 </itunes:summary>
 				<itunes:duration>5711.0</itunes:duration>
 				<itunes:keywords>افغانستان, مهاجرت, afghanistan, interview</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/fateme/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/fateme/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>از رویا تا حقیقت، با سارا از ژاپن</title>
-				<link>https://radioDaal.ir/sara-japan</link>
+				<link>http://0.0.0.0:4000/sara-japan</link>
 				<pubDate>Sun, 15 Aug 2021 00:00:00 +0430</pubDate>
 				<description>در این قسمت یک بار دیگر به شرق آسيا سر میزنیم و برای سومین مرتبه، ولی این بار همراه با سارا به سراغ کشور ژاپن میریم. آشنایی من با سارا از طریق یک برنامه مستند در شبکه‌ی ان‌اچ‌کی بود که به زندگی در مناطق روستایی و بکر ژاپن میپرداخت. تسلط بالای سارا به زبان ژاپنی و شناخت و درک عمیقی که از فرهنگ ژاپن داشت نکات برجسته‌ای بود که در این برنامه به چشم میومد. همین موضوعات سبب شد که ازش برای شرکت در یک قسمت از پادکست دعوت کنم.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sara-japan&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/sara-japan</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sara-Japan.mp3" length="58419447" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/sara-japan</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2021-08-15-sara-japan.mp3" length="58419447" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: از رویا تا حقیقت، با سارا از ژاپن</itunes:subtitle>
 				<itunes:summary>در این قسمت یک بار دیگر به شرق آسيا سر میزنیم و برای سومین مرتبه، ولی این بار همراه با سارا به سراغ کشور ژاپن میریم. آشنایی من با سارا از طریق یک برنامه مستند در شبکه‌ی ان‌اچ‌کی بود که به زندگی در مناطق روستایی و بکر ژاپن میپرداخت. تسلط بالای سارا به زبان ژاپنی و شناخت و درک عمیقی که از فرهنگ ژاپن داشت نکات برجسته‌ای بود که در این برنامه به چشم میومد. همین موضوعات سبب شد که ازش برای شرکت در یک قسمت از پادکست دعوت کنم.
@@ -77,21 +77,21 @@
 </itunes:summary>
 				<itunes:duration>7281.0</itunes:duration>
 				<itunes:keywords>ژاپن, فرانسه, japan, interview</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/sara-japan/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/sara-japan/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>سفرهای استادی، با وهاب از تایوان</title>
-				<link>https://radioDaal.ir/vahab</link>
+				<link>http://0.0.0.0:4000/vahab</link>
 				<pubDate>Sun, 27 Jun 2021 00:00:00 +0430</pubDate>
 				<description>در این قسمت قدم در مسیری بیست ساله گذاشتیم و همراه با وهاب از ایران شروع کردیم، به آمریکا رفتیم و سرانجام به تایوان رسیدیم. در حال حاضر وهاب به عنوان استاد در یکی از دانشگاه‌های آمریکا به تدریس و تحقیق مشغوله. اما در کنار این حرفه، علاقه و اشتیاق فراوانی که به سفر کردن داره پاش رو به بیش از نود کشور باز کرده.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/vahab&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/vahab</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Vahab-Taiwan.mp3" length="64058124" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/vahab</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2021-06-27-vahab.mp3" length="64058124" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: سفرهای استادی، با وهاب از تایوان</itunes:subtitle>
 				<itunes:summary>در این قسمت قدم در مسیری بیست ساله گذاشتیم و همراه با وهاب از ایران شروع کردیم، به آمریکا رفتیم و سرانجام به تایوان رسیدیم. در حال حاضر وهاب به عنوان استاد در یکی از دانشگاه‌های آمریکا به تدریس و تحقیق مشغوله. اما در کنار این حرفه، علاقه و اشتیاق فراوانی که به سفر کردن داره پاش رو به بیش از نود کشور باز کرده.
@@ -100,21 +100,21 @@
 </itunes:summary>
 				<itunes:duration>7993.0</itunes:duration>
 				<itunes:keywords>آمریکا, تایوان, تحصیل, دانشگاه, سفر, مصاحبه, taiwan, migration, interview</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/vahab/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/vahab/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>سخت و آسان، با مرضیه از بلژیک</title>
-				<link>https://radioDaal.ir/marzieh-belgium</link>
+				<link>http://0.0.0.0:4000/marzieh-belgium</link>
 				<pubDate>Sun, 23 May 2021 00:00:00 +0430</pubDate>
 				<description>در این قسمت برای اولین بار همراه با مرضیه به سراغ بلژیک رفتیم. البته در جغرافیای اروپا، نزدیک بودن کشورها و ارتباط تنگاتنگی که با هم دارند، به سادگی این شرایط را مهیا کرده تا تجربه‌ی حضور در کشورهای دیگر را هم داشته باشی. مهمان ما هم به همین واسطه، علاوه بر بلژیک تجربیاتی از زندگی در هلند هم داشته که در این قسمت به آنها هم می‌پردازیم.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/marzieh-belgium&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/marzieh-belgium</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Marzieh-Belgium.mp3" length="63527570" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/marzieh-belgium</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2021-05-23-marzieh-belgium.mp3" length="63527570" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: سخت و آسان، با مرضیه از بلژیک</itunes:subtitle>
 				<itunes:summary>در این قسمت برای اولین بار همراه با مرضیه به سراغ بلژیک رفتیم. البته در جغرافیای اروپا، نزدیک بودن کشورها و ارتباط تنگاتنگی که با هم دارند، به سادگی این شرایط را مهیا کرده تا تجربه‌ی حضور در کشورهای دیگر را هم داشته باشی. مهمان ما هم به همین واسطه، علاوه بر بلژیک تجربیاتی از زندگی در هلند هم داشته که در این قسمت به آنها هم می‌پردازیم.
@@ -123,21 +123,21 @@
 </itunes:summary>
 				<itunes:duration>122:03</itunes:duration>
 				<itunes:keywords>بلژیک, هلند, سفر, تحصیل, دکترا, مصاحبه, belgium, migration, interview</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/marzieh-belgium/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/marzieh-belgium/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>The Backpacker, with Aaron from The Netherlands</title>
-				<link>https://radioDaal.ir/aaron</link>
+				<link>http://0.0.0.0:4000/aaron</link>
 				<pubDate>Sun, 28 Mar 2021 00:00:00 +0430</pubDate>
 				<description>Aaron is our guest for this episode of Radio Daal. He was born and raised in the Netherlands. He studied computer programming and game  development, but left the college halfway and started working in a warehouse. After a few years he moved to Australia to live as a backpacker. It was the beginning of a bigger journey for him.
 
 For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radio Daal website&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/aaron</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Aaron-Netherlands.mp3" length="54814187" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/aaron</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2021-03-28-aaron.mp3" length="54814187" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: The Backpacker, with Aaron from The Netherlands</itunes:subtitle>
 				<itunes:summary>Aaron is our guest for this episode of Radio Daal. He was born and raised in the Netherlands. He studied computer programming and game  development, but left the college halfway and started working in a warehouse. After a few years he moved to Australia to live as a backpacker. It was the beginning of a bigger journey for him.
@@ -146,21 +146,21 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>112:56</itunes:duration>
 				<itunes:keywords>هلند, سفر, انگلیسی, english, netherlands, backpacking</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/aaron/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/aaron/cover.jpg" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>سفر پشت سفر، با سینا از سوئد</title>
-				<link>https://radioDaal.ir/sina-sweden</link>
+				<link>http://0.0.0.0:4000/sina-sweden</link>
 				<pubDate>Sat, 23 Jan 2021 00:00:00 +0330</pubDate>
 				<description>در این قسمت از رادیو دال یک بار دیگر به حوزه اسکاندیناوی سر میزنیم و این بار با سینا هم‌صحبت میشیم. سینا برخلاف بسیاری از مهمان‌های برنامه که از طریق تحصیلی مهاجرت کرده‌اند، از طریق کاری و در ماجرایی پر پیچ و خم، و پس از پشت سر گذاشتن ترکیه و دبی به همراه همسرش به سوئد رسیده‌اند.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina-sweden&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/sina-sweden</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sina-Sweden.mp3" length="65005537" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/sina-sweden</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2021-01-23-sina-sweden.mp3" length="65005537" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: سفر پشت سفر، با سینا از سوئد</itunes:subtitle>
 				<itunes:summary>در این قسمت از رادیو دال یک بار دیگر به حوزه اسکاندیناوی سر میزنیم و این بار با سینا هم‌صحبت میشیم. سینا برخلاف بسیاری از مهمان‌های برنامه که از طریق تحصیلی مهاجرت کرده‌اند، از طریق کاری و در ماجرایی پر پیچ و خم، و پس از پشت سر گذاشتن ترکیه و دبی به همراه همسرش به سوئد رسیده‌اند.
@@ -169,21 +169,21 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>134:25</itunes:duration>
 				<itunes:keywords>سوئد, کار, مدیا, مهاجرت</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/sina-sweden/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/sina-sweden/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>مهمان پاریسی، با سینا از فرانسه</title>
-				<link>https://radioDaal.ir/sina</link>
+				<link>http://0.0.0.0:4000/sina</link>
 				<pubDate>Sun, 06 Dec 2020 00:00:00 +0330</pubDate>
 				<description>فرانسه کشوری است که در این قسمت از پادکست رادیو دال، یعنی قسمت چهل دو همراه با سینا بهش سر میزنیم. سینا در ایران کارشناسی خودش رو در رشته مهندسی کامپیوتر گرفت و برای تحصیل در مقطع ارشد به فرانسه مهاجرت کرد. پس از گرفتن مدرک ارشد به دنبال انتخاب‌هایی که در راستای علاقمندی‌هاش انجام داده بود تونست در یک شرکت مهندسی مشغول به کار بشه.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sina&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/sina</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sina-France.mp3" length="55344070" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/sina</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-12-06-sina.mp3" length="55344070" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مهمان پاریسی، با سینا از فرانسه</itunes:subtitle>
 				<itunes:summary>فرانسه کشوری است که در این قسمت از پادکست رادیو دال، یعنی قسمت چهل دو همراه با سینا بهش سر میزنیم. سینا در ایران کارشناسی خودش رو در رشته مهندسی کامپیوتر گرفت و برای تحصیل در مقطع ارشد به فرانسه مهاجرت کرد. پس از گرفتن مدرک ارشد به دنبال انتخاب‌هایی که در راستای علاقمندی‌هاش انجام داده بود تونست در یک شرکت مهندسی مشغول به کار بشه.
@@ -192,21 +192,21 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>115:01</itunes:duration>
 				<itunes:keywords>فرانسه, تحصیل, انگلیسی, رابطه, مهاجرت</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/sina/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/sina/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>کاپیتان، با مهدی از آلمان</title>
-				<link>https://radioDaal.ir/mehdi</link>
+				<link>http://0.0.0.0:4000/mehdi</link>
 				<pubDate>Wed, 21 Oct 2020 00:00:00 +0330</pubDate>
 				<description>در این قسمت از رادیو دال بار دیگه به سراغ کشور آلمان رفتیم و این بار با مهدی همراه شدیم. مهدی در حال حاضر در شهر هامبورگ زندگی میکنه و در حوزه‌ی مهندسی مشغول به فعالیته. در وقت آزادش هم با گلایدر پرواز میکنه و یا برای سفر و عکاسی به جاهای مختلف دنیا سر میزنه.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mehdi&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/mehdi</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mehdi-Germany.mp3" length="58945370" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mehdi</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-10-21-mehdi.mp3" length="58945370" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: کاپیتان، با مهدی از آلمان</itunes:subtitle>
 				<itunes:summary>در این قسمت از رادیو دال بار دیگه به سراغ کشور آلمان رفتیم و این بار با مهدی همراه شدیم. مهدی در حال حاضر در شهر هامبورگ زندگی میکنه و در حوزه‌ی مهندسی مشغول به فعالیته. در وقت آزادش هم با گلایدر پرواز میکنه و یا برای سفر و عکاسی به جاهای مختلف دنیا سر میزنه.
@@ -215,21 +215,21 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>122:35</itunes:duration>
 				<itunes:keywords>آلمان, تحصیل, پرواز, سفر, ایسلند</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/mehdi/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/mehdi/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>سرزمین دورافتاده، با فائقه از نیوزیلند</title>
-				<link>https://radioDaal.ir/faegheh</link>
+				<link>http://0.0.0.0:4000/faegheh</link>
 				<pubDate>Sun, 23 Aug 2020 00:00:00 +0430</pubDate>
 				<description>در این قسمت همراه با فائقه این فرصت رو به دست آوردیم که بریم به سراغ کشور نیوزیلند. فائقه برای تحصیل در مقطع دکترا همراه با همسرش هفت سال پیش به نیوزیلند مهاجرت میکنه و بعد از اخذ اقامت در همونجا موندگار میشه.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/faegheh&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/faegheh</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Faegheh-NewZealand.mp3" length="64621970" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/faegheh</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-08-23-faegheh.mp3" length="64621970" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: سرزمین دورافتاده، با فائقه از نیوزیلند</itunes:subtitle>
 				<itunes:summary>در این قسمت همراه با فائقه این فرصت رو به دست آوردیم که بریم به سراغ کشور نیوزیلند. فائقه برای تحصیل در مقطع دکترا همراه با همسرش هفت سال پیش به نیوزیلند مهاجرت میکنه و بعد از اخذ اقامت در همونجا موندگار میشه.
@@ -238,14 +238,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>134:14</itunes:duration>
 				<itunes:keywords>نیوزیلند, تحصیل, دکترا</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/faegheh/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/faegheh/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>دیاسپوران، با دنیز از نیویورک</title>
-				<link>https://radioDaal.ir/deniz</link>
+				<link>http://0.0.0.0:4000/deniz</link>
 				<pubDate>Mon, 08 Jun 2020 00:00:00 +0430</pubDate>
 				<description>مهمون این قسمت از رادیو دال دنیز از نیویورکه. دنیز تقریبا هشت ساله که در آمریکا زندگی میکنه و مشغول به فعالیت در حوزه‌ی تئاتر و بازیگری است. علاوه بر این دنیز یکی از سازندگان مجموعه انیمشن &lt;a href=&quot;https://www.youtube.com/channel/UC5waa265OjRZlnbUWmrtqiw&quot;&gt;دیاسپوران&lt;/a&gt; با موضوع مهاجرته.
 
@@ -253,8 +253,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/deniz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/deniz</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Deniz-Diasporan.mp3" length="52429773" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/deniz</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-06-08-deniz.mp3" length="52429773" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: دیاسپوران، با دنیز از نیویورک</itunes:subtitle>
 				<itunes:summary>مهمون این قسمت از رادیو دال دنیز از نیویورکه. دنیز تقریبا هشت ساله که در آمریکا زندگی میکنه و مشغول به فعالیت در حوزه‌ی تئاتر و بازیگری است. علاوه بر این دنیز یکی از سازندگان مجموعه انیمشن &lt;a href=&quot;https://www.youtube.com/channel/UC5waa265OjRZlnbUWmrtqiw&quot;&gt;دیاسپوران&lt;/a&gt; با موضوع مهاجرته.
@@ -265,14 +265,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>72:41</itunes:duration>
 				<itunes:keywords>هنر, آمریکا, یوتیوب</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/deniz/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/deniz/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>شفق شمالی، با سپهر از فنلاند</title>
-				<link>https://radioDaal.ir/sepehr</link>
+				<link>http://0.0.0.0:4000/sepehr</link>
 				<pubDate>Sun, 19 Apr 2020 00:00:00 +0430</pubDate>
 				<description>در این قسمت همراه با سپهر به کشور فنلاند سر زدیم. سپهر در ایران زبان انگلیسی تدریس میکرد. اتفاقاتی که در زندگی‌اش افتاد باعث شد که پس از سال‌ها کار کردن تصمیم به مهاجرت بگیره. در این مسیر علاوه بر فنلاند، از کانادا و کشورهای دیگری هم سر در میاره و تا سه تا مدرک ارشد هم پیش میره.
 
@@ -280,8 +280,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/sepehr&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/sepehr</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Sepehr-Finland.mp3" length="86883691" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/sepehr</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-04-19-sepehr.mp3" length="86883691" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: شفق شمالی، با سپهر از فنلاند</itunes:subtitle>
 				<itunes:summary>در این قسمت همراه با سپهر به کشور فنلاند سر زدیم. سپهر در ایران زبان انگلیسی تدریس میکرد. اتفاقاتی که در زندگی‌اش افتاد باعث شد که پس از سال‌ها کار کردن تصمیم به مهاجرت بگیره. در این مسیر علاوه بر فنلاند، از کانادا و کشورهای دیگری هم سر در میاره و تا سه تا مدرک ارشد هم پیش میره.
@@ -292,14 +292,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>120:30</itunes:duration>
 				<itunes:keywords>آموزش, فنلاند, کانادا</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/sepehr/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/sepehr/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>ویو از اجنبی، وحیده از لهستان</title>
-				<link>https://radioDaal.ir/viv</link>
+				<link>http://0.0.0.0:4000/viv</link>
 				<pubDate>Sun, 22 Mar 2020 00:00:00 +0430</pubDate>
 				<description>وحیده از پادکست اجنبی در این قسمت مهمان رادیو دال شده. وحیده چندین ساله که در لهستان زندگی میکنه. همونجا برای خودش پادکستی به نام اجنبی درست کرده که در اون راجع به اتفاقات و تجربیات شخصی خودش صحبت میکنه.
 
@@ -307,8 +307,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/viv&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/viv</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Viv-Ajnabi.mp3" length="76743913" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/viv</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-03-22-viv.mp3" length="76743913" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: ویو از اجنبی، وحیده از لهستان</itunes:subtitle>
 				<itunes:summary>وحیده از پادکست اجنبی در این قسمت مهمان رادیو دال شده. وحیده چندین ساله که در لهستان زندگی میکنه. همونجا برای خودش پادکستی به نام اجنبی درست کرده که در اون راجع به اتفاقات و تجربیات شخصی خودش صحبت میکنه.
@@ -319,14 +319,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>106:23</itunes:duration>
 				<itunes:keywords>لهستان, پادکست, مهاجرت</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/viv/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/viv/cover.jpg" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>محسن، یک حقوقی از نیویورک</title>
-				<link>https://radioDaal.ir/mohsen</link>
+				<link>http://0.0.0.0:4000/mohsen</link>
 				<pubDate>Sun, 23 Feb 2020 00:00:00 +0330</pubDate>
 				<description>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
 
@@ -334,8 +334,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohsen&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/mohsen</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohsen-NY.mp3" length="59861624" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mohsen</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-02-23-mohsen.mp3" length="59861624" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: محسن، یک حقوقی از نیویورک</itunes:subtitle>
 				<itunes:summary>در این قسمت از پادکست به سراغ یک رشته و یک شهر جدید رفتیم. این بار با محسن همراه شدیم که در رشته‌ی حقوق تحصیل کرده و در شهر نیویورک زندگی میکنه.
@@ -346,21 +346,21 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>82:58</itunes:duration>
 				<itunes:keywords>آمریکا, نیویورک, حقوق, تحصیل, مهاجرت</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/mohsen/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/mohsen/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>شرق پر ماجرا، با فرناز از کره جنوبی</title>
-				<link>https://radioDaal.ir/farnaz</link>
+				<link>http://0.0.0.0:4000/farnaz</link>
 				<pubDate>Sun, 19 Jan 2020 00:00:00 +0330</pubDate>
 				<description>پس از کمی تاخیر به واسطه اتفاقاتی که در چند هفته گذشته شاهدش بودیم، دوباره با یک قسمت دیگر از رادیو دال برگشتیم و این بار سراغ کره جنوبی رفتیم. فرناز در این قسمت مهمان برنامه ما شده و همراه با هم از فرهنگ و نحوه زندگی در کره جنوبی حرف زدیم. همچنین به این پرداختیم که چطور شد فرناز از کسی که برنامه داشت دکترا بخونه رسید به جایی که گوینده رادیو بوسان در کره شد.
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/farnaz&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/farnaz</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Farnaz-SouthKorea.mp3" length="75521672" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/farnaz</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2020-01-19-farnaz.mp3" length="75521672" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: شرق پر ماجرا، با فرناز از کره جنوبی</itunes:subtitle>
 				<itunes:summary>پس از کمی تاخیر به واسطه اتفاقاتی که در چند هفته گذشته شاهدش بودیم، دوباره با یک قسمت دیگر از رادیو دال برگشتیم و این بار سراغ کره جنوبی رفتیم. فرناز در این قسمت مهمان برنامه ما شده و همراه با هم از فرهنگ و نحوه زندگی در کره جنوبی حرف زدیم. همچنین به این پرداختیم که چطور شد فرناز از کسی که برنامه داشت دکترا بخونه رسید به جایی که گوینده رادیو بوسان در کره شد.
@@ -369,14 +369,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>104:35</itunes:duration>
 				<itunes:keywords>کره جنوبی, آسیا, تحصیل</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/farnaz/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/farnaz/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>مسیر پر پیچ و خم، با قاسم از آلمان</title>
-				<link>https://radioDaal.ir/ghasem</link>
+				<link>http://0.0.0.0:4000/ghasem</link>
 				<pubDate>Tue, 03 Dec 2019 00:00:00 +0330</pubDate>
 				<description>این بار در رادیو دال همراه با قاسم از آلمان، قسمتی کاملا متفاوت از قسمت‌های قبل داریم. در اینجا دیگه خبری از درس و مدرک و دانشگاه نیست و به جاش پرواز‌های متوالی، قایق‌های زهوار در رفته و زندان‌های تک نفره داریم.
 
@@ -384,8 +384,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ghasem&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/ghasem</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ghasem-Germany.mp3" length="69901674" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/ghasem</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-12-03-ghasem.mp3" length="69901674" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسیر پر پیچ و خم، با قاسم از آلمان</itunes:subtitle>
 				<itunes:summary>این بار در رادیو دال همراه با قاسم از آلمان، قسمتی کاملا متفاوت از قسمت‌های قبل داریم. در اینجا دیگه خبری از درس و مدرک و دانشگاه نیست و به جاش پرواز‌های متوالی، قایق‌های زهوار در رفته و زندان‌های تک نفره داریم.
@@ -396,14 +396,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>96:55</itunes:duration>
 				<itunes:keywords>استرالیا, آلمان, پناهندگی</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/ghasem/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/ghasem/cover.jpg" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>گوشه‌های عجیب و غریب اسپانیا</title>
-				<link>https://radioDaal.ir/shahin</link>
+				<link>http://0.0.0.0:4000/shahin</link>
 				<pubDate>Mon, 11 Nov 2019 00:00:00 +0330</pubDate>
 				<description>در این قسمت از پادکست این فرصت مهیا شد تا من با یکی از سازنده‌های استرینگ‌کست، یعنی شاهین صحبت کنم. استرینگ‌کست پادکستی است با موضوعات علمی. علاوه بر این شاهین در حال حاضر در اسپانیا زندگی میکنه و در کنار موضوعات پادکستی راجع به حال و هوای اسپانیا هم صحبت کردیم.
 
@@ -411,8 +411,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/shahin&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/shahin</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Shahin-StringCast.mp3" length="48707819" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/shahin</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-11-11-shahin.mp3" length="48707819" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: گوشه‌های عجیب و غریب اسپانیا</itunes:subtitle>
 				<itunes:summary>در این قسمت از پادکست این فرصت مهیا شد تا من با یکی از سازنده‌های استرینگ‌کست، یعنی شاهین صحبت کنم. استرینگ‌کست پادکستی است با موضوعات علمی. علاوه بر این شاهین در حال حاضر در اسپانیا زندگی میکنه و در کنار موضوعات پادکستی راجع به حال و هوای اسپانیا هم صحبت کردیم.
@@ -423,14 +423,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>67:05</itunes:duration>
 				<itunes:keywords>پادکست, اسپانیا, علم</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/shahin/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/shahin/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>محمد در آمریکا - بخش تکمیلی</title>
-				<link>https://radioDaal.ir/mohammad-bonus</link>
+				<link>http://0.0.0.0:4000/mohammad-bonus</link>
 				<pubDate>Wed, 16 Oct 2019 00:00:00 +0330</pubDate>
 				<description>در قسمت قبل که با حضور محمد بود، موقع ضبط راجع به موضوعات مختلفی صحبت کردیم. یه قسمت از این صحبت‌ها، حرف‌های محمد راجع به ازدواج، رابطه و فضای خود آمریکا بود.
 
@@ -438,8 +438,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/mohammad-bonus</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohammad-ILM-Bonus.mp3" length="16640517" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mohammad-bonus</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-10-16-mohammad-bonus.mp3" length="16640517" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: محمد در آمریکا - بخش تکمیلی</itunes:subtitle>
 				<itunes:summary>در قسمت قبل که با حضور محمد بود، موقع ضبط راجع به موضوعات مختلفی صحبت کردیم. یه قسمت از این صحبت‌ها، حرف‌های محمد راجع به ازدواج، رابطه و فضای خود آمریکا بود.
@@ -450,14 +450,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>22:56</itunes:duration>
 				<itunes:keywords>آمریکا, ازدواج, رابطه</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/ilm/cover-parsa.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/ilm/cover-parsa.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>رویای تی هزار، با محمد مدرس</title>
-				<link>https://radioDaal.ir/mohammad-ilm</link>
+				<link>http://0.0.0.0:4000/mohammad-ilm</link>
 				<pubDate>Tue, 08 Oct 2019 00:00:00 +0330</pubDate>
 				<description>در این قسمت از رادیو دال محمد مدرس مهمان برنامه شده. محمد در ایالت کالیفرنیا زندگی میکنه و در شرکت آی‌اِل‌ام مشغول به کاره. این شرکت مسئول جلوه‌های ویژه بعضی از بزرگترین پروژه‌های هالیوودی بوده. محمد در این شرکت در قسمت مجسمه‌سازی دیجیتال کار می‌کنه و سابقه کار روی پروژه‌هایی مثل ددپول، دکتر استرنج و آیریش من، جدیدترین فیلم مارتین اسکورسیزی رو داره.
 
@@ -465,8 +465,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/mohammad-ilm&quot;&gt;سایت رادیو دال&lt;/a&gt;.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/mohammad-ilm</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mohammd-ILM.mp3" length="58139250" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/mohammad-ilm</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-10-08-mohammad-ilm.mp3" length="58139250" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: رویای تی هزار، با محمد مدرس</itunes:subtitle>
 				<itunes:summary>در این قسمت از رادیو دال محمد مدرس مهمان برنامه شده. محمد در ایالت کالیفرنیا زندگی میکنه و در شرکت آی‌اِل‌ام مشغول به کاره. این شرکت مسئول جلوه‌های ویژه بعضی از بزرگترین پروژه‌های هالیوودی بوده. محمد در این شرکت در قسمت مجسمه‌سازی دیجیتال کار می‌کنه و سابقه کار روی پروژه‌هایی مثل ددپول، دکتر استرنج و آیریش من، جدیدترین فیلم مارتین اسکورسیزی رو داره.
@@ -477,14 +477,14 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>80:31</itunes:duration>
 				<itunes:keywords>آمریکا, هنر, فیلم</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/ilm/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/ilm/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>دنیای چین</title>
-				<link>https://radioDaal.ir/donya</link>
+				<link>http://0.0.0.0:4000/donya</link>
 				<pubDate>Tue, 17 Sep 2019 00:00:00 +0430</pubDate>
 				<description>در این قسمت از پادکست با دنیا همراه شدم که دو سال گذشته رو در چین زندگی کرده.
 در بخش اول از گفتگو راجع به این صحبت کردیم که چطور دنیا پاش به چین باز شد و در بخش دوم از آداب و رسوم و فرهنگ چین حرف زدیم. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/donya&quot;&gt;سایت رادیو دال&lt;/a&gt;.
@@ -493,8 +493,8 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 
 برای اطلاع از اخبار پادکست، رادیو دال رو در &lt;a href=&quot;https://t.me/radioDaal&quot;&gt;تلگرام&lt;/a&gt;، &lt;a href=&quot;https://www.instagram.com/radiodaal/&quot;&gt;اینستاگرام&lt;/a&gt; و &lt;a href=&quot;https://twitter.com/radioDaal&quot;&gt;توئیتر&lt;/a&gt; جستجو کنید.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/donya</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Donya-China.mp3" length="68134260" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/donya</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-09-17-donya.mp3" length="68134260" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: دنیای چین</itunes:subtitle>
 				<itunes:summary>در این قسمت از پادکست با دنیا همراه شدم که دو سال گذشته رو در چین زندگی کرده.
@@ -506,489 +506,489 @@ For more details visit &lt;a href=&quot;https://radiodaal.ir/aaron&quot;&gt;Radi
 </itunes:summary>
 				<itunes:duration>94:01</itunes:duration>
 				<itunes:keywords>انگلیسی, چین</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/donya/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/donya/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>مهدی از الکتروبوم</title>
-				<link>https://radioDaal.ir/electroboom</link>
+				<link>http://0.0.0.0:4000/electroboom</link>
 				<pubDate>Tue, 27 Aug 2019 00:00:00 +0430</pubDate>
 				<description>تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه کانال یوتیوب داره به اسم الکتروبوم. کانال یوتیوب مهدی بیش از دو میلیون و هفتصد هزار مخاطب داره و ساخت ویدئو برای این کانال تبدیل به کار تمام وقت برای مهدی شده.
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/electroboom</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Mehdi-Electroboom.mp3" length="59448892" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/electroboom</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-08-27-electroboom.mp3" length="59448892" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مهدی از الکتروبوم</itunes:subtitle>
 				<itunes:summary>تو این قسمت من با مهدی هم‌صحبت شده‌ام. مهدی الان کانادا زندگی می‌کنه و یه کانال یوتیوب داره به اسم الکتروبوم. کانال یوتیوب مهدی بیش از دو میلیون و هفتصد هزار مخاطب داره و ساخت ویدئو برای این کانال تبدیل به کار تمام وقت برای مهدی شده.
 </itunes:summary>
 				<itunes:duration>82:14</itunes:duration>
 				<itunes:keywords>یوتیوب, اینترنت, برق, کانادا</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/electroboom/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/electroboom/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>پدرام از نروژ</title>
-				<link>https://radioDaal.ir/pedram</link>
+				<link>http://0.0.0.0:4000/pedram</link>
 				<pubDate>Fri, 16 Aug 2019 00:00:00 +0430</pubDate>
 				<description>پدرام بعد از گرفتن مدرک کارشناسی در رشته صنایع برای گرفتن فوق‌لیسانس به نروژ رفت و الان چند سالی است که اونجاست. تو این قسمت راجع به محبوبیت ورزش اسکی بین نروژی‌ها، خودروهای تسلا، رابطه بین سوئدی‌ها و نروژی‌ها، ادبیات و داستان‌ها جنایی و خیلی مسائل دیگه صحبت کردیم. توضیحات بیشتر در سایت رادیو دال https://radiodaal.ir/pedram
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/pedram</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Pedram-Norway.mp3" length="63493570" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/pedram</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-08-16-pedram.mp3" length="63493570" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پدرام از نروژ</itunes:subtitle>
 				<itunes:summary>پدرام بعد از گرفتن مدرک کارشناسی در رشته صنایع برای گرفتن فوق‌لیسانس به نروژ رفت و الان چند سالی است که اونجاست. تو این قسمت راجع به محبوبیت ورزش اسکی بین نروژی‌ها، خودروهای تسلا، رابطه بین سوئدی‌ها و نروژی‌ها، ادبیات و داستان‌ها جنایی و خیلی مسائل دیگه صحبت کردیم. توضیحات بیشتر در سایت رادیو دال https://radiodaal.ir/pedram
 </itunes:summary>
 				<itunes:duration>87:52</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, نروژ</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/pedram/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/pedram/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>رفت و برگشت با علی</title>
-				<link>https://radioDaal.ir/ali-nomad</link>
+				<link>http://0.0.0.0:4000/ali-nomad</link>
 				<pubDate>Wed, 17 Jul 2019 00:00:00 +0430</pubDate>
 				<description>علی در دوره‌ای برای گرفتن مدرک دکترا به کانادا رفته بود، ولی در اواسط کار انصراف داد و به ایران برگشت. در حال حاضر علی در صفحه اینستاگرامی که داره تلاش می‌کنه جاذبه‌های گردشگری ایران رو به مخاطبانش که عمدتا انگلیسی زبانان هستند معرفی کنه. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ali-nomad&quot;&gt;سایت&lt;/a&gt;
 </description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-nomad</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ali-Nomad.mp3" length="61159937" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/ali-nomad</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-07-17-ali-nomad.mp3" length="61159937" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: رفت و برگشت با علی</itunes:subtitle>
 				<itunes:summary>علی در دوره‌ای برای گرفتن مدرک دکترا به کانادا رفته بود، ولی در اواسط کار انصراف داد و به ایران برگشت. در حال حاضر علی در صفحه اینستاگرامی که داره تلاش می‌کنه جاذبه‌های گردشگری ایران رو به مخاطبانش که عمدتا انگلیسی زبانان هستند معرفی کنه. توضیحات بیشتر در &lt;a href=&quot;https://radiodaal.ir/ali-nomad&quot;&gt;سایت&lt;/a&gt;
 </itunes:summary>
 				<itunes:duration>84:39</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, کانادا, ایران</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/ali-nomad/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/ali-nomad/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>راحله از کانادا</title>
-				<link>https://radioDaal.ir/rahele</link>
+				<link>http://0.0.0.0:4000/rahele</link>
 				<pubDate>Wed, 19 Jun 2019 00:00:00 +0430</pubDate>
 				<description>راحله، مهمان این قسمت از رادیو دال، لیسانس خودش رو در رشته مهندسی مکانیک از دانشگاه تهران گرفته و الان در کانادا مشغول به تحصیل است. کارشناسی ارشد اول خودش رو در رشته مطالعات علم و تکنولوژی گرفته و الان در حال گرفتن دومین مدرک ارشد، در رشته انسان‌شناسی است. راحله ازدواج کرده و همسرش در حال حاضر در آمریکاست.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/rahele</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Rahele-Canada.mp3" length="72117547" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/rahele</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-06-19-rahele.mp3" length="72117547" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: راحله از کانادا</itunes:subtitle>
 				<itunes:summary>راحله، مهمان این قسمت از رادیو دال، لیسانس خودش رو در رشته مهندسی مکانیک از دانشگاه تهران گرفته و الان در کانادا مشغول به تحصیل است. کارشناسی ارشد اول خودش رو در رشته مطالعات علم و تکنولوژی گرفته و الان در حال گرفتن دومین مدرک ارشد، در رشته انسان‌شناسی است. راحله ازدواج کرده و همسرش در حال حاضر در آمریکاست.</itunes:summary>
 				<itunes:duration>99:50</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, کانادا, انسانی, مهندسی</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/rahele/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/rahele/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>یاسمین از ایتالیا</title>
-				<link>https://radioDaal.ir/yasamin</link>
+				<link>http://0.0.0.0:4000/yasamin</link>
 				<pubDate>Tue, 14 May 2019 00:00:00 +0430</pubDate>
 				<description>یاسمین سه ساله که در ایتالیا زندگی می‌کنه. کارشناسی خودش رو در رشته مهندسی شیمی از دانشگاه تهران گرفته و برای تحصیل در مقطع ارشد به بولونیای ایتالیا رفته.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/yasamin</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Yasamin-Italy.mp3" length="70256457" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/yasamin</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-05-14-yasamin.mp3" length="70256457" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: یاسمین از ایتالیا</itunes:subtitle>
 				<itunes:summary>یاسمین سه ساله که در ایتالیا زندگی می‌کنه. کارشناسی خودش رو در رشته مهندسی شیمی از دانشگاه تهران گرفته و برای تحصیل در مقطع ارشد به بولونیای ایتالیا رفته.</itunes:summary>
 				<itunes:duration>97:17</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, ایتالیا, هنر, مهندسی</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/yasi/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/yasi/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>هوشیار از پرتغال</title>
-				<link>https://radioDaal.ir/hooshiar</link>
+				<link>http://0.0.0.0:4000/hooshiar</link>
 				<pubDate>Wed, 17 Apr 2019 00:00:00 +0430</pubDate>
 				<description>هوشیار در پرتغال مدرک دکترای خودش رو گرفته و الان در شهر پورتو همراه با همسر خودش مشغول به کار و زندگیه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/hooshiar</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Hooshiar-Portugal.mp3" length="50899494" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/hooshiar</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2019-04-17-hooshiar.mp3" length="50899494" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: هوشیار از پرتغال</itunes:subtitle>
 				<itunes:summary>هوشیار در پرتغال مدرک دکترای خودش رو گرفته و الان در شهر پورتو همراه با همسر خودش مشغول به کار و زندگیه.</itunes:summary>
 				<itunes:duration>70:27</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, پرتغال, دکترا</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/hooshiar/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/hooshiar/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>اُزی</title>
-				<link>https://radioDaal.ir/oz</link>
+				<link>http://0.0.0.0:4000/oz</link>
 				<pubDate>Sat, 29 Dec 2018 00:00:00 +0330</pubDate>
 				<description>در این قسمت با ازی صحبت کرده‌ام. ازی دراماتورژی می‌خونه و الان ساکن آلمانه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/oz</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Oz-Germany.mp3" length="79234681" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/oz</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-12-29-oz.mp3" length="79234681" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: اُزی</itunes:subtitle>
 				<itunes:summary>در این قسمت با ازی صحبت کرده‌ام. ازی دراماتورژی می‌خونه و الان ساکن آلمانه.</itunes:summary>
 				<itunes:duration>109:46</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آلمان, تئاتر</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/oz/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/oz/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>عطیه از آمریکا - بخش دوم</title>
-				<link>https://radioDaal.ir/atieh-part2</link>
+				<link>http://0.0.0.0:4000/atieh-part2</link>
 				<pubDate>Fri, 26 Oct 2018 00:00:00 +0330</pubDate>
 				<description>بخش دوم از صحبت‌های من با عطیه. همونطور که در قسمت قبل گفتیم عطیه لیسانس خودش رو در رشته کامپیوتر از دانشگاه شریف دریافت کرده و سپس برای ادامه تحصیل به آمریکا رفت. عطیه در حال حاضر دچار عارضه‌ایست به نام SMA که فعالیت‌های فیزیکی‌اش رو بسیار محدود می‌کنه. در این قسمت بیشتر به زندگی و چالش‌هایی که عطیه با زندگی در آمریکا با اونها روبرو شده میپردازیم.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/atieh-part2</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Atieh-Part2.mp3" length="45404910" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/atieh-part2</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-10-26-atieh-part2.mp3" length="45404910" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عطیه از آمریکا - بخش دوم</itunes:subtitle>
 				<itunes:summary>بخش دوم از صحبت‌های من با عطیه. همونطور که در قسمت قبل گفتیم عطیه لیسانس خودش رو در رشته کامپیوتر از دانشگاه شریف دریافت کرده و سپس برای ادامه تحصیل به آمریکا رفت. عطیه در حال حاضر دچار عارضه‌ایست به نام SMA که فعالیت‌های فیزیکی‌اش رو بسیار محدود می‌کنه. در این قسمت بیشتر به زندگی و چالش‌هایی که عطیه با زندگی در آمریکا با اونها روبرو شده میپردازیم.</itunes:summary>
 				<itunes:duration>62:49</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آمریکا, کامپیوتر</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/atieh2/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/atieh2/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>عطیه از آمریکا - بخش اول</title>
-				<link>https://radioDaal.ir/atieh-part1</link>
+				<link>http://0.0.0.0:4000/atieh-part1</link>
 				<pubDate>Fri, 26 Oct 2018 00:00:00 +0330</pubDate>
 				<description>در این قسمت با عطیه همراه شده‌ام. عطیه لیسانس خودش رو از دانشگاه شریف گرفته و در حال حاضر به همراه خانوداه‌اش در آمریکا زندگی می‌کنه و مشغول به تحصیله. اما اصلی‌ترین موضوع در این بین شرایط خاصی است که عطیه باهاش درگیره و اون عارضه‌ای است به اسم آتروفی عضلانی نخاعی یا SMA</description>
-				<guid isPermaLink="true">https://radioDaal.ir/atieh-part1</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Atieh-Part1.mp3" length="45831854" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/atieh-part1</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-10-26-atieh-part1.mp3" length="45831854" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عطیه از آمریکا - بخش اول</itunes:subtitle>
 				<itunes:summary>در این قسمت با عطیه همراه شده‌ام. عطیه لیسانس خودش رو از دانشگاه شریف گرفته و در حال حاضر به همراه خانوداه‌اش در آمریکا زندگی می‌کنه و مشغول به تحصیله. اما اصلی‌ترین موضوع در این بین شرایط خاصی است که عطیه باهاش درگیره و اون عارضه‌ای است به اسم آتروفی عضلانی نخاعی یا SMA</itunes:summary>
 				<itunes:duration>63:25</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آمریکا, کامپیوتر</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/atieh1/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/atieh1/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>مسافر: مرضیه از کانادا</title>
-				<link>https://radioDaal.ir/marzieh-canada</link>
+				<link>http://0.0.0.0:4000/marzieh-canada</link>
 				<pubDate>Sun, 26 Aug 2018 00:00:00 +0430</pubDate>
 				<description>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/marzieh-canada</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Marzieh-Canada.mp3" length="36994699" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/marzieh-canada</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-08-26-marzieh-canada.mp3" length="56589940" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسافر: مرضیه از کانادا</itunes:subtitle>
 				<itunes:summary>در این قسمت از رادیو دال با مرضیه از کانادا همراه شدم. مرضیه دوران دبیرستان ریاضی می‌خوند، در سال آخر و زمانی که سه ماه بیشتر به کنکور نمونده بود تصمیم گرفت بره دنبال هنر و در این رشته آزمون داد و قبول شد. دوران کارشناسی رو تموم کرد و بعد از اون برای ادامه تحصیل به کانادا مهاجرت کرد. تو این دوره با چالش‌های مختلفی مواجه شد، مثل گرفتن بورسیه از دانشگاه و یا مشکلاتی که برای اقامت بهشون بر خورد.</itunes:summary>
 				<itunes:duration>76:55</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, کانادا, هنر, نقاشی</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/marzieh-canada/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/marzieh-canada/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</title>
-				<link>https://radioDaal.ir/amir-africa</link>
+				<link>http://0.0.0.0:4000/amir-africa</link>
 				<pubDate>Sun, 17 Jun 2018 00:00:00 +0430</pubDate>
 				<description>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/amir-africa</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Amir-Africa-Japan.mp3" length="25807449" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/amir-africa</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-06-17-amir-africa.mp3" length="40573616" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: دوردست‌ها؛ با امیر از آفریقای جنوبی و ژاپن</itunes:subtitle>
 				<itunes:summary>در قسمت جدید من این شانس رو داشتم که با امیر هم‌صحبت بشم. امیر در تهران به دنیا اومده، چندین سال در تانزانیا و آفریقای جنوبی زندگی کرده و الان در ژاپن سکونت داره. در دانشگاه رشته روابط بین‌الملل و جامعه‌شناسی رو همزمان خونده و چند سال با سازمان عفو بین‌الملل همکاری کرده.</itunes:summary>
 				<itunes:duration>53:26</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آفریقای جنوبی, ژاپن, تانزانیا, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/amir-africa/cover.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/amir-africa/cover.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>داستان یک خانواده، با شقایق از آمریکا؛ قسمت دوم</title>
-				<link>https://radioDaal.ir/shaghayegh-part2</link>
+				<link>http://0.0.0.0:4000/shaghayegh-part2</link>
 				<pubDate>Thu, 24 May 2018 00:00:00 +0430</pubDate>
 				<description>در قسمت قبل همراه با شقایق پرداختیم به اینکه شرایط در ایران به چه صورت بود، چی شد که تصمیم به مهاجرت گرفتند و در این مسیر برای خودش و همسر و فرزندش  چه اتفاقاتی افتاد. انتهای قسمت قبل با ورود به خاک آمریکا به پایان رسید. در این قسمت میریم سراغ داستان شقایق در آمریکا: از روزهای اولی که وارد این کشور شدند میشنویم و میپردازیم به اینکه این خانواده چطور به تدریج از پس مشکلات براومد و جای پای خودش رو محکم کرد.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/shaghayegh-part2</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Shaghayegh-USA-Part2.mp3" length="65100155" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/shaghayegh-part2</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-05-24-shaghayegh-part2.mp3" length="65100155" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: داستان یک خانواده، با شقایق از آمریکا؛ قسمت دوم</itunes:subtitle>
 				<itunes:summary>در قسمت قبل همراه با شقایق پرداختیم به اینکه شرایط در ایران به چه صورت بود، چی شد که تصمیم به مهاجرت گرفتند و در این مسیر برای خودش و همسر و فرزندش  چه اتفاقاتی افتاد. انتهای قسمت قبل با ورود به خاک آمریکا به پایان رسید. در این قسمت میریم سراغ داستان شقایق در آمریکا: از روزهای اولی که وارد این کشور شدند میشنویم و میپردازیم به اینکه این خانواده چطور به تدریج از پس مشکلات براومد و جای پای خودش رو محکم کرد.</itunes:summary>
 				<itunes:duration>90:00</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آمریکا, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>داستان یک خانواده، با شقایق از آمریکا</title>
-				<link>https://radioDaal.ir/shaghayegh-usa</link>
+				<link>http://0.0.0.0:4000/shaghayegh-usa</link>
 				<pubDate>Tue, 08 May 2018 00:00:00 +0430</pubDate>
 				<description>شقایق در اواخر سال هشتاد و نه همراه با همسر و فرزندش به آمریکا مهاجرت کرد. دانشگاه تهران درس خونده، چندین سال در ایران کار کرده و از طریق تحصیلی تونسته بره ایالت میشیگان. در این قسمت داستان این خانواده رو میشنویم و می‌پردازیم به اینکه چطور مسیر زندگی شقایق پس از به دنیا اومدن فرزندش عوض شد.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/shaghayegh-usa</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Shaghayegh-USA.mp3" length="43457291" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/shaghayegh-usa</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-05-08-shaghayegh-usa.mp3" length="43457291" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: داستان یک خانواده، با شقایق از آمریکا</itunes:subtitle>
 				<itunes:summary>شقایق در اواخر سال هشتاد و نه همراه با همسر و فرزندش به آمریکا مهاجرت کرد. دانشگاه تهران درس خونده، چندین سال در ایران کار کرده و از طریق تحصیلی تونسته بره ایالت میشیگان. در این قسمت داستان این خانواده رو میشنویم و می‌پردازیم به اینکه چطور مسیر زندگی شقایق پس از به دنیا اومدن فرزندش عوض شد.</itunes:summary>
 				<itunes:duration>60:00</itunes:duration>
 				<itunes:keywords>مهاجرت, تحصیل, آمریکا, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>این هم جور دیگر، با حضور جادی</title>
-				<link>https://radioDaal.ir/jadi-iran</link>
+				<link>http://0.0.0.0:4000/jadi-iran</link>
 				<pubDate>Sat, 07 Apr 2018 00:00:00 +0430</pubDate>
 				<description>در قسمت جدید رادیو دال با جادی همراه شدیم. آشنایی من و احتما بعضی از شماها با جادی برمیگرده به وبلاگش به اسم کیبورد آزاد. این دوست عزیزمون لیسانس برق داره و فوق لیسانس جامعه شناسی و الان هم در ایران زندگی می‌کنه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/jadi-iran</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal_Jadi/Jadi.mp3" length="58172474" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/jadi-iran</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-04-07-jadi-iran.mp3" length="58172474" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: این هم جور دیگر، با حضور جادی</itunes:subtitle>
 				<itunes:summary>در قسمت جدید رادیو دال با جادی همراه شدیم. آشنایی من و احتما بعضی از شماها با جادی برمیگرده به وبلاگش به اسم کیبورد آزاد. این دوست عزیزمون لیسانس برق داره و فوق لیسانس جامعه شناسی و الان هم در ایران زندگی می‌کنه.</itunes:summary>
 				<itunes:duration>80:20</itunes:duration>
 				<itunes:keywords>مهاجرت, ایران, کار, تحصیل, افغانستان, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>قاره دور، با علی از سیدنی</title>
-				<link>https://radioDaal.ir/ali-sydney</link>
+				<link>http://0.0.0.0:4000/ali-sydney</link>
 				<pubDate>Mon, 26 Mar 2018 00:00:00 +0430</pubDate>
 				<description>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال در ایران مشغول به کار بوده. بعد تونسته ویزای اقامت استرالیا رو اخذ کنه و به اونجا مهاجرت کرده. الان چندین ساله که در سیدنی زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-sydney</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ali-Sydney.mp3" length="63045918" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/ali-sydney</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-03-26-ali-sydney.mp3" length="63045918" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: قاره دور، با علی از سیدنی</itunes:subtitle>
 				<itunes:summary>علی عزیز از استرالیا مهمان این قسمت از پادکست ماست. علی در دانشگاه تهران لیسانس خودش رو گرفته و چند سال در ایران مشغول به کار بوده. بعد تونسته ویزای اقامت استرالیا رو اخذ کنه و به اونجا مهاجرت کرده. الان چندین ساله که در سیدنی زندگی می‌کنه و دو فرزندش هم همونجا به دنیا اومده‌ان.</itunes:summary>
 				<itunes:duration>68:26</itunes:duration>
 				<itunes:keywords>مهاجرت, استرالیا, کار, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>به مقصد توکیو</title>
-				<link>https://radioDaal.ir/ali-japan</link>
+				<link>http://0.0.0.0:4000/ali-japan</link>
 				<pubDate>Sun, 25 Feb 2018 00:00:00 +0330</pubDate>
 				<description>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-japan</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ali-Japan.mp3" length="53191791" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/ali-japan</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-02-25-ali-japan.mp3" length="53191791" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: به مقصد توکیو</itunes:subtitle>
 				<itunes:summary>علی دوازده ساله در ژاپن زندگی میکنه. بعد از اخذ مدرک دیپلم در آزمون مونبوکاگاکوشو شرکت کرد و تونست برای مقطع فوق دیپلم بورس تحصیلی کسب کنه.</itunes:summary>
 				<itunes:duration>57:41</itunes:duration>
 				<itunes:keywords>مهاجرت, ژاپن, تحصیل, دکترا, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>فرزانه از ایرلند شمالی</title>
-				<link>https://radioDaal.ir/farzaneh-ireland</link>
+				<link>http://0.0.0.0:4000/farzaneh-ireland</link>
 				<pubDate>Thu, 25 Jan 2018 00:00:00 +0330</pubDate>
 				<description>ایرلند شمالی جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در ایرلند شمالی صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور جنگ‌های داخلی به شهر حس و حال داده‌ان.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/farzaneh-ireland</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Farzaneh-NorthIreland.mp3" length="57382421" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/farzaneh-ireland</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2018-01-25-farzaneh-ireland.mp3" length="57382421" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرزانه از ایرلند شمالی</itunes:subtitle>
 				<itunes:summary>ایرلند شمالی جایی که من فکر می‌کردم مستقل شده ولی گویا هنوز بخشی از بریتانیاست؛ در این قسمت فرزانه برامون از زندگی در ایرلند شمالی صحبت می‌کنه، از خوبی‌ها و بدی‌هاش میگه و به این می‌پردازه که چطور جنگ‌های داخلی به شهر حس و حال داده‌ان.</itunes:summary>
 				<itunes:duration>61:43</itunes:duration>
 				<itunes:keywords>مهاجرت, انگلیس, منچستر, ایرلند, تحصیل, دکترا, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>پرنیان و استرالیا</title>
-				<link>https://radioDaal.ir/parnian-australia</link>
+				<link>http://0.0.0.0:4000/parnian-australia</link>
 				<pubDate>Mon, 25 Dec 2017 00:00:00 +0330</pubDate>
 				<description>استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/parnian-australia</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Parnian-Australia.mp3" length="27683904" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/parnian-australia</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-12-25-parnian-australia.mp3" length="27683904" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پرنیان و استرالیا</itunes:subtitle>
 				<itunes:summary>استرالیا کشور بعدی است که در رادیو دال سراغش رفتیم و همراه شدیم با پرنیان عزیز. پرنیان کارشناسی خودش رو ایران و در رشته معماری دریافت کرده و پس از اون برای ادامه تحصیل راهی استرالیا شده.</itunes:summary>
 				<itunes:duration>64:38</itunes:duration>
 				<itunes:keywords>مهاجرت, استرالیا, کار, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>شهرزاد و دبی</title>
-				<link>https://radioDaal.ir/shahrzad-dubai</link>
+				<link>http://0.0.0.0:4000/shahrzad-dubai</link>
 				<pubDate>Fri, 24 Nov 2017 00:00:00 +0330</pubDate>
 				<description>این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/shahrzad-dubai</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Shahrzad-Dubai.mp3" length="24442826" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/shahrzad-dubai</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-11-24-shahrzad-dubai.mp3" length="24442826" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: شهرزاد و دبی</itunes:subtitle>
 				<itunes:summary>این بار به خاورمیانه میایم و با شهرزار همراه میشیم که در حال حاضر در دبی مشغول به کار و زندگی هستش.</itunes:summary>
 				<itunes:duration>58:00</itunes:duration>
 				<itunes:keywords>مهاجرت, دبی, کار, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>امین، اعظم و مالزی</title>
-				<link>https://radioDaal.ir/amin-azam-malaysia</link>
+				<link>http://0.0.0.0:4000/amin-azam-malaysia</link>
 				<pubDate>Fri, 06 Oct 2017 00:00:00 +0330</pubDate>
 				<description>در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/amin-azam-malaysia</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/AminAzam-malaysia.mp3" length="23983555" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/amin-azam-malaysia</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-10-06-amin-azam-malaysia.mp3" length="23983555" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: امین، اعظم و مالزی</itunes:subtitle>
 				<itunes:summary>در قسمت جدید رادیو دال امین و اعظم رو داریم که در حال حاضر در مالزی زندگی می‌کنن. این زوج عزیز تونسته‌ان از طریق کار به این کشور مهاجرت کنن.</itunes:summary>
 				<itunes:duration>56:48</itunes:duration>
 				<itunes:keywords>مهاجرت, مالزی, کار, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>عباس و آمریکا</title>
-				<link>https://radioDaal.ir/abbas-us</link>
+				<link>http://0.0.0.0:4000/abbas-us</link>
 				<pubDate>Thu, 31 Aug 2017 00:00:00 +0430</pubDate>
 				<description>این قسمت عباس عزیز لطف کرده و در رادیو دال شرکت کرده. عباس مدرک کارشناسی رو ایران گرفت و برای مقطع ارشد به آمریکا رفت. الان همونجا و در ایالت اوهایو مشغول به کار شده و داره زندگی می‌کنه.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/abbas-us</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Abbas-US.mp3" length="25612303" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/abbas-us</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-08-31-abbas-us.mp3" length="25612303" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عباس و آمریکا</itunes:subtitle>
 				<itunes:summary>این قسمت عباس عزیز لطف کرده و در رادیو دال شرکت کرده. عباس مدرک کارشناسی رو ایران گرفت و برای مقطع ارشد به آمریکا رفت. الان همونجا و در ایالت اوهایو مشغول به کار شده و داره زندگی می‌کنه.</itunes:summary>
 				<itunes:duration>60:58</itunes:duration>
 				<itunes:keywords>مهاجرت, آمریکا, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>پویا و آلمان</title>
-				<link>https://radioDaal.ir/pooya-germany</link>
+				<link>http://0.0.0.0:4000/pooya-germany</link>
 				<pubDate>Wed, 02 Aug 2017 00:00:00 +0430</pubDate>
 				<description>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/pooya-germany</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Pooya-Germany.mp3" length="23299459" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/pooya-germany</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-08-02-pooya-germany.mp3" length="23299459" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: پویا و آلمان</itunes:subtitle>
 				<itunes:summary>در قسمت نهم از رادیو دال با پویا هم‌صحبت شدم. پویا لیسانس رو در ایران گرفت، فوق‌لیسانس قبول شد ولی وسط کار انصراف داد تا بره آلمان. الان اونجا مشغول تحصیل در حوزه وب ساینس هستش.</itunes:summary>
 				<itunes:duration>55:28</itunes:duration>
 				<itunes:keywords>مهاجرت, آلمان, تحصیل, گفتگو</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>مسیح و میلان</title>
-				<link>https://radioDaal.ir/masih-italy</link>
+				<link>http://0.0.0.0:4000/masih-italy</link>
 				<pubDate>Thu, 06 Jul 2017 00:00:00 +0430</pubDate>
 				<description>و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/masih-italy</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Masih-Italy.mp3" length="28116746" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/masih-italy</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-07-06-masih-italy.mp3" length="28116746" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: مسیح و میلان</itunes:subtitle>
 				<itunes:summary>و اما ایتالیا! این بار با مسیح همراه شدم که الان داره در ایتالیا تو مقطع فوق لیسانس درس میخونه. مسیح اینقدر زرنگ و خوش شانس بوده که تونسته بورس بشه و الان مشغول گذروندن سال دومش تو دانشگاه میلان ایتالیاست.</itunes:summary>
 				<itunes:duration>66:35</itunes:duration>
 				<itunes:keywords>مهاجرت, ایتالیا, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>آرش از سوئیس</title>
-				<link>https://radioDaal.ir/arash-epfl</link>
+				<link>http://0.0.0.0:4000/arash-epfl</link>
 				<pubDate>Tue, 25 Apr 2017 00:00:00 +0430</pubDate>
 				<description>در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/arash-epfl</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Arash-Switzerland.mp3" length="34114911" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/arash-epfl</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-04-25-arash-epfl.mp3" length="34114911" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: آرش از سوئیس</itunes:subtitle>
 				<itunes:summary>در قسمت پنجم با آرش همراه میشیم. آرش ارشد رو ایران گرفته و الان در مقطع دکترا در دانشگاه epfl سوییس مشغول به تحصیله.</itunes:summary>
 				<itunes:duration>81:00</itunes:duration>
 				<itunes:keywords>مهاجرت, سوئیس, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>عرفان: از منچستر تا تهران</title>
-				<link>https://radioDaal.ir/erfan-england</link>
+				<link>http://0.0.0.0:4000/erfan-england</link>
 				<pubDate>Sat, 25 Mar 2017 00:00:00 +0430</pubDate>
 				<description>در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/erfan-england</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Erfan-England.mp3" length="21128214" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/erfan-england</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-03-25-erfan-england.mp3" length="21128214" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: عرفان: از منچستر تا تهران</itunes:subtitle>
 				<itunes:summary>در این قسمت تا حدودی چارچوب شکنی کردیم و رفتیم سراغ دوستی که سال ها قبل تجربه زندگی توی انگلیس رو داشته و الان تهران زندگی میکنه. همچنین برخلاف دوستان قبل که کامپیوتری بودن این دوستمون معماری خونده.</itunes:summary>
 				<itunes:duration>50:07</itunes:duration>
 				<itunes:keywords>مهاجرت, انگلیس, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>فرناز، مهرداد و کانادا </title>
-				<link>https://radioDaal.ir/farnaz-mehrdad-canada</link>
+				<link>http://0.0.0.0:4000/farnaz-mehrdad-canada</link>
 				<pubDate>Mon, 06 Mar 2017 00:00:00 +0330</pubDate>
 				<description>در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/farnaz-mehrdad-canada</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/FarnazMehrdad-Canada.mp3" length="26479224" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/farnaz-mehrdad-canada</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-03-06-farnaz-mehrdad-canada.mp3" length="26479224" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: فرناز، مهرداد و کانادا </itunes:subtitle>
 				<itunes:summary>در سومین قسمت از رادیو دال با فرناز و مهرداد از کانادا صحبت کردیم. این دو عزیز هر دو ارشد رو در ایران گرفتن و الان در مقطع دکترا مشغول به تحصیل هستند.</itunes:summary>
 				<itunes:duration>62:51</itunes:duration>
 				<itunes:keywords>مهاجرت, کانادا, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>صبا، روژین و آمریکا</title>
-				<link>https://radioDaal.ir/rojin-saba-us</link>
+				<link>http://0.0.0.0:4000/rojin-saba-us</link>
 				<pubDate>Fri, 17 Feb 2017 00:00:00 +0330</pubDate>
 				<description>در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/rojin-saba-us</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/RojinSaba-Us.mp3" length="32589266" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/rojin-saba-us</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-02-17-rojin-saba-us.mp3" length="32589266" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: صبا، روژین و آمریکا</itunes:subtitle>
 				<itunes:summary>در قسمت دوم رادیو دال روژین و صبا رو داریم. این زوج عزیز هر دو برای مقطع کارشناسی ارشد به آمریکا رفتن و الان همونجا مشغول به کار هستن.</itunes:summary>
 				<itunes:duration>77:23</itunes:duration>
 				<itunes:keywords>مهاجرت, آمریکا, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
 		
 			<item>
 				<title>علی و آلمان</title>
-				<link>https://radioDaal.ir/ali-germany</link>
+				<link>http://0.0.0.0:4000/ali-germany</link>
 				<pubDate>Fri, 03 Feb 2017 00:00:00 +0330</pubDate>
 				<description>در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.</description>
-				<guid isPermaLink="true">https://radioDaal.ir/ali-germany</guid>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/archive.org/download/radioDaal/Ali-Germany.mp3" length="23906025" type="audio/mp3"/>
+				<guid isPermaLink="true">http://0.0.0.0:4000/ali-germany</guid>
+				<enclosure url="https://f003.backblazeb2.com/file/radio-daal/2017-02-03-ali-germany.mp3" length="23906025" type="audio/mp3"/>
 				<itunes:author>Arash Thr</itunes:author>
 				<itunes:subtitle>رادیو دال: علی و آلمان</itunes:subtitle>
 				<itunes:summary>در اولین قسمت با علی همراه میشیم. علی دانشجوی رشته کامپیوتر بوده و الان چند ماهه که برای ادامه تحصیل تو مقطع ارشد به آلمان مهاجرت کرده.</itunes:summary>
 				<itunes:duration>56:43</itunes:duration>
 				<itunes:keywords>مهاجرت, آلمان, تحصیل, پادکست</itunes:keywords>
-				<itunes:image href="https://radioDaal.ir/public/img/itunes.jpg" />
+				<itunes:image href="http://0.0.0.0:4000/public/img/itunes.jpg" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
