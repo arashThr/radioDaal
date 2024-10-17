@@ -32,7 +32,7 @@
 ### Installation
 Use `rbenv` to install latest Ruby 2.X.X version.
 Follow instructions [here](https://jekyllrb.com/docs/installation/macos/) for MacOS.
-```
+```sh
 gem install --user-install bundler jekyll
 bundle install
 ```
