@@ -46,7 +46,7 @@ layout: null
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.summary | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-				<enclosure url="https://op3.dev/e/radiodaal-content.arashtaher.com/{{ post.name | split: '.' | first }}.mp3" length="{{ post.length }}" type="audio/mp3"/>
+				<enclosure url="https://op3.dev/e,pg=5f755896-2724-51d0-adca-70bd8ea4b1f5/radiodaal-content.arashtaher.com/{{ post.name | split: '.' | first }}.mp3" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author.name }}</itunes:author>
 				<itunes:subtitle>{{ site.fa_title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | default: post.excerpt | xml_escape }}</itunes:summary>
