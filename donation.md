@@ -21,7 +21,7 @@ title: حمایت از پادکست
 
 ### PayPal
 
-<a href="https://www.paypal.me/radiodaal" target="_blank"><img src="{{site.baseurl}}/public/img/donation/paypal.jpg" class="small-cover"></a>
+<a href="https://www.paypal.me/arashTaher" target="_blank"><img src="{{site.baseurl}}/public/img/donation/paypal.jpg" class="small-cover"></a>
 
 همچنین به لطف یکی از دوستان کمک به پادکست از طریق [مراجعه به صفحه پادکست در پی‌پل ](https://www.paypal.me/radiodaal) هم امکانپذیره. (به نام محمدرضا برزگران)  
 [paypal.me/radiodaal](https://www.paypal.me/radiodaal)
