@@ -10,8 +10,6 @@ title: حمایت از پادکست
 همچنین در رابطه با اینکه حمایت‌های شما در چه راستایی استفاده خواهند شد در [ادامه کامل](#از-این-حمایتها-چه-استفادهای-خواهد-شد) توضیح داده‌ام.
 ### PayPal
 
-<a href="https://www.paypal.me/arashTaher" target="_blank"><img src="{{site.baseurl}}/public/img/donation/paypal.jpg" class="small-cover"></a>
-
 در صورتی که خارج از ایران هستید و علاقمند به کمک مالی هستید، میتونید از طریق پی‌پل این کار رو انجام بدید. لینک [PayPayl](https://paypal.me/arashTaher).
 
 ### بیت‌کوین و اتریوم
