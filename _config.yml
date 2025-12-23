@@ -9,7 +9,7 @@ fa_title:            'رادیو دال'
 tagline:             'این پادکست یک مرجع نیست، یک تجربه است.'
 description:         'در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.'
 subtitle:            'مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟'
-url:                 https://radioDaal.ir
+url:                 https://radioDaal.arashTaher.com
 baseurl:             ''
 paginate:            5
 lang:                'fa'
@@ -18,12 +18,14 @@ timezone:            "Asia/Tehran"
 
 # About/contact
 author:
-  name:              Arash Thr
-  url:               https://arashTaher.ir
+  name:              Arash Taher
+  url:               https://arashTaher.com
   email:             radioDaalPodcast@gmail.com
 
 # Custom vars
 version:             1.0.0
+
+include: [_redirects]
 
 plugins:
     - jekyll-paginate

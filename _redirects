@@ -1,9 +1,3 @@
----
-layout: default
-title: "Redirect page"
-permalink: _redirects
----
-
 [[redirects]]
   from = "https://radiodaal.ir
   to = "https://radiodaal.arashTaher.com"
